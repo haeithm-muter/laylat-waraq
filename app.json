@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "ليلة ورق",
+    "slug": "laylat-waraq",
+    "scheme": "laylatwaraq",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "primaryColor": "#0B3D2E",
+    "backgroundColor": "#0B3D2E",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.haithmtalib.laylatwaraq",
+      "usesAppleSignIn": true,
+      "infoPlist": {
+        "UIRequiresFullScreen": true
+      }
+    },
+    "android": {
+      "package": "com.haithmtalib.laylatwaraq",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B3D2E",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-web-browser",
+      "expo-apple-authentication",
+      [
+        "expo-screen-orientation",
+        {
+          "initialOrientation": "LANDSCAPE"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 220,
+          "resizeMode": "contain",
+          "backgroundColor": "#0B3D2E"
+        }
+      ]
+    ],
+    "extra": {
+      "router": {}
+    }
+  }
+}
