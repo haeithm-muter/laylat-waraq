@@ -1,0 +1,3282 @@
+[
+  {
+    "id": "history_1",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام انتهت الحرب العالمية الثانية؟",
+    "answer": "1945",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_2",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو أول الخلفاء الراشدين؟",
+    "answer": "أبو بكر الصديق رضي الله عنه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_3",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام بدأت الحرب العالمية الأولى؟",
+    "answer": "1914",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_4",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي سنة هجرية وقعت غزوة بدر الكبرى؟",
+    "answer": "السنة الثانية للهجرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_5",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي عاصمة الدولة الأموية؟",
+    "answer": "دمشق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_6",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو السلطان العثماني الذي فتح القسطنطينية؟",
+    "answer": "محمد الفاتح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_7",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي قارة تقع دولة مصر؟",
+    "answer": "أفريقيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_8",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو مكتشف أمريكا؟",
+    "answer": "كريستوفر كولومبوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_9",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي عاصمة فرنسا؟",
+    "answer": "باريس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_10",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام انتهت الحرب العالمية الأولى؟",
+    "answer": "1918م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_11",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو أطول نهر في العالم؟",
+    "answer": "نهر النيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_12",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من بنى هرم خوفو؟",
+    "answer": "المصريون القدماء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_13",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي عاصمة اليابان؟",
+    "answer": "طوكيو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_14",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام سقط جدار برلين؟",
+    "answer": "1989م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_15",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو أول رئيس للولايات المتحدة الأمريكية؟",
+    "answer": "جورج واشنطن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_16",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي اللغة الرسمية في البرازيل؟",
+    "answer": "البرتغالية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_17",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تأسست هيئة الأمم المتحدة؟",
+    "answer": "1945م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_18",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو الكوكب الأحمر؟",
+    "answer": "المريخ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_19",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو مخترع المصباح الكهربائي؟",
+    "answer": "توماس إديسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_20",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي عاصمة المملكة المتحدة؟",
+    "answer": "لندن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_21",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام بدأت الحرب العالمية الثانية؟",
+    "answer": "1939م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_22",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي أكبر قارة في العالم من حيث المساحة؟",
+    "answer": "آسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_23",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو قائد الثورة الفرنسية الذي أُعدم بالمقصلة؟",
+    "answer": "روبسبير",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_24",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي العملة الرسمية لليابان؟",
+    "answer": "الين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_25",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام اكتُشف البنسلين؟",
+    "answer": "1928م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_26",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم أول قمر صناعي أُطلق للفضاء؟",
+    "answer": "سبوتنيك 1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_27",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو الإمبراطور الذي وحّد الصين لأول مرة؟",
+    "answer": "تشين شي هوانغ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_28",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام وقعت معركة واترلو؟",
+    "answer": "1815م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_29",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي الحضارة التي بنت مدينة ماتشو بيتشو؟",
+    "answer": "حضارة الإنكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_30",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو القائد القرطاجي الذي عبر جبال الألب بفيلته؟",
+    "answer": "حنبعل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_31",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تأسست الدولة العثمانية رسميًا؟",
+    "answer": "1299م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_32",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم المعاهدة التي أنهت الحرب العالمية الأولى؟",
+    "answer": "معاهدة فرساي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_33",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو أول من طاف حول العالم بحرًا؟",
+    "answer": "فرديناند ماجلان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_34",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تم إلغاء العبودية في الولايات المتحدة؟",
+    "answer": "1865م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_35",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي المدينة التي أُسقطت عليها أول قنبلة ذرية؟",
+    "answer": "هيروشيما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_36",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو مؤسس الإمبراطورية المغولية؟",
+    "answer": "جنكيز خان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_37",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام حدثت ثورة أكتوبر في روسيا؟",
+    "answer": "1917م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_38",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم السفينة التي غرقت في رحلتها الأولى عام 1912م؟",
+    "answer": "تيتانيك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_39",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو القائد الذي هزم نابليون في معركة ترافالغار؟",
+    "answer": "الأدميرال نيلسون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_40",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تم توحيد ألمانيا على يد بسمارك؟",
+    "answer": "1871م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_41",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هي الحضارة التي اخترعت الكتابة المسمارية؟",
+    "answer": "الحضارة السومرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_42",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو آخر أباطرة روسيا؟",
+    "answer": "نيقولا الثاني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_43",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام اكتشف كريستوفر كولومبوس أمريكا؟",
+    "answer": "1492م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_44",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم الجدار الذي فصل برلين الشرقية والغربية؟",
+    "answer": "جدار برلين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_45",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو الفيلسوف الذي أُعدم شربًا للسم في أثينا؟",
+    "answer": "سقراط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_46",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تأسست جمهورية الصين الشعبية؟",
+    "answer": "1949م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_47",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام وقعت معركة قادش بين الحثيين والمصريين؟",
+    "answer": "1274 ق.م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_48",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو الإمبراطور البيزنطي الذي أصدر قانون جستنيان؟",
+    "answer": "جستنيان الأول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_49",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم المعاهدة التي قسمت الإمبراطورية الرومانية عام 395م؟",
+    "answer": "معاهدة قسمة الإمبراطورية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_50",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام سقطت مدينة القسطنطينية بيد العثمانيين لأول مرة (محاولة)؟",
+    "answer": "1422م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_51",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو القائد الهوني الذي لُقب بـ\"سوط الله\"؟",
+    "answer": "أتيلا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_52",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام تأسست مدينة بغداد رسميًا على يد المنصور؟",
+    "answer": "762م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_53",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "ما هو اسم أول جامعة في العالم لا تزال تعمل حتى اليوم؟",
+    "answer": "جامعة القرويين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_54",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو الملك الفرعوني الذي وقّع أول معاهدة سلام في التاريخ؟",
+    "answer": "رمسيس الثاني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_55",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي عام حدثت مجاعة أيرلندا الكبرى؟",
+    "answer": "1845م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_56",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "من هو الإمبراطور الروماني الذي جعل المسيحية دينًا رسميًا للإمبراطورية؟",
+    "answer": "ثيودوسيوس الأول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_57",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "كم عدد الخلفاء الراشدين؟",
+    "answer": "أربعة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_58",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو ثاني الخلفاء الراشدين؟",
+    "answer": "عمر بن الخطاب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_59",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو ثالث الخلفاء الراشدين؟",
+    "answer": "عثمان بن عفان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_60",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو رابع الخلفاء الراشدين؟",
+    "answer": "علي بن أبي طالب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_61",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام توفي النبي محمد صلى الله عليه وسلم؟",
+    "answer": "11 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_62",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي جمع القرآن في مصحف واحد في عهد أبي بكر؟",
+    "answer": "زيد بن ثابت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_63",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي الكنية التي لُقب بها عمر بن الخطاب؟",
+    "answer": "الفاروق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_64",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هي زوجة النبي التي كانت بنت أبي بكر الصديق؟",
+    "answer": "عائشة رضي الله عنها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_65",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي مدينة دُفن الخليفة عثمان بن عفان؟",
+    "answer": "المدينة المنورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_66",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي استشهد في معركة اليمامة؟",
+    "answer": "زيد بن الخطاب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_67",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هو لقب عثمان بن عفان؟",
+    "answer": "ذو النورين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_68",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو أول من أسلم من الصبيان؟",
+    "answer": "علي بن أبي طالب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_69",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام بدأت خلافة أبي بكر الصديق؟",
+    "answer": "11 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_70",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو القائد الذي فتح مصر في عهد عمر بن الخطاب؟",
+    "answer": "عمرو بن العاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_71",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي السنة التي تولى فيها علي بن أبي طالب الخلافة؟",
+    "answer": "35 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_72",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي أشار بحفر الخندق في غزوة الأحزاب؟",
+    "answer": "سلمان الفارسي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_73",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "أين بويع أبو بكر الصديق بالخلافة؟",
+    "answer": "سقيفة بني ساعدة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_74",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو كاتب الوحي الرئيسي للنبي صلى الله عليه وسلم؟",
+    "answer": "زيد بن ثابت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_75",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي المدة التي استمرت فيها خلافة أبي بكر الصديق؟",
+    "answer": "سنتان وثلاثة أشهر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_76",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري فتحت مدينة القدس في عهد عمر بن الخطاب؟",
+    "answer": "15 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_77",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي قتل مسيلمة الكذاب في حروب الردة؟",
+    "answer": "وحشي بن حرب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_78",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هو اسم المعركة التي هُزمت فيها الفرس في عهد عمر بن الخطاب؟",
+    "answer": "القادسية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_79",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو والي مصر الذي عزله عثمان بن عفان ثم أعاده؟",
+    "answer": "عبد الله بن سعد بن أبي سرح",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_80",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري استشهد عمر بن الخطاب؟",
+    "answer": "23 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_81",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي ولاه عمر بن الخطاب على الكوفة؟",
+    "answer": "سعد بن أبي وقاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_82",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي السنة التي بدأ فيها تدوين الدواوين في عهد عمر؟",
+    "answer": "20 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_83",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي قاد جيش المسلمين في معركة اليرموك؟",
+    "answer": "خالد بن الوليد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_84",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي مدينة استشهد عثمان بن عفان؟",
+    "answer": "المدينة المنورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_85",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو أول من أذّن في الإسلام؟",
+    "answer": "بلال بن رباح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_86",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي المدة التي استمرت فيها خلافة عثمان بن عفان؟",
+    "answer": "12 سنة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_87",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري وقعت معركة الجمل؟",
+    "answer": "36 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_88",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي جمع الناس على صلاة التراويح في عهد عمر؟",
+    "answer": "أُبي بن كعب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_89",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هو اسم العام الذي أصاب فيه الجدب الشديد في عهد عمر؟",
+    "answer": "عام الرمادة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_90",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي ولاه النبي صلى الله عليه وسلم على مكة بعد الفتح؟",
+    "answer": "عتاب بن أسيد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_91",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري استشهد علي بن أبي طالب؟",
+    "answer": "40 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_92",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي قتل الخليفة عمر بن الخطاب؟",
+    "answer": "أبو لؤلؤة المجوسي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_93",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي المدة التي استمرت فيها خلافة علي بن أبي طالب؟",
+    "answer": "4 سنوات و9 أشهر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_94",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي أصر على قتال مانعي الزكاة في عهد أبي بكر؟",
+    "answer": "أبو بكر الصديق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_95",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هو اسم أول بعثة بحرية إسلامية في عهد عثمان بن عفان؟",
+    "answer": "ذات الصواري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_96",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري وقعت معركة ذات الصواري؟",
+    "answer": "31 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_97",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي ولاه عمر بن الخطاب على الشام؟",
+    "answer": "أبو عبيدة عامر بن الجراح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_98",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هو اسم الكتاب الذي كتبه عمر بن الخطاب لتنظيم شؤون الدولة؟",
+    "answer": "الرسالة العمرية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_99",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي قاتل في صفين مع علي بن أبي طالب وكان قائدًا للميمنة؟",
+    "answer": "مالك الأشتر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_100",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري تم فتح إفريقية (تونس) لأول مرة؟",
+    "answer": "27 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_101",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي ولاه عثمان بن عفان على الكوفة قبل أن يعزله؟",
+    "answer": "أبو موسى الأشعري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_102",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "ما هي السنة التي وسّع فيها عمر بن الخطاب المسجد الحرام؟",
+    "answer": "17 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_103",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "من هو الصحابي الذي بعثه أبو بكر لقتال طليحة الأسدي؟",
+    "answer": "خالد بن الوليد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_104",
+    "category": "history",
+    "subcategory": "الخلفاء الراشدون",
+    "question": "في أي عام هجري وقعت معركة النهروان (معركة الخوارج)؟",
+    "answer": "38 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_105",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو مؤسس الدولة الأموية؟",
+    "answer": "معاوية بن أبي سفيان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_106",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "كم استمرت الدولة الأموية تقريبًا؟",
+    "answer": "91 سنة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_107",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي بنى قبة الصخرة؟",
+    "answer": "عبد الملك بن مروان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_108",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي بنى المسجد الأموي في دمشق؟",
+    "answer": "الوليد بن عبد الملك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_109",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام سقطت الدولة الأموية على يد العباسيين؟",
+    "answer": "132 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_110",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي فتح الأندلس في عهد الوليد بن عبد الملك؟",
+    "answer": "طارق بن زياد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_111",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي المعركة التي أنهت الحكم الأموي في المشرق؟",
+    "answer": "معركة الزاب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_112",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو آخر الخلفاء الأمويين في المشرق؟",
+    "answer": "مروان بن محمد (مروان الحمار)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_113",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي عُرف بـ\"خامس الخلفاء الراشدين\"؟",
+    "answer": "عمر بن عبد العزيز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_114",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام فتح طارق بن زياد الأندلس؟",
+    "answer": "92 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_115",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي قاد الفتح الإسلامي لما وراء النهر؟",
+    "answer": "قتيبة بن مسلم",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_116",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم جبل الأمازيغ الذي نزل عنده طارق بن زياد؟",
+    "answer": "جبل طارق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_117",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي نقل العاصمة من الكوفة إلى دمشق؟",
+    "answer": "معاوية بن أبي سفيان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_118",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام تأسست الدولة الأموية رسميًا؟",
+    "answer": "41 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_119",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الصحابي الذي بايع الحسن بن علي لمعاوية؟",
+    "answer": "الحسن بن علي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_120",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي اللغة التي عُرِّبت بها الدواوين في عهد عبد الملك بن مروان؟",
+    "answer": "العربية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_121",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي فتح السند؟",
+    "answer": "محمد بن القاسم الثقفي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_122",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري توفي معاوية بن أبي سفيان؟",
+    "answer": "60 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_123",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي حكم أطول فترة؟",
+    "answer": "هشام بن عبد الملك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_124",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم المعركة التي انتصر فيها المسلمون على البيزنطيين في عهد يزيد بن معاوية؟",
+    "answer": "معركة عمورية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_125",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الأموي الذي حاصر القسطنطينية؟",
+    "answer": "مسلمة بن عبد الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_126",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري وقعت معركة بلاط الشهداء في الأندلس؟",
+    "answer": "114 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_127",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي اشتهر بزهده وعدله؟",
+    "answer": "عمر بن عبد العزيز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_128",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي المدة التي استمرت فيها خلافة عمر بن عبد العزيز؟",
+    "answer": "سنتان وخمسة أشهر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_129",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي هزم الخزر في عهد هشام بن عبد الملك؟",
+    "answer": "مسلمة بن عبد الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_130",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري تولى عمر بن عبد العزيز الخلافة؟",
+    "answer": "99 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_131",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي واجه ثورة ابن الأشعث؟",
+    "answer": "عبد الملك بن مروان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_132",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم الثورة التي اندلعت ضد الأمويين في خراسان؟",
+    "answer": "ثورة أبي مسلم الخراساني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_133",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي بنى مدينة الرصافة في الشام؟",
+    "answer": "هشام بن عبد الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_134",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري وقعت معركة مرج راهط؟",
+    "answer": "64 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_135",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي قُتل في معركة الزاب؟",
+    "answer": "مروان بن محمد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_136",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي القبيلة التي ينتمي إليها بنو أمية؟",
+    "answer": "قريش (بنو عبد شمس)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_137",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو والي الأندلس الذي أمر ببناء جامع قرطبة؟",
+    "answer": "عبد الرحمن الداخل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_138",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري توفي عبد الملك بن مروان؟",
+    "answer": "86 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_139",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الشاعر الذي هجا الخلفاء الأمويين واشتهر بلقب \"الأخطل\"؟",
+    "answer": "الأخطل التغلبي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_140",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم النظام المالي الذي أدخله عبد الملك بن مروان؟",
+    "answer": "ضرب الدينار الإسلامي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_141",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الذي فتح طبرستان في عهد الوليد بن عبد الملك؟",
+    "answer": "يزيد بن المهلب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_142",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري بدأت خلافة الوليد بن عبد الملك؟",
+    "answer": "86 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_143",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم المعركة التي دارت بين عبد الله بن الزبير والأمويين؟",
+    "answer": "معركة الحرة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_144",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري وقعت معركة الحرة؟",
+    "answer": "63 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_145",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو القائد الأموي الذي قاد حصار مكة في عهد يزيد بن معاوية؟",
+    "answer": "حصين بن نمير",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_146",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هو اسم العملة الذهبية التي أصدرها عبد الملك بن مروان؟",
+    "answer": "الدينار الأموي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_147",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي نقل ديوان الخراج من الفارسية إلى العربية؟",
+    "answer": "عبد الملك بن مروان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_148",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري توفي الحجاج بن يوسف الثقفي؟",
+    "answer": "95 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_149",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو والي إفريقية الذي قاد فتح الأندلس؟",
+    "answer": "موسى بن نصير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_150",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "ما هي السنة التي تم فيها تعريب الدواوين تمامًا في الشام؟",
+    "answer": "80 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_151",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "من هو الخليفة الأموي الذي بنى قصر الحير الغربي؟",
+    "answer": "هشام بن عبد الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_152",
+    "category": "history",
+    "subcategory": "الدولة الأموية",
+    "question": "في أي عام هجري وقعت معركة مرج الصفر؟",
+    "answer": "70 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_153",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو مؤسس الدولة العباسية؟",
+    "answer": "أبو العباس السفاح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_154",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هي عاصمة الدولة العباسية الأولى؟",
+    "answer": "الكوفة ثم بغداد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_155",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي بنى مدينة بغداد؟",
+    "answer": "أبو جعفر المنصور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_156",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام سقطت بغداد على يد المغول؟",
+    "answer": "1258م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_157",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو القائد المغولي الذي دمر بغداد؟",
+    "answer": "هولاكو خان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_158",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو العصر الذهبي للدولة العباسية؟",
+    "answer": "عصر هارون الرشيد والمأمون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_159",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي أسس بيت الحكمة؟",
+    "answer": "هارون الرشيد (وطوّره المأمون)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_160",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري تأسست الدولة العباسية؟",
+    "answer": "132 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_161",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي نقل العاصمة إلى سامراء؟",
+    "answer": "المعتصم بالله",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_162",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هي المعركة التي أسست للدولة العباسية؟",
+    "answer": "معركة الزاب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_163",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو آخر الخلفاء العباسيين في بغداد؟",
+    "answer": "المستعصم بالله",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_164",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري انتقلت الخلافة العباسية إلى القاهرة؟",
+    "answer": "656 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_165",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي المعروف بـ\"المأمون\"؟",
+    "answer": "عبد الله المأمون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_166",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هي اللغة التي كانت لغة العلم في العصر العباسي؟",
+    "answer": "العربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_167",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي قضى على بقايا الخوارج؟",
+    "answer": "المهدي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_168",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري توفي هارون الرشيد؟",
+    "answer": "193 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_169",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الوزير الشهير في عهد هارون الرشيد؟",
+    "answer": "يحيى البرمكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_170",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم الكتاب الذي ترجم فيه حنين بن إسحاق العديد من الأعمال؟",
+    "answer": "كتب الطب والفلسفة اليونانية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_171",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي عاصر فتنة خلق القرآن؟",
+    "answer": "المأمون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_172",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري سقطت الدولة العباسية في بغداد؟",
+    "answer": "656 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_173",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي انتصر في معركة عمورية؟",
+    "answer": "المعتصم بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_174",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم الثورة التي قادها بابك ضد العباسيين؟",
+    "answer": "ثورة بابك الخرمي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_175",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري تأسست مدينة سامراء؟",
+    "answer": "221 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_176",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي أعاد الخلافة إلى بغداد بعد سامراء؟",
+    "answer": "المعتضد بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_177",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هي الطائفة التي أسست الدولة الفاطمية المنافسة للعباسيين؟",
+    "answer": "الإسماعيلية الشيعية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_178",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو القائد التركي الذي سيطر على الجيش العباسي في عهد المعتصم؟",
+    "answer": "أشناس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_179",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري وقعت معركة عمورية؟",
+    "answer": "223 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_180",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي لُقب بـ\"المستظهر بالله\"؟",
+    "answer": "أحمد المستظهر بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_181",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم الوزير السلجوقي الذي سيطر على بغداد في عهد المقتدي؟",
+    "answer": "نظام الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_182",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي عاصر صلاح الدين الأيوبي؟",
+    "answer": "الناصر لدين الله",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_183",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري تولى هارون الرشيد الخلافة؟",
+    "answer": "170 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_184",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو العالم الذي ألف كتاب \"القانون في الطب\" في العصر العباسي؟",
+    "answer": "ابن سينا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_185",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هي المدينة التي بناها المعتصم لتكون عاصمة جديدة؟",
+    "answer": "سامراء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_186",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي واجه ثورة الزنج؟",
+    "answer": "المعتضد بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_187",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري بدأت ثورة الزنج؟",
+    "answer": "255 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_188",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي استعان بالسلاجقة لطرد البويهيين؟",
+    "answer": "القائم بأمر الله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_189",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم العصر الذي شهد ازدهار الترجمة في بغداد؟",
+    "answer": "عصر الترجمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_190",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي قُتل على يد ابنه؟",
+    "answer": "المتوكل على الله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_191",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري توفي المأمون؟",
+    "answer": "218 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_192",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي لُقب بـ\"أبو جعفر المنصور\"؟",
+    "answer": "عبد الله المنصور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_193",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم المعركة التي هزم فيها العباسيون الخوارج الإباضية؟",
+    "answer": "معركة باجمرا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_194",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري وقعت معركة باجمرا؟",
+    "answer": "135 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_195",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي أسس مدينة الرافقة؟",
+    "answer": "أبو جعفر المنصور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_196",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم الحركة الدينية التي ثارت ضد العباسيين في أذربيجان؟",
+    "answer": "حركة الحورية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_197",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي واجه ثورة القرامطة في البصرة؟",
+    "answer": "المعتمد على الله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_198",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري دخل القرامطة الكوفة؟",
+    "answer": "293 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_199",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي وقع تحت سيطرة البويهيين تمامًا؟",
+    "answer": "المستكفي بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_200",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "ما هو اسم الوزير البويهي الذي لُقب بـ\"عضد الدولة\"؟",
+    "answer": "فناخسرو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_201",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "من هو الخليفة العباسي الذي حاول استعادة السلطة من السلاجقة؟",
+    "answer": "المستظهر بالله",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_202",
+    "category": "history",
+    "subcategory": "الدولة العباسية",
+    "question": "في أي عام هجري وقعت معركة ملاذكرد التي مهدت لسيطرة السلاجقة؟",
+    "answer": "463 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_203",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي الدولة التي فتحها عمرو بن العاص؟",
+    "answer": "مصر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_204",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح الأندلس؟",
+    "answer": "طارق بن زياد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_205",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت مكة؟",
+    "answer": "8 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_206",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح دمشق؟",
+    "answer": "خالد بن الوليد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_207",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المعركة التي فُتحت بها بلاد الشام؟",
+    "answer": "معركة اليرموك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_208",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح العراق؟",
+    "answer": "خالد بن الوليد وسعد بن أبي وقاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_209",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت القدس؟",
+    "answer": "15 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_210",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح فارس؟",
+    "answer": "سعد بن أبي وقاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_211",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي الدولة التي فتحها عقبة بن نافع؟",
+    "answer": "شمال أفريقيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_212",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح السند؟",
+    "answer": "محمد بن القاسم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_213",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت مصر؟",
+    "answer": "20 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_214",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي بنى مدينة القيروان؟",
+    "answer": "عقبة بن نافع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_215",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المدينة التي فُتحت في عهد أبي بكر الصديق؟",
+    "answer": "الحيرة والأنبار",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_216",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح أرمينيا؟",
+    "answer": "سراقة بن عمرو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_217",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت الأندلس؟",
+    "answer": "92 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_218",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح قبرص؟",
+    "answer": "معاوية بن أبي سفيان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_219",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المعركة التي أنهت حكم الفرس الساسانيين؟",
+    "answer": "معركة القادسية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_220",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح طبرستان؟",
+    "answer": "سعيد بن العاص",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_221",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت بلاد ما وراء النهر؟",
+    "answer": "90 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_222",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح أفريقية (تونس)؟",
+    "answer": "عبد الله بن سعد بن أبي سرح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_223",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هو اسم المعركة التي فُتحت فيها مصر؟",
+    "answer": "معركة عين شمس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_224",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري وقعت معركة اليرموك؟",
+    "answer": "15 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_225",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح مدينة حلب؟",
+    "answer": "أبو عبيدة عامر بن الجراح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_226",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المدينة التي استسلمت صلحًا في عهد عمر بن الخطاب؟",
+    "answer": "القدس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_227",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح الموصل؟",
+    "answer": "عتبة بن فرقد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_228",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت الإسكندرية؟",
+    "answer": "21 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_229",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هو اسم المعركة التي هُزم فيها الفرس نهائيًا؟",
+    "answer": "معركة نهاوند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_230",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح كابول؟",
+    "answer": "عبد الرحمن بن سمرة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_231",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري وقعت معركة القادسية؟",
+    "answer": "15 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_232",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح طرابلس الغرب؟",
+    "answer": "عقبة بن نافع",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_233",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المدينة التي فُتحت في عهد عثمان بن عفان؟",
+    "answer": "قبرص",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_234",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح أصفهان؟",
+    "answer": "أبو موسى الأشعري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_235",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت سجستان؟",
+    "answer": "30 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_236",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هو اسم القائد الذي فتح سرقسطة في الأندلس؟",
+    "answer": "موسى بن نصير",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_237",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح بلنسية؟",
+    "answer": "عبد العزيز بن موسى",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_238",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت أرمينية؟",
+    "answer": "22 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_239",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي المعركة التي فتح فيها خالد بن الوليد الحيرة؟",
+    "answer": "معركة الحيرة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_240",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح هراة؟",
+    "answer": "الأحنف بن قيس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_241",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت كرمان؟",
+    "answer": "21 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_242",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح بخارى؟",
+    "answer": "قتيبة بن مسلم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_243",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هو اسم المعركة التي دارت في بحر المتوسط بين المسلمين والبيزنطيين؟",
+    "answer": "ذات الصواري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_244",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري وقعت معركة ذات الصواري؟",
+    "answer": "31 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_245",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح مدينة طليطلة؟",
+    "answer": "طارق بن زياد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_246",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هي السنة التي تم فيها فتح بلاد السند رسميًا؟",
+    "answer": "93 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_247",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح مدينة بلخ؟",
+    "answer": "الأحنف بن قيس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_248",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت مدينة سمرقند؟",
+    "answer": "93 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_249",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "ما هو اسم القائد الذي فتح مدينة قيسارية في فلسطين؟",
+    "answer": "معاوية بن أبي سفيان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_250",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح مدينة أنطاكية؟",
+    "answer": "أبو عبيدة عامر بن الجراح",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_251",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "في أي عام هجري فُتحت مدينة طبرية؟",
+    "answer": "13 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_252",
+    "category": "history",
+    "subcategory": "الفتوحات الإسلامية",
+    "question": "من هو القائد الذي فتح مدينة همدان؟",
+    "answer": "عبد الله بن بديل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_253",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي أول غزوة في الإسلام؟",
+    "answer": "غزوة الأبواء (ودان)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_254",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي سميت بـ\"يوم الفرقان\"؟",
+    "answer": "غزوة بدر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_255",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة أحد؟",
+    "answer": "3 هـ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_256",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي حفر فيها المسلمون الخندق؟",
+    "answer": "غزوة الخندق (الأحزاب)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_257",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة الخندق؟",
+    "answer": "5 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_258",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي فُتحت فيها مكة؟",
+    "answer": "فتح مكة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_259",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري تم فتح مكة؟",
+    "answer": "8 هـ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_260",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها آية الحجاب؟",
+    "answer": "غزوة بني المصطلق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_261",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة تبوك؟",
+    "answer": "9 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_262",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي استشهد فيها حمزة بن عبد المطلب؟",
+    "answer": "غزوة أحد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_263",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو قائد المشركين في غزوة بدر؟",
+    "answer": "أبو جهل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_264",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي تم فيها صلح الحديبية؟",
+    "answer": "صلح الحديبية (تُعتبر غزوة)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_265",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقع صلح الحديبية؟",
+    "answer": "6 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_266",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها سورة الأنفال؟",
+    "answer": "غزوة بدر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_267",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي قتل أُبي بن خلف في غزوة أحد؟",
+    "answer": "النبي محمد صلى الله عليه وسلم",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_268",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة المشهورة بعد الفتح والتي جهز لها النبي جيشًا كبيرًا؟",
+    "answer": "غزوة تبوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_269",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة حنين؟",
+    "answer": "8 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_270",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي حاصر فيها المسلمون الطائف؟",
+    "answer": "غزوة الطائف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_271",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة الطائف؟",
+    "answer": "8 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_272",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي تخلف فيها كعب بن مالك عن النبي؟",
+    "answer": "غزوة تبوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_273",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة بني قينقاع؟",
+    "answer": "2 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_274",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي أُجليت فيها يهود بني النضير؟",
+    "answer": "غزوة بني النضير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_275",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة بني النضير؟",
+    "answer": "4 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_276",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي استشهد فيها مصعب بن عمير؟",
+    "answer": "غزوة أحد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_277",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي حمل لواء المهاجرين في غزوة بدر؟",
+    "answer": "مصعب بن عمير",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_278",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها آية التيمم؟",
+    "answer": "غزوة بني المصطلق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_279",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة دومة الجندل؟",
+    "answer": "5 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_280",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي قال فيها النبي: \"من كان له ظهير فليعده\"؟",
+    "answer": "غزوة تبوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_281",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هم الصحابة الذين استشهدوا في غزوة مؤتة؟",
+    "answer": "زيد بن حارثة، جعفر بن أبي طالب، عبد الله بن رواحة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_282",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة مؤتة؟",
+    "answer": "8 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_283",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها سورة الفتح؟",
+    "answer": "صلح الحديبية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_284",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو قائد المسلمين في غزوة مؤتة؟",
+    "answer": "زيد بن حارثة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_285",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي تم فيها إعدام كعب بن الأشرف؟",
+    "answer": "سرية محمد بن مسلمة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_286",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة بني قريظة؟",
+    "answer": "5 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_287",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها سورة الأحزاب؟",
+    "answer": "غزوة الخندق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_288",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي رمى أبا سفيان في غزوة بدر؟",
+    "answer": "سعد بن أبي وقاص",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_289",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي أُسرت فيها جويرية بنت الحارث؟",
+    "answer": "غزوة بني المصطلق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_290",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة خيبر؟",
+    "answer": "7 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_291",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي أعطاه النبي الراية في غزوة خيبر؟",
+    "answer": "علي بن أبي طالب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_292",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة الأبواء؟",
+    "answer": "2 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_293",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها آية: \"إذ يوحي ربك إلى الملائكة أني معكم\"؟",
+    "answer": "غزوة بدر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_294",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي قتل النضر بن الحارث في غزوة بدر؟",
+    "answer": "علي بن أبي طالب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_295",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي تم فيها تحريم الخمر؟",
+    "answer": "غزوة بني المصطلق (أو خيبر)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_296",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة ذات الرقاع؟",
+    "answer": "4 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_297",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي نزلت فيها سورة الممتحنة؟",
+    "answer": "غزوة الحديبية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_298",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "من هو الصحابي الذي استشهد في غزوة بئر معونة؟",
+    "answer": "المنذر بن عمرو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_299",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "في أي عام هجري وقعت غزوة بئر معونة؟",
+    "answer": "4 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_300",
+    "category": "history",
+    "subcategory": "الغزوات",
+    "question": "ما هي الغزوة التي قال فيها النبي: \"اليوم نغزوهم ولا يغزونا\"؟",
+    "answer": "غزوة خيبر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_301",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي انتصر فيها المسلمون على الفرس؟",
+    "answer": "معركة القادسية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_302",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي انتصر فيها المسلمون على الروم في الشام؟",
+    "answer": "معركة اليرموك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_303",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة اليرموك؟",
+    "answer": "15 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_304",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هُزم فيها الفرس نهائيًا؟",
+    "answer": "معركة نهاوند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_305",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة نهاوند؟",
+    "answer": "21 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_306",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي أوقفت تقدم المغول في عين جالوت؟",
+    "answer": "معركة عين جالوت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_307",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة عين جالوت؟",
+    "answer": "1260م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_308",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي انتصر فيها صلاح الدين على الصليبيين؟",
+    "answer": "معركة حطين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_309",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة حطين؟",
+    "answer": "1187م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_310",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها العثمانيون الصليبيين في نيقوبوليس؟",
+    "answer": "معركة نيقوبوليس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_311",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة نيقوبوليس؟",
+    "answer": "1396م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_312",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي فُتحت فيها القسطنطينية؟",
+    "answer": "فتح القسطنطينية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_313",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي فُتحت القسطنطينية؟",
+    "answer": "1453م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_314",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها العثمانيون المماليك؟",
+    "answer": "معركة مرج دابق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_315",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة مرج دابق؟",
+    "answer": "1516م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_316",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة عين جالوت؟",
+    "answer": "سيف الدين قطز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_317",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة حطين؟",
+    "answer": "صلاح الدين الأيوبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_318",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي عُرفت بـ\"فتح الفتوح\"؟",
+    "answer": "معركة نهاوند",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_319",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة القادسية؟",
+    "answer": "سعد بن أبي وقاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_320",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة اليرموك؟",
+    "answer": "خالد بن الوليد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_321",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي دارت بين المسلمين والروم في عهد أبي بكر؟",
+    "answer": "معركة أجنادين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_322",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة أجنادين؟",
+    "answer": "13 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_323",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة نهاوند؟",
+    "answer": "النعمان بن مقرن",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_324",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المغولي في معركة عين جالوت؟",
+    "answer": "كتبغا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_325",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد الصليبي في معركة حطين؟",
+    "answer": "غي دي لوزينيان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_326",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها العثمانيون الصفويين؟",
+    "answer": "معركة جالديران",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_327",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة جالديران؟",
+    "answer": "1514م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_328",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها العثمانيون النمساويين؟",
+    "answer": "معركة موهاكس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_329",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة موهاكس؟",
+    "answer": "1526م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_330",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي انتصر فيها المسلمون على الصليبيين في الأندلس؟",
+    "answer": "معركة الأرك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_331",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة الأرك؟",
+    "answer": "1195م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_332",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها المسلمون الصليبيين في المنصورة؟",
+    "answer": "معركة المنصورة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_333",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام ميلادي وقعت معركة المنصورة؟",
+    "answer": "1250م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_334",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة المنصورة؟",
+    "answer": "فخر الدين بن شيخ الشيوخ، ثم عز الدين أيبك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_335",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي فُتحت فيها الأندلس؟",
+    "answer": "معركة وادي بكة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_336",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة الجسر؟",
+    "answer": "13 هـ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_337",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "من هو القائد المسلم في معركة الجسر؟",
+    "answer": "أبو عبيد الثقفي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_338",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها المسلمون الخوارج؟",
+    "answer": "معركة النهروان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_339",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة النهروان؟",
+    "answer": "38 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_340",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي دارت بين علي بن أبي طالب ومعاوية؟",
+    "answer": "معركة صفين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_341",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة صفين؟",
+    "answer": "37 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_342",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي دارت بين علي بن أبي طالب وطلحة والزبير؟",
+    "answer": "معركة الجمل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_343",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "في أي عام هجري وقعت معركة الجمل؟",
+    "answer": "36 هـ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_344",
+    "category": "history",
+    "subcategory": "المعارك الكبرى",
+    "question": "ما هي المعركة التي هزم فيها العثمانيون البندقية؟",
+    "answer": "معركة بريزة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_345",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو مؤسس علم الجبر؟",
+    "answer": "الخوارزمي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_346",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم الكتاب الشهير لابن سينا؟",
+    "answer": "القانون في الطب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_347",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو مؤلف كتاب \"مقدمة ابن خلدون\"؟",
+    "answer": "ابن خلدون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_348",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي كانت مركز الحضارة الإسلامية في الأندلس؟",
+    "answer": "قرطبة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_349",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي اكتشف الدورة الدموية الصغرى؟",
+    "answer": "ابن النفيس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_350",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم الجامع الكبير في قرطبة؟",
+    "answer": "مسجد قرطبة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_351",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الجبر والمقابلة\"؟",
+    "answer": "الخوارزمي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_352",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي أسسها المعز لدين الله الفاطمي؟",
+    "answer": "القاهرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_353",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي اخترع الأسطرلاب؟",
+    "answer": "الفزاري (طوّره لاحقًا آخرون)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_354",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم المدرسة النظامية في بغداد؟",
+    "answer": "المدرسة النظامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_355",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو مؤلف كتاب \"الألفية\" في النحو؟",
+    "answer": "ابن مالك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_356",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي بناها المنصور لتكون عاصمة؟",
+    "answer": "بغداد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_357",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي درس الضوء والبصريات؟",
+    "answer": "ابن الهيثم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_358",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم كتاب ابن الهيثم الشهير؟",
+    "answer": "المناظر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_359",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الشفاء\"؟",
+    "answer": "ابن سينا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_360",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي الحضارة التي تأثرت بها الحضارة الإسلامية في البداية؟",
+    "answer": "الحضارة الفارسية والبيزنطية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_361",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي درس الجاذبية قبل نيوتن؟",
+    "answer": "الخازني (أو البيروني)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_362",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم أول مستشفى في الإسلام؟",
+    "answer": "بيمارستان الوليد بن عبد الملك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_363",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الحدائق\" في الفلك؟",
+    "answer": "البيروني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_364",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي اللغة التي كُتبت بها معظم إنجازات الحضارة الإسلامية؟",
+    "answer": "العربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_365",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي أسس علم الاجتماع؟",
+    "answer": "ابن خلدون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_366",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم كتاب ابن خلدون الشهير؟",
+    "answer": "المقدمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_367",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"المنجد\"؟",
+    "answer": "الفيروزآبادي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_368",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة الورق في الأندلس؟",
+    "answer": "شاطبة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_369",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الصيدلة\"؟",
+    "answer": "الرازي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_370",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم كتاب الرازي الشهير في الطب؟",
+    "answer": "الحاوي في الطب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_371",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الجغرافيا\"؟",
+    "answer": "الإدريسي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_372",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم خريطة الإدريسي الشهيرة؟",
+    "answer": "اللوح الإدريسي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_373",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الكامل في التاريخ\"؟",
+    "answer": "ابن الأثير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_374",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة الزجاج في الحضارة الإسلامية؟",
+    "answer": "دمشق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_375",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الشفاء\" في الفلسفة؟",
+    "answer": "ابن سينا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_376",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم أول جامعة في العالم الإسلامي؟",
+    "answer": "جامعة القرويين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_377",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الآثار الباقية\"؟",
+    "answer": "البيروني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_378",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة السجاد في الحضارة الإسلامية؟",
+    "answer": "تبريز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_379",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الحيوان\"؟",
+    "answer": "الجاحظ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_380",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم كتاب الجاحظ الشهير؟",
+    "answer": "الحيوان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_381",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"البخلاء\"؟",
+    "answer": "الجاحظ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_382",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة الخزف في الحضارة الإسلامية؟",
+    "answer": "بغداد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_383",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي ألف كتاب \"الشفاء\" في الطب؟",
+    "answer": "ابن سينا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_384",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم أول مرصد فلكي في الإسلام؟",
+    "answer": "مرصد مراغة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_385",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "من هو العالم المسلم الذي صحح خطأ بطليموس في حساب محيط الأرض؟",
+    "answer": "البيروني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_386",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم كتاب الخوارزمي في الجغرافيا؟",
+    "answer": "صورة الأرض",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_387",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة الورق أولًا في العالم الإسلامي؟",
+    "answer": "سمرقند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_388",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم أول مستشفى تعليمي في الإسلام؟",
+    "answer": "بيمارستان العضدي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_389",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هي المدينة التي اشتهرت بصناعة النسيج في الحضارة الإسلامية؟",
+    "answer": "دمشق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_390",
+    "category": "history",
+    "subcategory": "الحضارة الإسلامية",
+    "question": "ما هو اسم أول مكتبة عامة في الإسلام؟",
+    "answer": "مكتبة بيت الحكمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_391",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة أُعلن استقلال الولايات المتحدة؟",
+    "answer": "1776م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_extra_392",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة اندلعت الثورة الفرنسية؟",
+    "answer": "1789م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_extra_393",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة سقطت القسطنطينية بيد العثمانيين؟",
+    "answer": "1453م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_394",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة وصل فاسكو دا غاما إلى الهند؟",
+    "answer": "1498م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_395",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة تأسست شركة الهند الشرقية البريطانية؟",
+    "answer": "1600م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_396",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة بدأت الحرب الأهلية الأمريكية؟",
+    "answer": "1861م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_397",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة اغتيل أبراهام لينكولن؟",
+    "answer": "1865م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_398",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة افتُتحت قناة السويس؟",
+    "answer": "1869م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_399",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة تأسست عصبة الأمم؟",
+    "answer": "1920م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_400",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة أصبحت تركيا جمهورية؟",
+    "answer": "1923م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_401",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة أصبح هتلر مستشاراً لألمانيا؟",
+    "answer": "1933م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_402",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة اندلعت الحرب الأهلية الإسبانية؟",
+    "answer": "1936م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_403",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة أُلقيت القنبلة الذرية على هيروشيما؟",
+    "answer": "1945م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_extra_404",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة انتهت الإمبراطورية الصينية؟",
+    "answer": "1912م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_405",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة تأسست دولة إسرائيل؟",
+    "answer": "1948م",
+    "difficulty": "easy"
+  },
+  {
+    "id": "history_extra_406",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة تأسست الجمهورية الإيطالية الحديثة؟",
+    "answer": "1946م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_407",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة وقعت معركة ماراثون؟",
+    "answer": "490 ق.م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_408",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة أُقيمت أول دورة أولمبية؟",
+    "answer": "776 ق.م",
+    "difficulty": "medium"
+  },
+  {
+    "id": "history_extra_409",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة فُتحت قناة بنما؟",
+    "answer": "1914م",
+    "difficulty": "hard"
+  },
+  {
+    "id": "history_extra_410",
+    "category": "history",
+    "subcategory": "تاريخ عام",
+    "question": "في أي سنة سقطت الإمبراطورية الرومانية الغربية؟",
+    "answer": "476م",
+    "difficulty": "medium"
+  }
+]

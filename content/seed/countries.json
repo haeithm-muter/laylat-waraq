@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "countries_1",
+    "category": "countries",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة فرنسا؟",
+    "answer": "باريس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_2",
+    "category": "countries",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "answer": "أبوظبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_3",
+    "category": "countries",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الأردن؟",
+    "answer": "عمّان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_4",
+    "category": "countries",
+    "subcategory": "معلومات عامة",
+    "question": "ما هي أكبر دولة في العالم من حيث المساحة؟",
+    "answer": "روسيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_5",
+    "category": "countries",
+    "subcategory": "معلومات عامة",
+    "question": "ما هي عملة اليابان؟",
+    "answer": "الين الياباني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_6",
+    "category": "countries",
+    "subcategory": "أعلام",
+    "question": "كم عدد النجوم في علم الولايات المتحدة الأمريكية؟",
+    "answer": "50 نجمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_7",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة الصين؟",
+    "answer": "بكين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_8",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة اليابان؟",
+    "answer": "طوكيو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_9",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة كوريا الجنوبية؟",
+    "answer": "سيول",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_10",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة كوريا الشمالية؟",
+    "answer": "بيونغ يانغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_11",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة الهند؟",
+    "answer": "نيودلهي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_12",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة باكستان؟",
+    "answer": "إسلام أباد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_13",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة تايلاند؟",
+    "answer": "بانكوك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_14",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة إندونيسيا؟",
+    "answer": "جاكرتا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_15",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة الفلبين؟",
+    "answer": "مانيلا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_16",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة ماليزيا؟",
+    "answer": "كوالالمبور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_17",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة سنغافورة؟",
+    "answer": "سنغافورة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_18",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة المملكة العربية السعودية؟",
+    "answer": "الرياض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_19",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة العراق؟",
+    "answer": "بغداد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_20",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة سوريا؟",
+    "answer": "دمشق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_21",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة لبنان؟",
+    "answer": "بيروت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_22",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة تركيا؟",
+    "answer": "أنقرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_23",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة إيران؟",
+    "answer": "طهران",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_24",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة اليمن؟",
+    "answer": "صنعاء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_25",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة الكويت؟",
+    "answer": "مدينة الكويت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_26",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة قطر؟",
+    "answer": "الدوحة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_27",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة عُمان؟",
+    "answer": "مسقط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_28",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة البحرين؟",
+    "answer": "المنامة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_29",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة فيتنام؟",
+    "answer": "هانوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_30",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة منغوليا؟",
+    "answer": "أولان باتور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_31",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة كازاخستان؟",
+    "answer": "أستانا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_32",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة أفغانستان؟",
+    "answer": "كابل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_33",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة نيبال؟",
+    "answer": "كاتماندو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_34",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة ميانمار؟",
+    "answer": "نايبيداو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_35",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة بنغلاديش؟",
+    "answer": "دكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_36",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة كمبوديا؟",
+    "answer": "بنوم بنه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_37",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة لاوس؟",
+    "answer": "فينتيان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_38",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي اللغة الرسمية في الصين؟",
+    "answer": "الصينية (الماندرين)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_39",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عملة الصين؟",
+    "answer": "اليوان الصيني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_40",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عملة كوريا الجنوبية؟",
+    "answer": "الوون الكوري الجنوبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_41",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هو أعلى جبل في العالم، ويقع على الحدود بين نيبال والصين؟",
+    "answer": "إيفرست",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_42",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي العملة الرسمية للهند؟",
+    "answer": "الروبية الهندية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_43",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي العملة الرسمية لتركيا؟",
+    "answer": "الليرة التركية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_44",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي اللغة الرسمية لليابان؟",
+    "answer": "اليابانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_45",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هو الاسم القديم لتايلاند قبل عام 1939؟",
+    "answer": "سيام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_46",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي أكبر مدينة في الصين من حيث عدد السكان؟",
+    "answer": "شنغهاي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_47",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي الدولة الوحيدة في جنوب شرق آسيا التي لم تُستعمر من قبل قوة أوروبية؟",
+    "answer": "تايلاند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_48",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "كم عدد الدول التي تحدّ الصين؟",
+    "answer": "14 دولة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_49",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي أصغر دولة في قارة آسيا من حيث المساحة؟",
+    "answer": "جزر المالديف",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_50",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "في أي دولة يقع معلم تاج محل؟",
+    "answer": "الهند",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_51",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة قيرغيزستان؟",
+    "answer": "بيشكك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_52",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة طاجيكستان؟",
+    "answer": "دوشنبه",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_53",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة تركمانستان؟",
+    "answer": "عشق آباد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_54",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة أوزبكستان؟",
+    "answer": "طشقند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_55",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة أذربيجان؟",
+    "answer": "باكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_56",
+    "category": "countries",
+    "subcategory": "آسيا",
+    "question": "ما هي عاصمة أرمينيا؟",
+    "answer": "يريفان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_57",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة مصر؟",
+    "answer": "القاهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_58",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة ليبيا؟",
+    "answer": "طرابلس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_59",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة تونس؟",
+    "answer": "تونس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_60",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة الجزائر؟",
+    "answer": "الجزائر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_61",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة المغرب؟",
+    "answer": "الرباط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_62",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة السودان؟",
+    "answer": "الخرطوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_63",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة إثيوبيا؟",
+    "answer": "أديس أبابا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_64",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة كينيا؟",
+    "answer": "نيروبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_65",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة تنزانيا الرسمية؟",
+    "answer": "دودوما",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_66",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة نيجيريا؟",
+    "answer": "أبوجا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_67",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة غانا؟",
+    "answer": "أكرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_68",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة السنغال؟",
+    "answer": "داكار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_69",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة جمهورية الكونغو الديمقراطية؟",
+    "answer": "كينشاسا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_70",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة زيمبابوي؟",
+    "answer": "هراري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_71",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي العاصمة الإدارية لجنوب أفريقيا؟",
+    "answer": "بريتوريا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_72",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة ناميبيا؟",
+    "answer": "ويندهوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_73",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة مدغشقر؟",
+    "answer": "أنتاناناريفو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_74",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة الصومال؟",
+    "answer": "مقديشو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_75",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة جيبوتي؟",
+    "answer": "جيبوتي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_76",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة تشاد؟",
+    "answer": "إنجامينا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_77",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة موريتانيا؟",
+    "answer": "نواكشوط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_78",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة أوغندا؟",
+    "answer": "كمبالا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_79",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة رواندا؟",
+    "answer": "كيغالي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_80",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة زامبيا؟",
+    "answer": "لوساكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_81",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة أنغولا؟",
+    "answer": "لواندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_82",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة موزمبيق؟",
+    "answer": "مابوتو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_83",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة مالي؟",
+    "answer": "باماكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_84",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة النيجر؟",
+    "answer": "نيامي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_85",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة ساحل العاج الرسمية؟",
+    "answer": "ياموسوكرو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_86",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة الكاميرون؟",
+    "answer": "ياوندي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_87",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هو أطول نهر في العالم، ويقع في أفريقيا؟",
+    "answer": "نهر النيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_88",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي أكبر صحراء حارة في العالم، وتقع في أفريقيا؟",
+    "answer": "الصحراء الكبرى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_89",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هو أعلى جبل في قارة أفريقيا؟",
+    "answer": "جبل كليمنجارو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_90",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "في أي دولة أفريقية يقع جبل كليمنجارو؟",
+    "answer": "تنزانيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_91",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عملة مصر؟",
+    "answer": "الجنيه المصري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_92",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عملة جنوب أفريقيا؟",
+    "answer": "الراند الجنوب أفريقي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_93",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عملة نيجيريا؟",
+    "answer": "النايرا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_94",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي اللغة الرسمية في مصر؟",
+    "answer": "العربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_95",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي أكبر دولة في أفريقيا من حيث المساحة؟",
+    "answer": "الجزائر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_96",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي أكثر دولة أفريقية عدداً للسكان؟",
+    "answer": "نيجيريا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_97",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هو الاسم القديم لإثيوبيا؟",
+    "answer": "الحبشة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_98",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي الدولة الأفريقية التي هزمت إيطاليا في معركة عدوة عام 1896 وحافظت على استقلالها؟",
+    "answer": "إثيوبيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_99",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي أصغر دولة في قارة أفريقيا من حيث المساحة؟",
+    "answer": "سيشيل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_100",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "بين أي دولتين تقع شلالات فيكتوريا؟",
+    "answer": "زامبيا وزيمبابوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_101",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي الجزيرة الأفريقية الكبرى الواقعة قبالة الساحل الشرقي، والرابعة عالمياً من حيث المساحة؟",
+    "answer": "مدغشقر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_102",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة بوتسوانا؟",
+    "answer": "غابورون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_103",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة ليسوتو؟",
+    "answer": "ماسيرو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_104",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي الدولة الأفريقية التي تحيط بها دولة جنوب أفريقيا وحدها من كل الجهات؟",
+    "answer": "ليسوتو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_105",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة بوركينا فاسو؟",
+    "answer": "واغادوغو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_106",
+    "category": "countries",
+    "subcategory": "أفريقيا",
+    "question": "ما هي عاصمة غينيا؟",
+    "answer": "كوناكري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_107",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة ألمانيا؟",
+    "answer": "برلين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_108",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة إيطاليا؟",
+    "answer": "روما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_109",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة إسبانيا؟",
+    "answer": "مدريد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_110",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة المملكة المتحدة؟",
+    "answer": "لندن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_111",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة البرتغال؟",
+    "answer": "لشبونة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_112",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي العاصمة الدستورية لهولندا؟",
+    "answer": "أمستردام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_113",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة بلجيكا؟",
+    "answer": "بروكسل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_114",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة سويسرا؟",
+    "answer": "برن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_115",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة النمسا؟",
+    "answer": "فيينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_116",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة اليونان؟",
+    "answer": "أثينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_117",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة السويد؟",
+    "answer": "ستوكهولم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_118",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة النرويج؟",
+    "answer": "أوسلو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_119",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة الدنمارك؟",
+    "answer": "كوبنهاغن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_120",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة فنلندا؟",
+    "answer": "هلسنكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_121",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة بولندا؟",
+    "answer": "وارسو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_122",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة روسيا؟",
+    "answer": "موسكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_123",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة أوكرانيا؟",
+    "answer": "كييف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_124",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة رومانيا؟",
+    "answer": "بوخارست",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_125",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة المجر؟",
+    "answer": "بودابست",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_126",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة التشيك؟",
+    "answer": "براغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_127",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة أيرلندا؟",
+    "answer": "دبلن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_128",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة أيسلندا؟",
+    "answer": "ريكيافيك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_129",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة صربيا؟",
+    "answer": "بلغراد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_130",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة كرواتيا؟",
+    "answer": "زغرب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_131",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة بلغاريا؟",
+    "answer": "صوفيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_132",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة سلوفاكيا؟",
+    "answer": "براتيسلافا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_133",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة سلوفينيا؟",
+    "answer": "ليوبليانا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_134",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة ألمانيا وأغلب دول الاتحاد الأوروبي؟",
+    "answer": "اليورو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_135",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة المملكة المتحدة؟",
+    "answer": "الجنيه الإسترليني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_136",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة سويسرا؟",
+    "answer": "الفرنك السويسري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_137",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي اللغة الرسمية في ألمانيا؟",
+    "answer": "الألمانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_138",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هو أصغر بلد في العالم من حيث المساحة، ويقع داخل مدينة روما؟",
+    "answer": "الفاتيكان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_139",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "في أي دولة يقع برج إيفل؟",
+    "answer": "فرنسا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_140",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "في أي دولة يقع برج بيزا المائل؟",
+    "answer": "إيطاليا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_141",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "كم عدد الدول الأعضاء في الاتحاد الأوروبي؟",
+    "answer": "27 دولة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_142",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة مالطا؟",
+    "answer": "فاليتا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_143",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة قبرص؟",
+    "answer": "نيقوسيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_144",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة لوكسمبورغ؟",
+    "answer": "لوكسمبورغ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_145",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما اسم المدينة التركية التي تنقسم بين قارتين، أوروبا وآسيا؟",
+    "answer": "إسطنبول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_146",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة السويد؟",
+    "answer": "الكرونة السويدية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_147",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة النرويج؟",
+    "answer": "الكرونة النرويجية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_148",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عملة الدنمارك؟",
+    "answer": "الكرونة الدنماركية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_149",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "من أين انطلقت الألعاب الأولمبية قديماً؟",
+    "answer": "اليونان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_150",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي الدولة التي نشأت فيها البيتزا (مدينة نابولي)؟",
+    "answer": "إيطاليا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_151",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما اسم أشهر ساعة برجية في لندن؟",
+    "answer": "بيغ بن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_152",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة ليختنشتاين؟",
+    "answer": "فادوز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_153",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة أندورا؟",
+    "answer": "أندورا لا فيلا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_154",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة مقدونيا الشمالية؟",
+    "answer": "سكوبيي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_155",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة إستونيا؟",
+    "answer": "تالين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_156",
+    "category": "countries",
+    "subcategory": "أوروبا",
+    "question": "ما هي عاصمة لاتفيا؟",
+    "answer": "ريغا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_157",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة الولايات المتحدة الأمريكية؟",
+    "answer": "واشنطن العاصمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_158",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة كندا؟",
+    "answer": "أوتاوا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_159",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة المكسيك؟",
+    "answer": "مكسيكو سيتي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_160",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة كوبا؟",
+    "answer": "هافانا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_161",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة بنما؟",
+    "answer": "مدينة بنما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_162",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة جامايكا؟",
+    "answer": "كينغستون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_163",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة هايتي؟",
+    "answer": "بورت أو برنس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_164",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة جمهورية الدومينيكان؟",
+    "answer": "سانتو دومينغو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_165",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة كوستاريكا؟",
+    "answer": "سان خوسيه",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_166",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة غواتيمالا؟",
+    "answer": "مدينة غواتيمالا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_167",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة هندوراس؟",
+    "answer": "تيغوسيغالبا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_168",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة نيكاراغوا؟",
+    "answer": "ماناغوا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_169",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة السلفادور؟",
+    "answer": "سان سلفادور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_170",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة الولايات المتحدة؟",
+    "answer": "الدولار الأمريكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_171",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة كندا؟",
+    "answer": "الدولار الكندي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_172",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة المكسيك؟",
+    "answer": "البيزو المكسيكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_173",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي اللغة الرسمية في المكسيك؟",
+    "answer": "الإسبانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_174",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هما اللغتان الرسميتان في كندا؟",
+    "answer": "الإنجليزية والفرنسية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_175",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "كم عدد الولايات في الولايات المتحدة الأمريكية؟",
+    "answer": "50 ولاية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_176",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي أكبر دولة في أمريكا الشمالية من حيث المساحة؟",
+    "answer": "كندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_177",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم القناة المائية التي تربط بين المحيطين الأطلسي والهادئ وتقع في أمريكا الوسطى؟",
+    "answer": "قناة بنما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_178",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم الشلالات الشهيرة الواقعة على الحدود بين كندا والولايات المتحدة؟",
+    "answer": "شلالات نياغرا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_179",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم أكبر جزيرة في منطقة البحر الكاريبي؟",
+    "answer": "كوبا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_180",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة الباهاماس؟",
+    "answer": "ناسو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_181",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة بليز؟",
+    "answer": "بلموبان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_182",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة ترينيداد وتوباغو؟",
+    "answer": "بورت أوف سبين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_183",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة بربادوس؟",
+    "answer": "بريدجتاون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_184",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم النصب التذكاري الذي يحمل وجوه أربعة رؤساء أمريكيين منحوتة في الصخر؟",
+    "answer": "جبل راشمور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_185",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم التمثال الشهير الذي يقع عند مدخل ميناء نيويورك، وهو هدية من فرنسا؟",
+    "answer": "تمثال الحرية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_186",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "في أي مدينة أمريكية يقع تمثال الحرية بالتحديد؟",
+    "answer": "نيويورك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_187",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هو الاسم القديم لمدينة نيويورك عندما كانت مستعمرة هولندية؟",
+    "answer": "نيو أمستردام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_188",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي أكبر ولاية أمريكية من حيث المساحة؟",
+    "answer": "ألاسكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_189",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "في أي دولة تقع آثار حضارة المايا الشهيرة مثل تشيتشن إيتزا؟",
+    "answer": "المكسيك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_190",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي الدولة التي تشترك مع الولايات المتحدة في أطول حدود برية غير محروسة في العالم؟",
+    "answer": "كندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_191",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة كوبا؟",
+    "answer": "البيزو الكوبي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_192",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة أنتيغوا وباربودا؟",
+    "answer": "سانت جونز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_193",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة سانت لوسيا؟",
+    "answer": "كاستريس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_194",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة غواتيمالا؟",
+    "answer": "الكيتسال الغواتيمالي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_195",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "في أي عام اشترت الولايات المتحدة ولاية ألاسكا من روسيا؟",
+    "answer": "1867",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_196",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "كم عدد المقاطعات في كندا؟",
+    "answer": "10 مقاطعات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_197",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم أكبر جزيرة تابعة للدنمارك، وتقع جغرافياً ضمن أمريكا الشمالية؟",
+    "answer": "غرينلاند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_198",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عاصمة غرينلاند؟",
+    "answer": "نوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_199",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم أخفض نقطة في أمريكا الشمالية، وتقع في صحراء بولاية كاليفورنيا؟",
+    "answer": "وادي الموت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_200",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم أكبر بحيرة عذبة من حيث المساحة السطحية في العالم، وتقع بين كندا والولايات المتحدة؟",
+    "answer": "بحيرة سوبيريور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_201",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "من أي دولة اشترت الولايات المتحدة ولاية ألاسكا؟",
+    "answer": "روسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_202",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي عملة بنما الرسمية، رغم استخدام الدولار الأمريكي فيها أيضاً؟",
+    "answer": "البالبوا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_203",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم الرقصة والموسيقى التقليدية المرتبطة بمنطقة نيو أورلينز الأمريكية؟",
+    "answer": "الجاز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_204",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي الديانة الأكثر انتشاراً في المكسيك بحكم الاستعمار الإسباني؟",
+    "answer": "المسيحية الكاثوليكية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_205",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما اسم النهر الذي يشكّل جزءاً من الحدود الجنوبية بين الولايات المتحدة والمكسيك؟",
+    "answer": "نهر ريو غراندي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_206",
+    "category": "countries",
+    "subcategory": "أمريكا الشمالية",
+    "question": "ما هي الديانة الأكثر انتشاراً في الولايات المتحدة؟",
+    "answer": "المسيحية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_207",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة البرازيل؟",
+    "answer": "برازيليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_208",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة الأرجنتين؟",
+    "answer": "بوينس آيرس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_209",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة تشيلي؟",
+    "answer": "سانتياغو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_210",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة بيرو؟",
+    "answer": "ليما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_211",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة كولومبيا؟",
+    "answer": "بوغوتا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_212",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة فنزويلا؟",
+    "answer": "كاراكاس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_213",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة الإكوادور؟",
+    "answer": "كيتو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_214",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي العاصمة الدستورية لبوليفيا؟",
+    "answer": "سوكري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_215",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي مدينة مقر الحكومة الفعلي في بوليفيا؟",
+    "answer": "لا باز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_216",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة باراغواي؟",
+    "answer": "أسونسيون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_217",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة أوروغواي؟",
+    "answer": "مونتيفيديو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_218",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة غيانا؟",
+    "answer": "جورجتاون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_219",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عاصمة سورينام؟",
+    "answer": "باراماريبو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_220",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي اللغة الرسمية في البرازيل؟",
+    "answer": "البرتغالية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_221",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي اللغة الرسمية في الأرجنتين؟",
+    "answer": "الإسبانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_222",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة البرازيل؟",
+    "answer": "الريال البرازيلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_223",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة الأرجنتين؟",
+    "answer": "البيزو الأرجنتيني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_224",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هو أكبر نهر في العالم من حيث كمية المياه المتدفقة، ويقع في أمريكا الجنوبية؟",
+    "answer": "نهر الأمازون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_225",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي أكبر دولة في أمريكا الجنوبية من حيث المساحة؟",
+    "answer": "البرازيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_226",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم سلسلة الجبال التي تمتد على طول الساحل الغربي لأمريكا الجنوبية؟",
+    "answer": "جبال الأنديز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_227",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم الشلالات الشهيرة الواقعة على الحدود بين الأرجنتين والبرازيل؟",
+    "answer": "شلالات إيغواسو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_228",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "في أي دولة تقع آثار مدينة ماتشو بيتشو الإنكية؟",
+    "answer": "بيرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_229",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم أعلى بحيرة ملاحية في العالم، وتقع بين بيرو وبوليفيا؟",
+    "answer": "بحيرة تيتيكاكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_230",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم أشد صحراء جفافاً في العالم، وتقع في تشيلي؟",
+    "answer": "صحراء أتاكاما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_231",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة الجنوب أمريكية الوحيدة التي لغتها الرسمية هي الإنجليزية؟",
+    "answer": "غيانا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_232",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة الجنوب أمريكية التي كانت مستعمرة هولندية سابقاً؟",
+    "answer": "سورينام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_233",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم تمثال المسيح الشهير المطل على مدينة ريو دي جانيرو؟",
+    "answer": "تمثال المسيح الفادي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_234",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "في أي مدينة برازيلية يقع تمثال المسيح الفادي؟",
+    "answer": "ريو دي جانيرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_235",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هو أعلى جبل في أمريكا الجنوبية، وفي نصفي الكرة الجنوبي والغربي بأكملهما؟",
+    "answer": "جبل أكونكاغوا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_236",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "في أي دولة يقع جبل أكونكاغوا؟",
+    "answer": "الأرجنتين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_237",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة فنزويلا؟",
+    "answer": "البوليفار الفنزويلي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_238",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة كولومبيا؟",
+    "answer": "البيزو الكولومبي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_239",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة الجنوب أمريكية التي سُميت تيمناً بخط الاستواء الذي يمر بها؟",
+    "answer": "الإكوادور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_240",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة الجنوب أمريكية التي سُميت تيمناً بالمستكشف كريستوفر كولومبوس؟",
+    "answer": "كولومبيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_241",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هما الدولتان الوحيدتان في أمريكا الجنوبية اللتان لا تشتركان بحدود مع البرازيل؟",
+    "answer": "تشيلي والإكوادور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_242",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم أرخبيل الجزر التابع للإكوادور والمشهور بأبحاث تشارلز داروين؟",
+    "answer": "جزر غالاباغوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_243",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي أكبر مدينة في البرازيل من حيث عدد السكان؟",
+    "answer": "ساو باولو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_244",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم الرقصة الوطنية المرتبطة بالأرجنتين؟",
+    "answer": "التانغو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_245",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم أشهر مهرجان كرنفال سنوي يقام في ريو دي جانيرو؟",
+    "answer": "كرنفال ريو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_246",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة التي يقع فيها الجزء الأكبر من غابات الأمازون المطيرة؟",
+    "answer": "البرازيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_247",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم أضيق وأطول دولة في العالم من الشمال للجنوب، وتقع في أمريكا الجنوبية؟",
+    "answer": "تشيلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_248",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هما الدولتان الوحيدتان في أمريكا الجنوبية بلا سواحل بحرية؟",
+    "answer": "بوليفيا وباراغواي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_249",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة تشيلي؟",
+    "answer": "البيزو التشيلي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_250",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة بيرو؟",
+    "answer": "السول البيروفي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_251",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي أصغر دولة في أمريكا الجنوبية من حيث المساحة وعدد السكان؟",
+    "answer": "سورينام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_252",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما اسم اللغة الأصلية المعترف بها رسمياً في بيرو وبوليفيا، وهي لغة إمبراطورية الإنكا؟",
+    "answer": "الكيتشوا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_253",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة باراغواي؟",
+    "answer": "الغواراني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_254",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي عملة أوروغواي؟",
+    "answer": "البيزو الأوروغواياني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_255",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الديانة السائدة تاريخياً في معظم دول أمريكا الجنوبية بحكم الاستعمار الإسباني والبرتغالي؟",
+    "answer": "المسيحية الكاثوليكية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_256",
+    "category": "countries",
+    "subcategory": "أمريكا الجنوبية",
+    "question": "ما هي الدولة التي حصلت على استقلالها بقيادة سيمون بوليفار وسُميت تيمناً به؟",
+    "answer": "بوليفيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_257",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة أستراليا؟",
+    "answer": "كانبيرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_258",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي أكبر مدينة في أستراليا؟",
+    "answer": "سيدني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_259",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة نيوزيلندا؟",
+    "answer": "ويلينغتون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_260",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي أكبر مدينة في نيوزيلندا؟",
+    "answer": "أوكلاند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_261",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة أستراليا؟",
+    "answer": "الدولار الأسترالي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_262",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة نيوزيلندا؟",
+    "answer": "الدولار النيوزيلندي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_263",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي اللغة الرسمية في أستراليا؟",
+    "answer": "الإنجليزية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_264",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الحيوان الجرابي الذي يُعد رمزاً لأستراليا ويحمل صغاره في جراب؟",
+    "answer": "الكنغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_265",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الطائر الذي لا يطير ويُعد رمزاً وطنياً لنيوزيلندا؟",
+    "answer": "الكيوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_266",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الجزيرة الكبرى التي تنقسم بين إندونيسيا وبابوا غينيا الجديدة؟",
+    "answer": "غينيا الجديدة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_267",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة بابوا غينيا الجديدة؟",
+    "answer": "بورت مورزبي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_268",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة فيجي؟",
+    "answer": "سوفا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_269",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة ساموا؟",
+    "answer": "آبيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_270",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة تونغا؟",
+    "answer": "نوكوعالوفا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_271",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة فانواتو؟",
+    "answer": "بورت فيلا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_272",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة جزر سليمان؟",
+    "answer": "هونيارا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_273",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الحاجز المرجاني الأكبر في العالم، ويقع قبالة سواحل أستراليا؟",
+    "answer": "الحاجز المرجاني العظيم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_274",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم دار الأوبرا الشهيرة التي تُعد معلماً في مدينة سيدني؟",
+    "answer": "دار أوبرا سيدني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_275",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هو الاسم الذي يُطلق على المناطق النائية والداخلية القاحلة في أستراليا؟",
+    "answer": "الأوتباك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_276",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما ترتيب أستراليا عالمياً من حيث المساحة؟",
+    "answer": "السادسة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_277",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الصخرة الحمراء الضخمة المقدسة لدى السكان الأصليين في وسط أستراليا؟",
+    "answer": "أولورو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_278",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "من هم السكان الأصليون لأستراليا قبل الاستعمار الأوروبي؟",
+    "answer": "السكان الأصليون الأستراليون (الأبورجينيز)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_279",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "من هم السكان الأصليون لنيوزيلندا؟",
+    "answer": "الماوري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_280",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي القارة الأصغر مساحة في العالم؟",
+    "answer": "أستراليا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_281",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الإقليم الأسترالي الذي اكتشفه الملاح الهولندي آبل تسمان وسُمي تيمناً به؟",
+    "answer": "تسمانيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_282",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة بابوا غينيا الجديدة؟",
+    "answer": "الكينا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_283",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة فيجي؟",
+    "answer": "الدولار الفيجي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_284",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هو المحيط الذي تحيط معظم دول أوقيانوسيا بمياهه؟",
+    "answer": "المحيط الهادئ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_285",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة كيريباتي؟",
+    "answer": "تاراوا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_286",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة توفالو؟",
+    "answer": "فونافوتي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_287",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عاصمة جزر مارشال؟",
+    "answer": "ماجورو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_288",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم أكبر ولاية أسترالية من حيث المساحة؟",
+    "answer": "أستراليا الغربية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_289",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي الديانة السائدة في أستراليا ونيوزيلندا بحكم الاستعمار البريطاني؟",
+    "answer": "المسيحية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_290",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "أي دولة كانت أول دولة ذات حكم ذاتي في العالم تمنح المرأة حق التصويت، عام 1893؟",
+    "answer": "نيوزيلندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_291",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم المضيق الذي يفصل الجزيرة الشمالية عن الجزيرة الجنوبية في نيوزيلندا؟",
+    "answer": "مضيق كوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_292",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "كم عدد الجزيرتين الرئيسيتين اللتين تتكون منهما نيوزيلندا؟",
+    "answer": "جزيرتان (الشمالية والجنوبية)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_293",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم اللغة الرسمية الأكثر تحدثاً في بابوا غينيا الجديدة، وهي لغة مبسّطة مبنية على الإنجليزية؟",
+    "answer": "التوك بيسين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_294",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الحيوان الوحيد الذي يضع البيض رغم كونه من الثدييات، ويعيش في أستراليا؟",
+    "answer": "خلد الماء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_295",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "أي محيط يفصل أستراليا عن قارة أفريقيا؟",
+    "answer": "المحيط الهندي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_296",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة تونغا؟",
+    "answer": "البانغا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_297",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة ساموا؟",
+    "answer": "تالا ساموا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_298",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما هي عملة جزر سليمان؟",
+    "answer": "دولار جزر سليمان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "countries_299",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "أي مدينة أسترالية استضافت الألعاب الأولمبية الصيفية عام 2000؟",
+    "answer": "سيدني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_300",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الخط الوهمي الذي تقع أستراليا بالكامل جنوبه، ويقسم الأرض لنصفين شمالي وجنوبي؟",
+    "answer": "خط الاستواء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_301",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم الاتحاد السياسي الذي كانت أستراليا ونيوزيلندا جزءاً من مستعمراته سابقاً؟",
+    "answer": "الإمبراطورية البريطانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "countries_302",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "من هو أول مستكشف أوروبي وصل إلى سواحل أستراليا الشرقية عام 1770؟",
+    "answer": "جيمس كوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "countries_303",
+    "category": "countries",
+    "subcategory": "أوقيانوسيا",
+    "question": "ما اسم شجرة الأوكاليبتوس التي تُعد الغذاء الرئيسي لحيوان الكوالا، وموطنها الأصلي أستراليا؟",
+    "answer": "شجرة الأوكاليبتوس",
+    "difficulty": "easy"
+  }
+]

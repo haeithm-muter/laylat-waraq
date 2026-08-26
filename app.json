@@ -37,6 +37,13 @@
       "expo-web-browser",
       "expo-apple-authentication",
       [
+        "expo-camera",
+        {
+          "cameraPermission": "يحتاج التطبيق الوصول للكاميرا لمسح رمز QR والانضمام للسيرفر",
+          "recordAudioAndroid": false
+        }
+      ],
+      [
         "expo-screen-orientation",
         {
           "initialOrientation": "LANDSCAPE"
@@ -50,7 +57,9 @@
           "resizeMode": "contain",
           "backgroundColor": "#0B3D2E"
         }
-      ]
+      ],
+      "expo-audio",
+      "expo-asset"
     ],
     "extra": {
       "router": {}

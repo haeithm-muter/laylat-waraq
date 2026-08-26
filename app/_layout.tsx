@@ -10,6 +10,7 @@ import { useAppFonts } from '@/hooks/useAppFonts';
 import { useAuthStore } from '@/store/authStore';
 import { lockLandscape } from '@/utils/orientation';
 import { AppSplashScreen } from '@/components/splash/AppSplashScreen';
+import { ErrorBoundary } from '@/components/ErrorBoundary';
 
 SplashScreen.preventAutoHideAsync().catch(() => {});
 
@@ -64,13 +65,15 @@ export default function RootLayout() {
   }
 
   return (
-    <SafeAreaProvider>
-      <StatusBar hidden />
-      <Stack screenOptions={{ headerShown: false, animation: 'fade' }}>
-        <Stack.Screen name="index" />
-        <Stack.Screen name="(auth)" />
-        <Stack.Screen name="(game)" />
-      </Stack>
-    </SafeAreaProvider>
+    <ErrorBoundary>
+      <SafeAreaProvider>
+        <StatusBar hidden />
+        <Stack screenOptions={{ headerShown: false, animation: 'fade' }}>
+          <Stack.Screen name="index" />
+          <Stack.Screen name="(auth)" />
+          <Stack.Screen name="(game)" />
+        </Stack>
+      </SafeAreaProvider>
+    </ErrorBoundary>
   );
 }

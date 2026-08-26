@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "religion_1",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد سور القرآن الكريم؟",
+    "answer": "114 سورة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_2",
+    "category": "religion",
+    "subcategory": "ما هي السورة؟",
+    "question": "ما هي أطول سورة في القرآن الكريم؟",
+    "answer": "سورة البقرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_3",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد أركان الإسلام؟",
+    "answer": "خمسة أركان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_4",
+    "category": "religion",
+    "subcategory": "ما هي السورة؟",
+    "question": "ما هي أول سورة في ترتيب المصحف الشريف؟",
+    "answer": "سورة الفاتحة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_5",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "في أي شهر هجري فُرض صيام المسلمين؟",
+    "answer": "شهر رمضان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_6",
+    "category": "religion",
+    "subcategory": "ما هي السورة؟",
+    "question": "ما هي أقصر سورة في القرآن الكريم؟",
+    "answer": "سورة الكوثر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_007",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد أركان الإيمان؟",
+    "answer": "ستة أركان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_008",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو الركن الأول من أركان الإسلام؟",
+    "answer": "الشهادتان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_009",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد الصلوات المفروضة في اليوم والليلة؟",
+    "answer": "خمس صلوات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_010",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هي أول صلاة مفروضة في اليوم؟",
+    "answer": "صلاة الفجر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_011",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هي آخر صلاة مفروضة في اليوم؟",
+    "answer": "صلاة العشاء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_012",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد ركعات صلاة الظهر؟",
+    "answer": "أربع ركعات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_013",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد ركعات صلاة المغرب؟",
+    "answer": "ثلاث ركعات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_014",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "في أي اتجاه يتوجه المسلمون أثناء الصلاة؟",
+    "answer": "اتجاه الكعبة المشرفة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_015",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم المدينة التي تقع فيها الكعبة المشرفة؟",
+    "answer": "مكة المكرمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_016",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو الشهر الذي يصوم فيه المسلمون؟",
+    "answer": "شهر رمضان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_017",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم العيد الذي يأتي بعد شهر رمضان؟",
+    "answer": "عيد الفطر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_018",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم العيد الذي يرتبط بموسم الحج؟",
+    "answer": "عيد الأضحى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_019",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد أشهر السنة الهجرية؟",
+    "answer": "اثنا عشر شهراً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_020",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو أول شهر في التقويم الهجري؟",
+    "answer": "شهر محرم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_021",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو الشهر الذي يؤدى فيه فريضة الحج؟",
+    "answer": "شهر ذو الحجة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_022",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الركن الذي يعني الشهادة بأن لا إله إلا الله وأن محمداً رسول الله؟",
+    "answer": "الشهادتان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_023",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الزكاة الواجبة في نهاية شهر رمضان؟",
+    "answer": "زكاة الفطر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_024",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الركن الذي يعني إخراج جزء من المال للفقراء؟",
+    "answer": "الزكاة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_025",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم البيت الذي يطوف حوله الحجاج في مكة؟",
+    "answer": "الكعبة المشرفة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_026",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم المسجد الذي يضم الكعبة المشرفة؟",
+    "answer": "المسجد الحرام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_027",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم المسجد الذي بناه النبي محمد صلى الله عليه وسلم في المدينة؟",
+    "answer": "المسجد النبوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_028",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم المسجد الذي يقصده المسلمون في القدس؟",
+    "answer": "المسجد الأقصى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_029",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو اليوم الذي تقام فيه صلاة الجمعة؟",
+    "answer": "يوم الجمعة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_030",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الأذان الذي يُنادى به لدخول وقت الصلاة؟",
+    "answer": "الأذان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_031",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الطهارة التي يؤديها المسلم قبل الصلاة بالماء؟",
+    "answer": "الوضوء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_032",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الطهارة بالتراب عند تعذر الماء؟",
+    "answer": "التيمم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_033",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو الحكم الشرعي للأمر الواجب أداؤه؟",
+    "answer": "الفرض",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_034",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم العبادة التي يؤديها المسلم القادر مرة في العمر إلى مكة؟",
+    "answer": "الحج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_035",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الحجر الأسود الذي يوجد في ركن الكعبة؟",
+    "answer": "الحجر الأسود",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_036",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم السعي الذي يؤديه الحاج بين الصفا والمروة؟",
+    "answer": "السعي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_037",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الوقوف الذي يعد ركناً أساسياً من أركان الحج؟",
+    "answer": "الوقوف بعرفة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_038",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الكتاب المقدس عند المسلمين؟",
+    "answer": "القرآن الكريم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_039",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "على من نزل القرآن الكريم أولاً؟",
+    "answer": "النبي محمد صلى الله عليه وسلم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_040",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الملك الذي كان ينزل بالوحي على الأنبياء؟",
+    "answer": "جبريل عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_041",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الملك الموكل بالنفخ في الصور؟",
+    "answer": "إسرافيل عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_042",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الملك الموكل بقبض الأرواح؟",
+    "answer": "ملك الموت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_043",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الملكين الموكلين بسؤال الميت في القبر؟",
+    "answer": "منكر ونكير",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_044",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "كم عدد الكتب السماوية التي يؤمن بها المسلمون؟",
+    "answer": "أربعة كتب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_045",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الكتاب الذي أُنزل على النبي موسى عليه السلام؟",
+    "answer": "التوراة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_046",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الكتاب الذي أُنزل على النبي عيسى عليه السلام؟",
+    "answer": "الإنجيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_047",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الكتاب الذي أُنزل على النبي داود عليه السلام؟",
+    "answer": "الزبور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_048",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما هو أول بيت وُضع للناس للعبادة بحسب العقيدة الإسلامية؟",
+    "answer": "الكعبة المشرفة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_049",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم اليوم الذي يعتقد المسلمون أن الناس يُحاسبون فيه بعد الموت؟",
+    "answer": "يوم القيامة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_050",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الملابس البيضاء التي يرتديها الرجال أثناء الحج؟",
+    "answer": "الإحرام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_051",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم صلاة النافلة التي تؤدى في ليالي شهر رمضان؟",
+    "answer": "صلاة التراويح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_052",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الليلة التي يُعتقد أنها خير من ألف شهر؟",
+    "answer": "ليلة القدر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_053",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "في أي عشر من رمضان يُستحب البحث عن ليلة القدر؟",
+    "answer": "العشر الأواخر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_054",
+    "category": "religion",
+    "subcategory": "دين عام",
+    "question": "ما اسم الاعتكاف الذي يؤديه بعض المسلمين في المسجد آخر رمضان؟",
+    "answer": "الاعتكاف",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_055",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو أول الأنبياء وأبو البشر؟",
+    "answer": "آدم عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_056",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي بنى السفينة ونجا من الطوفان؟",
+    "answer": "نوح عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_057",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "كم دعا نوح عليه السلام قومه إلى التوحيد بحسب القرآن؟",
+    "answer": "ألف سنة إلا خمسين عاماً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_058",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي يُلقب بخليل الله؟",
+    "answer": "إبراهيم عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_059",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُلقي في النار فجعلها الله برداً وسلاماً عليه؟",
+    "answer": "إبراهيم عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_060",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو ابن إبراهيم عليه السلام الذي أُمر بذبحه؟",
+    "answer": "إسماعيل عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_061",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي بنى الكعبة المشرفة مع ابنه؟",
+    "answer": "إبراهيم عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_062",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو ابن إبراهيم عليه السلام الذي وُلد له يعقوب عليه السلام؟",
+    "answer": "إسحاق عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_063",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُلقي في الجب من قبل إخوته؟",
+    "answer": "يوسف عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_064",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي يُلقب بالصدّيق لصدقه وحسن تعبيره للرؤى؟",
+    "answer": "يوسف عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_065",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو والد النبي يوسف عليه السلام؟",
+    "answer": "يعقوب عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_066",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي فقد بصره حزناً على ابنه ثم عاد إليه بصره؟",
+    "answer": "يعقوب عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_067",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي ابتلي بالمرض والفقر فصبر حتى شُفي؟",
+    "answer": "أيوب عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_068",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أرسله الله إلى فرعون؟",
+    "answer": "موسى عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_069",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو أخو النبي موسى الذي أرسل معه لفرعون؟",
+    "answer": "هارون عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_070",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي انشق له البحر؟",
+    "answer": "موسى عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_071",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "في أي نهر وُضع النبي موسى عليه السلام وهو رضيع؟",
+    "answer": "نهر النيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_072",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي ابتلعه الحوت؟",
+    "answer": "يونس عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_073",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "إلى أي مدينة أُرسل النبي يونس عليه السلام؟",
+    "answer": "نينوى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_074",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي كان ملكاً وسخّر الله له الريح والجن؟",
+    "answer": "سليمان عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_075",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو والد النبي سليمان عليه السلام؟",
+    "answer": "داود عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_076",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُنزل عليه كتاب الزبور؟",
+    "answer": "داود عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_077",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "بأي معجزة اشتهر النبي داود عليه السلام في تليين الحديد؟",
+    "answer": "إلانة الحديد بيده",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_078",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هي الملكة التي زارت النبي سليمان عليه السلام؟",
+    "answer": "ملكة سبأ (بلقيس)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_079",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي وُلد بدون أب؟",
+    "answer": "عيسى عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_080",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هي أم النبي عيسى عليه السلام؟",
+    "answer": "مريم عليها السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_081",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُنزل عليه كتاب الإنجيل؟",
+    "answer": "عيسى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_082",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي بشّر بولادة النبي يحيى عليه السلام رغم كبر سنه؟",
+    "answer": "زكريا عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_083",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو ابن النبي زكريا عليه السلام؟",
+    "answer": "يحيى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_084",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُرسل إلى قوم عاد؟",
+    "answer": "هود عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_085",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُرسل إلى قوم ثمود؟",
+    "answer": "صالح عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_086",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "ما اسم الناقة التي أرسلها الله معجزة للنبي صالح عليه السلام؟",
+    "answer": "ناقة الله (ناقة صالح)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_087",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُرسل إلى قوم لوط؟",
+    "answer": "لوط عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_088",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُرسل إلى أصحاب الأيكة ومدين واشتهر بتطفيف الميزان في قومه؟",
+    "answer": "شعيب عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_089",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو خاتم الأنبياء والمرسلين؟",
+    "answer": "محمد صلى الله عليه وسلم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_090",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي رُفع إلى السماء ولم يُقتل بحسب العقيدة الإسلامية؟",
+    "answer": "عيسى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_091",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي عاش أطول الأنبياء عمراً بحسب القرآن؟",
+    "answer": "نوح عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_092",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي كلّمه الله مباشرة فلُقب بكليم الله؟",
+    "answer": "موسى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_093",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي ذُكر أنه رُفع مكاناً علياً؟",
+    "answer": "إدريس عليه السلام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_094",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي دعا ربه ألا يترك على الأرض من الكافرين ديّاراً؟",
+    "answer": "نوح عليه السلام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_095",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي حاجّ قومه بتحطيم أصنامهم؟",
+    "answer": "إبراهيم عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_096",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي كان يعمل راعياً للغنم قبل النبوة، ثم أُرسل إلى فرعون؟",
+    "answer": "موسى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_097",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو الأخ الذي حسد يوسف عليه السلام وأخوته وأُلقي في الجب بسببهم؟",
+    "answer": "إخوته (أبناء يعقوب)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_098",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أرسل الله معه طائر الهدهد لجلب الأخبار؟",
+    "answer": "سليمان عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_099",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي كان نجاراً بحسب ما ورد في السيرة؟",
+    "answer": "زكريا عليه السلام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_100",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي فُتن بالمرض سنين طويلة وصبر حتى ضُرب به المثل في الصبر؟",
+    "answer": "أيوب عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_101",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي أُمر ببناء الفلك (السفينة)؟",
+    "answer": "نوح عليه السلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_102",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي دُفن مع زوجته سارة قرب مدينة الخليل؟",
+    "answer": "إبراهيم عليه السلام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_103",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي عاش في مصر وأصبح وزيراً على خزائنها؟",
+    "answer": "يوسف عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_104",
+    "category": "religion",
+    "subcategory": "قصص الأنبياء",
+    "question": "من هو النبي الذي كان معه العصا التي انقلبت حية؟",
+    "answer": "موسى عليه السلام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_105",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي مدينة وُلد النبي محمد صلى الله عليه وسلم؟",
+    "answer": "مكة المكرمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_106",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم عام ولادة النبي محمد صلى الله عليه وسلم المعروف بحادثة الفيل؟",
+    "answer": "عام الفيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_107",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم والد النبي محمد صلى الله عليه وسلم؟",
+    "answer": "عبد الله",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_108",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم والدة النبي محمد صلى الله عليه وسلم؟",
+    "answer": "آمنة بنت وهب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_109",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم جد النبي محمد صلى الله عليه وسلم الذي كفله بعد وفاة والديه؟",
+    "answer": "عبد المطلب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_110",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو عم النبي محمد صلى الله عليه وسلم الذي كفله بعد وفاة جده؟",
+    "answer": "أبو طالب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_111",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم المرضعة التي أرضعت النبي محمد صلى الله عليه وسلم في البادية؟",
+    "answer": "حليمة السعدية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_112",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "بأي لقب عُرف النبي محمد صلى الله عليه وسلم بين قومه قبل البعثة لصدقه وأمانته؟",
+    "answer": "الصادق الأمين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_113",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم أول زوجات النبي محمد صلى الله عليه وسلم؟",
+    "answer": "خديجة بنت خويلد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_114",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي غار نزل الوحي على النبي محمد صلى الله عليه وسلم لأول مرة؟",
+    "answer": "غار حراء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_115",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم السورة التي كانت أول سورة نزلت من القرآن الكريم؟",
+    "answer": "سورة العلق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_116",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هي أول امرأة أسلمت؟",
+    "answer": "خديجة بنت خويلد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_117",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو الصحابي الذي كان صديق النبي محمد صلى الله عليه وسلم المقرب قبل البعثة وبعدها؟",
+    "answer": "أبو بكر الصديق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_118",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "إلى أي مدينة هاجر النبي محمد صلى الله عليه وسلم من مكة؟",
+    "answer": "المدينة المنورة (يثرب)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_119",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو الصحابي الذي رافق النبي محمد صلى الله عليه وسلم في هجرته إلى المدينة؟",
+    "answer": "أبو بكر الصديق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_120",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الغار الذي اختبأ فيه النبي محمد صلى الله عليه وسلم وأبو بكر أثناء الهجرة؟",
+    "answer": "غار ثور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_121",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "بأي حدث يبدأ التقويم الهجري؟",
+    "answer": "هجرة النبي محمد صلى الله عليه وسلم إلى المدينة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_122",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم المسجد الذي بناه النبي محمد صلى الله عليه وسلم فور وصوله للمدينة؟",
+    "answer": "مسجد قباء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_123",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم أول غزوة كبرى خاضها المسلمون؟",
+    "answer": "غزوة بدر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_124",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي سنة هجرية وقعت غزوة بدر؟",
+    "answer": "السنة الثانية للهجرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_125",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الغزوة التي أصيب فيها النبي محمد صلى الله عليه وسلم في وجهه؟",
+    "answer": "غزوة أحد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_126",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الغزوة التي استخدم فيها المسلمون حفر خندق حول المدينة؟",
+    "answer": "غزوة الخندق (الأحزاب)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_127",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من اقترح حفر الخندق دفاعاً عن المدينة؟",
+    "answer": "سلمان الفارسي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_128",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الصلح الذي عقده النبي محمد صلى الله عليه وسلم مع قريش قبل فتح مكة؟",
+    "answer": "صلح الحديبية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_129",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي سنة هجرية تم فتح مكة؟",
+    "answer": "السنة الثامنة للهجرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_130",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ماذا فعل النبي محمد صلى الله عليه وسلم بالأصنام حول الكعبة بعد فتح مكة؟",
+    "answer": "حطّمها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_131",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الرحلة الليلية التي انتقل فيها النبي محمد صلى الله عليه وسلم من مكة إلى القدس؟",
+    "answer": "الإسراء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_132",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم العروج الذي صعد فيه النبي محمد صلى الله عليه وسلم إلى السماء؟",
+    "answer": "المعراج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_133",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الدابة التي رُكب عليها النبي محمد صلى الله عليه وسلم في رحلة الإسراء؟",
+    "answer": "البراق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_134",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم ابنة النبي محمد صلى الله عليه وسلم التي تزوجها علي بن أبي طالب؟",
+    "answer": "فاطمة الزهراء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_135",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو مؤذن النبي محمد صلى الله عليه وسلم الأول؟",
+    "answer": "بلال بن رباح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_136",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو كاتب الوحي المعروف الذي جمع القرآن في عهد أبي بكر؟",
+    "answer": "زيد بن ثابت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_137",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو أول من جمع القرآن الكريم في مصحف واحد؟",
+    "answer": "الخليفة أبو بكر الصديق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_138",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو الخليفة الذي وحّد المصاحف على قراءة واحدة؟",
+    "answer": "الخليفة عثمان بن عفان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_139",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو أول الخلفاء الراشدين بعد وفاة النبي محمد صلى الله عليه وسلم؟",
+    "answer": "أبو بكر الصديق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_140",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي مدينة توفي النبي محمد صلى الله عليه وسلم ودُفن؟",
+    "answer": "المدينة المنورة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_141",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "في أي سنة هجرية توفي النبي محمد صلى الله عليه وسلم؟",
+    "answer": "السنة الحادية عشرة للهجرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_142",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الخطبة التي ألقاها النبي محمد صلى الله عليه وسلم في حجة الوداع؟",
+    "answer": "خطبة الوداع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_143",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "كم عدد الحجات التي أداها النبي محمد صلى الله عليه وسلم بعد الهجرة؟",
+    "answer": "حجة واحدة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_144",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما لقب زوجة النبي محمد صلى الله عليه وسلم عائشة بنت أبي بكر؟",
+    "answer": "أم المؤمنين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_145",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو عم النبي محمد صلى الله عليه وسلم الذي عارض دعوته واشتهر بعداوته؟",
+    "answer": "أبو لهب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_146",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم القبيلة التي ينتمي إليها النبي محمد صلى الله عليه وسلم؟",
+    "answer": "قريش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_147",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم بئر ماء زمزم الذي شرب منه إسماعيل عليه السلام وارتبط بمكة؟",
+    "answer": "بئر زمزم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_148",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو الصحابي الذي لُقّب بـ سيف الله المسلول؟",
+    "answer": "خالد بن الوليد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_149",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو عم النبي محمد صلى الله عليه وسلم الذي استشهد في غزوة أحد ولُقب بأسد الله؟",
+    "answer": "حمزة بن عبد المطلب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_150",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم زوجة النبي محمد صلى الله عليه وسلم التي كانت يهودية الأصل من بني النضير؟",
+    "answer": "صفية بنت حيي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_151",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو الصحابي الذي كان يهودياً وأسلم وأصبح من كبار علماء الصحابة؟",
+    "answer": "عبد الله بن سلام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_152",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "ما اسم الوثيقة التي نظّمت العلاقة بين المسلمين واليهود في المدينة بعد الهجرة؟",
+    "answer": "صحيفة المدينة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_153",
+    "category": "religion",
+    "subcategory": "السيرة النبوية",
+    "question": "من هو مؤذن النبي محمد صلى الله عليه وسلم الذي رفع الأذان فوق الكعبة يوم فتح مكة؟",
+    "answer": "بلال بن رباح",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_154",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما اسم آخر جزء في القرآن الكريم والذي يبدأ بسورة النبأ؟",
+    "answer": "جزء عمّ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_155",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي أول سورة في جزء عمّ؟",
+    "answer": "سورة النبأ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_156",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي آخر سورة في المصحف الشريف؟",
+    "answer": "سورة الناس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_157",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تسبق سورة الناس مباشرة؟",
+    "answer": "سورة الفلق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_158",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما اسم السورة التي تسبق سورة الفلق؟",
+    "answer": "سورة الإخلاص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_159",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "بماذا تُعرف سورة الإخلاص لأنها تتحدث عن وحدانية الله؟",
+    "answer": "سورة التوحيد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_160",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن ليلة القدر واسمها مشتق منها؟",
+    "answer": "سورة القدر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_161",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تسبق سورة القدر؟",
+    "answer": "سورة العلق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_162",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي أول سورة نزلت من القرآن الكريم وتقع في جزء عمّ؟",
+    "answer": "سورة العلق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_163",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم فاكهة وتقع في جزء عمّ؟",
+    "answer": "سورة التين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_164",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تسبق سورة التين؟",
+    "answer": "سورة الشرح",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_165",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تُعرف أيضاً باسم سورة الانشراح؟",
+    "answer": "سورة الشرح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_166",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تسبق سورة الشرح؟",
+    "answer": "سورة الضحى",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_167",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم وقت من النهار؟",
+    "answer": "سورة الضحى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_168",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن الليل وسُميت باسمه؟",
+    "answer": "سورة الليل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_169",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم كوكب الشمس؟",
+    "answer": "سورة الشمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_170",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تسبق سورة الشمس؟",
+    "answer": "سورة البلد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_171",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم مدينة مكة المكرمة؟",
+    "answer": "سورة البلد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_172",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم مدينة الفجر؟",
+    "answer": "سورة الفجر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_173",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الغاشية وهي من أسماء يوم القيامة؟",
+    "answer": "سورة الغاشية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_174",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الأعلى في وصف الله سبحانه؟",
+    "answer": "سورة الأعلى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_175",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم كوكب يُرى في السماء ليلاً؟",
+    "answer": "سورة الطارق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_176",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم مجموعة من النجوم؟",
+    "answer": "سورة البروج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_177",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن المطففين في الكيل والميزان؟",
+    "answer": "سورة المطففين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_178",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الانشقاق؟",
+    "answer": "سورة الانشقاق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_179",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الانفطار؟",
+    "answer": "سورة الانفطار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_180",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم التكوير وتتحدث عن أهوال يوم القيامة؟",
+    "answer": "سورة التكوير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_181",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الملائكة التي تنزع الأرواح؟",
+    "answer": "سورة النازعات",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_182",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن الخبر العظيم وتقع أول جزء عمّ؟",
+    "answer": "سورة النبأ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_183",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم البينة؟",
+    "answer": "سورة البينة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_184",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الزلزلة وتتحدث عن أهوال يوم القيامة؟",
+    "answer": "سورة الزلزلة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_185",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الخيل المسرعة؟",
+    "answer": "سورة العاديات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_186",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم القارعة وهي من أسماء يوم القيامة؟",
+    "answer": "سورة القارعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_187",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن التكاثر في الدنيا؟",
+    "answer": "سورة التكاثر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_188",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي أقصر سورة في القرآن الكريم وتقع في جزء عمّ؟",
+    "answer": "سورة الكوثر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_189",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن الوقت وأهمية العصر؟",
+    "answer": "سورة العصر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_190",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم الهمزة وتتحدث عن عيوب الغيبة والنميمة؟",
+    "answer": "سورة الهمزة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_191",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي سُميت باسم قصة أصحاب الفيل الذين حاولوا هدم الكعبة؟",
+    "answer": "سورة الفيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_192",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن نعمة الله على قبيلة قريش بالأمن والرزق؟",
+    "answer": "سورة قريش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_193",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تحث على إطعام المسكين ورعاية اليتيم؟",
+    "answer": "سورة الماعون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_194",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تخاطب الكافرين وتؤكد البراءة من عبادة غير الله؟",
+    "answer": "سورة الكافرون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_195",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي تتحدث عن دخول الناس في دين الله أفواجاً؟",
+    "answer": "سورة النصر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_196",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي نزلت في أبي لهب وزوجته؟",
+    "answer": "سورة المسد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_197",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي يستعيذ فيها المسلم من شر الفلق؟",
+    "answer": "سورة الفلق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_198",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "ما هي السورة التي يستعيذ فيها المسلم من شر الوسواس الخناس؟",
+    "answer": "سورة الناس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_199",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "كم عدد آيات سورة الإخلاص؟",
+    "answer": "أربع آيات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_200",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "كم عدد آيات سورة الكوثر؟",
+    "answer": "ثلاث آيات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_201",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "كم عدد آيات سورة الفلق؟",
+    "answer": "خمس آيات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_202",
+    "category": "religion",
+    "subcategory": "جزء عم",
+    "question": "كم عدد آيات سورة الناس؟",
+    "answer": "ست آيات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_203",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: م، ك، ة",
+    "answer": "مكة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_204",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، م، د، ي، ن، ة",
+    "answer": "المدينة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_205",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ق، ر، آ، ن",
+    "answer": "القرآن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_206",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ك، ع، ب، ة",
+    "answer": "الكعبة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_207",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ص، ل، ا، ة",
+    "answer": "الصلاة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_208",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ز، ك، ا، ة",
+    "answer": "الزكاة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_209",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ح، ج",
+    "answer": "الحج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_210",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ص، و، م",
+    "answer": "الصوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_211",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ر، م، ض، ا، ن",
+    "answer": "رمضان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_212",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ج، ن، ة",
+    "answer": "الجنة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_213",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ا، ل، ن، ا، ر",
+    "answer": "النار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_214",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ج، ب، ر، ي، ل",
+    "answer": "جبريل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_215",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: م، ي، ك، ا، ئ، ي، ل",
+    "answer": "ميكائيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_216",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، س، ر، ا، ف، ي، ل",
+    "answer": "إسرافيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_217",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: آ، د، م",
+    "answer": "آدم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_218",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ن، و، ح",
+    "answer": "نوح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_219",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، ب، ر، ا، ه، ي، م",
+    "answer": "إبراهيم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_220",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، س، م، ا، ع، ي، ل",
+    "answer": "إسماعيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_221",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: م، و، س، ى",
+    "answer": "موسى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_222",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، ي، س، ى",
+    "answer": "عيسى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_223",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ي، و، س، ف",
+    "answer": "يوسف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_224",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ي، و، ن، س",
+    "answer": "يونس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_225",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: د، ا، و، د",
+    "answer": "داود",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_226",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: س، ل، ي، م، ا، ن",
+    "answer": "سليمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_227",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: م، ح، م، د",
+    "answer": "محمد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_228",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: خ، د، ي، ج، ة",
+    "answer": "خديجة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_229",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، ا، ئ، ش، ة",
+    "answer": "عائشة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_230",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ف، ا، ط، م، ة",
+    "answer": "فاطمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_231",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، ل، ي",
+    "answer": "علي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_232",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، م، ر",
+    "answer": "عمر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_233",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، ث، م، ا، ن",
+    "answer": "عثمان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_234",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ب، ل، ا، ل",
+    "answer": "بلال",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_235",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، ي، م، ا، ن",
+    "answer": "إيمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_236",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، س، ل، ا، م",
+    "answer": "إسلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_237",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، ح، س، ا، ن",
+    "answer": "إحسان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_238",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ت، ق، و، ى",
+    "answer": "تقوى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_239",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: د، ع، ا، ء",
+    "answer": "دعاء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_240",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: س، ج، و، د",
+    "answer": "سجود",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_241",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ر، ك، و، ع",
+    "answer": "ركوع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_242",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: أ، ذ، ا، ن",
+    "answer": "أذان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_243",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: إ، م، ا، م",
+    "answer": "إمام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_244",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: م، س، ج، د",
+    "answer": "مسجد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_245",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ق، ب، ل، ة",
+    "answer": "قبلة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_246",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: و، ض، و، ء",
+    "answer": "وضوء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_247",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ح، ل، ا، ل",
+    "answer": "حلال",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_248",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ح، ر، ا، م",
+    "answer": "حرام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_249",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: س، ن، ة",
+    "answer": "سنة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_250",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ف، ر، ض",
+    "answer": "فرض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_251",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ص، د، ق، ة",
+    "answer": "صدقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_252",
+    "category": "religion",
+    "subcategory": "حروف إسلامي",
+    "question": "رتب الحروف لتكوين كلمة إسلامية: ع، ي، د",
+    "answer": "عيد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_253",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: إنما الأعمال بالنيات، وإنما لكل امرئ...",
+    "answer": "ما نوى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_254",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: المسلم من سلم المسلمون من لسانه و...",
+    "answer": "يده",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_255",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الدين...",
+    "answer": "النصيحة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_256",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: لا يؤمن أحدكم حتى يحب لأخيه...",
+    "answer": "ما يحب لنفسه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_257",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من حسن إسلام المرء...",
+    "answer": "تركه ما لا يعنيه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_258",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الطهور...",
+    "answer": "شطر الإيمان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_259",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: بُني الإسلام على خمس: شهادة أن لا إله إلا الله وأن محمداً رسول الله، وإقام الصلاة، وإيتاء الزكاة، وحج البيت، و...",
+    "answer": "صوم رمضان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_260",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من كان يؤمن بالله واليوم الآخر فليقل خيراً...",
+    "answer": "أو ليصمت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_261",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: لا ضرر و...",
+    "answer": "لا ضرار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_262",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: المؤمن للمؤمن كالبنيان...",
+    "answer": "يشد بعضه بعضاً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_263",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الحياء...",
+    "answer": "من الإيمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_264",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من غشّنا...",
+    "answer": "فليس منا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_265",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: اتق الله حيثما كنت، وأتبع السيئة الحسنة تمحها، و...",
+    "answer": "خالق الناس بخلق حسن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_266",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: لا يدخل الجنة من كان في قلبه...",
+    "answer": "مثقال ذرة من كبر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_267",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الكلمة الطيبة...",
+    "answer": "صدقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_268",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: تبسمك في وجه أخيك...",
+    "answer": "صدقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_269",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الراحمون...",
+    "answer": "يرحمهم الرحمن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_270",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من لا يرحم...",
+    "answer": "لا يُرحم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_271",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: إن الله رفيق...",
+    "answer": "يحب الرفق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_272",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: كل ابن آدم خطّاء، و...",
+    "answer": "خير الخطّائين التوابون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_273",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الظلم...",
+    "answer": "ظلمات يوم القيامة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_274",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من عمل عملاً ليس عليه أمرنا...",
+    "answer": "فهو ردّ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_275",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الحلال بيّن والحرام بيّن، و...",
+    "answer": "بينهما أمور مشتبهات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_276",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: احفظ الله...",
+    "answer": "يحفظك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_277",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: كل سلامى من الناس عليه صدقة...",
+    "answer": "كل يوم تطلع فيه الشمس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_278",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: البر...",
+    "answer": "حسن الخلق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_279",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: المستشار...",
+    "answer": "مؤتمن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_280",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من كذب علي متعمداً...",
+    "answer": "فليتبوأ مقعده من النار",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_281",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: خيركم من تعلم القرآن...",
+    "answer": "وعلمه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_282",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: المسلم أخو المسلم لا يظلمه و...",
+    "answer": "لا يسلمه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_283",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: إن الله لا ينظر إلى صوركم وأموالكم، ولكن ينظر إلى...",
+    "answer": "قلوبكم وأعمالكم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_284",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من كان يؤمن بالله واليوم الآخر...",
+    "answer": "فليكرم ضيفه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_285",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الدنيا سجن المؤمن و...",
+    "answer": "جنة الكافر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_286",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: الكيّس من دان نفسه وعمل...",
+    "answer": "لما بعد الموت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "religion_extra_287",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: تهادوا...",
+    "answer": "تحابّوا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_288",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من صمت...",
+    "answer": "نجا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_289",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: إياكم والظن، فإن الظن...",
+    "answer": "أكذب الحديث",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_290",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف، و...",
+    "answer": "في كل خير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_291",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: من سلك طريقاً يلتمس فيه علماً...",
+    "answer": "سهّل الله له به طريقاً إلى الجنة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "religion_extra_292",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: طلب العلم...",
+    "answer": "فريضة على كل مسلم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "religion_extra_293",
+    "category": "religion",
+    "subcategory": "أكمل الحديث",
+    "question": "أكمل الحديث الشريف: رأس الأمر الإسلام، وعموده الصلاة، وذروة سنامه...",
+    "answer": "الجهاد في سبيل الله",
+    "difficulty": "hard"
+  }
+]

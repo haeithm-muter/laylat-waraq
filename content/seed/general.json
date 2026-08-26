@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "general_1",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "ما هو أكبر محيط في العالم؟",
+    "answer": "المحيط الهادئ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_2",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما هو الحيوان الذي يُلقّب بسفينة الصحراء؟",
+    "answer": "الجمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_3",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما هو أسرع حيوان بري في العالم؟",
+    "answer": "الفهد (الشيتا)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_4",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "كم عدد ألوان قوس قزح؟",
+    "answer": "7 ألوان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_5",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "ما هو أكبر عضو في جسم الإنسان؟",
+    "answer": "الجلد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_6",
+    "category": "general",
+    "subcategory": "حكم وأمثال",
+    "question": "أكمل المثل: الوقت كـ...",
+    "answer": "السيف، إن لم تقطعه قطعك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_001",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الصفة العامة للثدييات؟",
+    "answer": "لها شعر أو فراء وترضع صغارها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_002",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الصفة العامة للطيور؟",
+    "answer": "لها ريش ومنقار وتبيض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_003",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الصفة العامة للزواحف؟",
+    "answer": "جلدها مغطى بالحراشف وهي باردة الدم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_004",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الصفة العامة للبرمائيات؟",
+    "answer": "تعيش بين الماء واليابسة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_005",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يحمل بيته على ظهره؟",
+    "answer": "السلحفاة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_006",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما أكبر حيوان بري؟",
+    "answer": "الفيل الأفريقي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_007",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما أكبر حيوان في العالم؟",
+    "answer": "الحوت الأزرق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_008",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الطويل الرقبة؟",
+    "answer": "الزرافة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_009",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "كم عدد فقرات عنق الزرافة؟",
+    "answer": "سبع فقرات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_010",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان المعروف بملك الغابة؟",
+    "answer": "الأسد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_011",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما صوت الأسد؟",
+    "answer": "الزئير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_012",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يموء؟",
+    "answer": "القط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_013",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقول \"مو\"؟",
+    "answer": "البقرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_014",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي ينهق؟",
+    "answer": "الحمار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_015",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الصحراوي المعروف بالصبر على العطش؟",
+    "answer": "الجمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_016",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يشتهر بالخطوط السوداء والبيضاء؟",
+    "answer": "الحمار الوحشي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_017",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الوحيد من الثدييات القادر على الطيران الحقيقي؟",
+    "answer": "الخفاش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_018",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال إنه أبطأ حيوان معروف؟",
+    "answer": "الكسلان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_019",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يرمز للوفاء؟",
+    "answer": "الكلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_020",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يشتهر بحب العسل؟",
+    "answer": "الدب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_021",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال إنه أذكى الثدييات البحرية؟",
+    "answer": "الدلفين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_022",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان البحري الذي له ثمانية أذرع؟",
+    "answer": "الأخطبوط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_023",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما لون دم الأخطبوط؟",
+    "answer": "أزرق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_024",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان البحري الذي له ثلاثة قلوب؟",
+    "answer": "الأخطبوط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_025",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يعيش في القطيع ويعطي الحليب؟",
+    "answer": "البقرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_026",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يملك حاسة شم قوية جداً؟",
+    "answer": "الكلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_027",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال إنه ينام واقفاً؟",
+    "answer": "الحصان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_028",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يأكل الخيزران؟",
+    "answer": "الباندا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_029",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يملك أنياباً طويلة ويعيش في القطب الشمالي؟",
+    "answer": "الفظ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_030",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقفز لمسافات كبيرة ويستخدم ذيله للتوازن؟",
+    "answer": "الكنغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_031",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال إنه لا ينسى بسهولة؟",
+    "answer": "الفيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_032",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يعيش في مستعمرات منظمة؟",
+    "answer": "النمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_033",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يُعد رمزاً للسلام؟",
+    "answer": "الحمامة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_034",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يتحرك ببطء شديد ويُضرب به المثل؟",
+    "answer": "السلحفاة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_035",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال له \"ملك البحار\" في بعض الألغاز؟",
+    "answer": "القرش",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_036",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يلدغ وله سم؟",
+    "answer": "الأفعى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_037",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يُستخدم جلده في الصناعات الجلدية؟",
+    "answer": "البقر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_038",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يقال عنه إنه أفضل صديق للإنسان؟",
+    "answer": "الكلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_039",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يتميز بقرن واحد؟",
+    "answer": "وحيد القرن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_040",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يهاجر لمسافات طويلة؟",
+    "answer": "الطيور المهاجرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_041",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يفقس من البيض ويعيش في المزارع غالباً؟",
+    "answer": "الدجاجة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_042",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يعيش في الغابات المطيرة ويشبه الإنسان في سلوكه الاجتماعي؟",
+    "answer": "الغوريلا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_043",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان البحري الذي ينتفخ دفاعاً عن نفسه؟",
+    "answer": "سمكة الينفوخ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_044",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يكون صوته \"ثغاء\"؟",
+    "answer": "الخروف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_045",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يعد أكبر مفترس بري في المناطق القطبية؟",
+    "answer": "الدب القطبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_046",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يلد صغاره أحياء ولا يبيض؟",
+    "answer": "معظم الثدييات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_047",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي له خرطوم طويل؟",
+    "answer": "الفيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_048",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يعيش في الماء وله خياشيم؟",
+    "answer": "السمك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_049",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان البحري الكبير جداً الذي يتغذى على الكريل؟",
+    "answer": "الحوت الأزرق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_050",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما أسرع طائر في العالم؟",
+    "answer": "الصقر الشاهين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_051",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الطائر المعروف بالقدرة على تقليد الأصوات؟",
+    "answer": "الببغاء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_052",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الطائر الذي لا يستطيع الطيران ويعيش في القطب الجنوبي؟",
+    "answer": "البطريق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_053",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الطائر الذي يستطيع الطيران للخلف أيضاً؟",
+    "answer": "طائر الطنان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_054",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يرمز إلى القوة والسرعة ويُشبه النمر؟",
+    "answer": "الفهد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_055",
+    "category": "general",
+    "subcategory": "عالم الحيوان",
+    "question": "ما الحيوان الذي يملك صوفاً؟",
+    "answer": "الخروف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_056",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "ما اسم الغاز الذي تتنفسه الكائنات الحية؟",
+    "answer": "الأكسجين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_057",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "ما العملة الرسمية في الولايات المتحدة؟",
+    "answer": "الدولار الأمريكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_058",
+    "category": "general",
+    "subcategory": "معلومات عامة",
+    "question": "ما اسم اللغة الرسمية في البرازيل؟",
+    "answer": "البرتغالية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_059",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو نجم البوب المعروف بلقب King of Pop؟",
+    "answer": "مايكل جاكسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_060",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو العبقري صاحب النظرية النسبية؟",
+    "answer": "ألبرت أينشتاين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_061",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو مؤسس مايكروسوفت؟",
+    "answer": "بيل غيتس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_062",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو مؤسس أبل الشهير؟",
+    "answer": "ستيف جوبز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_063",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو مؤلف هاري بوتر؟",
+    "answer": "ج. ك. رولينغ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_064",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو ملك الروك أند رول؟",
+    "answer": "إلفيس بريسلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_065",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو لاعب كرة القدم الأرجنتيني الشهير؟",
+    "answer": "ليونيل ميسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_066",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو لاعب كرة القدم البرتغالي الشهير؟",
+    "answer": "كريستيانو رونالدو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_067",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو اللاعب الشهير في كرة السلة؟",
+    "answer": "مايكل جوردان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_068",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو بطل الملاكمة الشهير؟",
+    "answer": "محمد علي كلاي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_069",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي ملكة البوب الأمريكية؟",
+    "answer": "مادونا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_070",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي المغنية الأمريكية صاحبة أغنية Rolling in the Deep؟",
+    "answer": "أديل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_071",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي المغنية الكولومبية الشهيرة؟",
+    "answer": "شاكيرا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_072",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي المغنية الأمريكية الشهيرة بيونسيه؟",
+    "answer": "بيونسيه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_073",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو الممثل المعروف بدور Jack Sparrow؟",
+    "answer": "جوني ديب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_074",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو الممثل الذي جسد Iron Man؟",
+    "answer": "روبرت داوني جونيور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_075",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هو الممثل الشهير بدور Neo؟",
+    "answer": "كيانو ريفز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_076",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي الممثلة الأمريكية الشهيرة بدور Black Widow؟",
+    "answer": "سكارليت جوهانسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_077",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي الممثلة الشهيرة بدور Katniss؟",
+    "answer": "جينيفر لورنس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_078",
+    "category": "general",
+    "subcategory": "من المشهور أجنبي",
+    "question": "من هي مقدمة البرامج الأمريكية الشهيرة؟",
+    "answer": "أوبرا وينفري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_079",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "من هو كبير الآلهة في الأساطير الإغريقية؟",
+    "answer": "زيوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_080",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "من هو إله الرعد في الأساطير الإسكندنافية؟",
+    "answer": "ثور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_081",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم نصف الإنسان ونصف الثور؟",
+    "answer": "مينوتور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_082",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الطائر الذي ينهض من الرماد؟",
+    "answer": "العنقاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_083",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم المخلوق نصف إنسان ونصف حصان؟",
+    "answer": "القنطور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_084",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم حارس الجحيم ذو الرؤوس الثلاثة؟",
+    "answer": "سيربيروس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_085",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإله المصري المرتبط بالشمس؟",
+    "answer": "رع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_086",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإلهة الإغريقية للحكمة؟",
+    "answer": "أثينا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_087",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم مخلوق بحري يجر السفن إلى الأعماق؟",
+    "answer": "الكراكن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_088",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم مخلوق يحقق الأمنيات في القصص الشعبية؟",
+    "answer": "الجني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_089",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم المخلوق الذي يتحول إلى ذئب عند اكتمال القمر؟",
+    "answer": "المستذئب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_090",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الوحش ذي العين الواحدة؟",
+    "answer": "السيكلوب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_091",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإله الروماني للحرب؟",
+    "answer": "مارس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_092",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإلهة المصرية للحب والجمال؟",
+    "answer": "حتحور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_093",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإله الشمسي الياباني؟",
+    "answer": "أماتيراسو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_094",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الوحش الذي واجهه هرقل؟",
+    "answer": "الهيدرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_095",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم البطل الذي قتل المينوتور؟",
+    "answer": "ثيسيوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_096",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الكائن الذي له رأس امرأة وجسم أسد؟",
+    "answer": "السفينكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_097",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الإله الروماني للحب؟",
+    "answer": "فينوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_098",
+    "category": "general",
+    "subcategory": "أساطير وخرافات",
+    "question": "ما اسم الحيوان الأسطوري ذو القرن الواحد؟",
+    "answer": "اليونيكورن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_099",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى POV؟",
+    "answer": "وجهة نظرك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_100",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى ترند؟",
+    "answer": "رائج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_101",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى DM؟",
+    "answer": "رسالة خاصة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_102",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى LOL؟",
+    "answer": "ضحك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_103",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى BTW؟",
+    "answer": "بالمناسبة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_104",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى FYP؟",
+    "answer": "صفحة لك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_105",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى ghosting؟",
+    "answer": "التجاهل المفاجئ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_106",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى cap؟",
+    "answer": "كذب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_107",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى no cap؟",
+    "answer": "بجدية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_108",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى flex؟",
+    "answer": "استعراض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_109",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى cringe؟",
+    "answer": "محرج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_110",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى sus؟",
+    "answer": "مريب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_111",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى vibe؟",
+    "answer": "أجواء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_112",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى stan؟",
+    "answer": "معجب بشدة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_113",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى meme؟",
+    "answer": "ميم ساخر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_114",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى stream؟",
+    "answer": "بث مباشر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_115",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى edit؟",
+    "answer": "مونتاج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_116",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى clout؟",
+    "answer": "نفوذ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_117",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى viral؟",
+    "answer": "منتشر بسرعة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_118",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "من هو أشهر محقق بلجيكي في روايات أجاثا كريستي؟",
+    "answer": "هيركيول بوارو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_119",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "من هو المحقق البريطاني الشهير؟",
+    "answer": "شرلوك هولمز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_120",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم مؤلف شرلوك هولمز؟",
+    "answer": "آرثر كونان دويل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_121",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم جريمة أخذ شيء بالقوة؟",
+    "answer": "السرقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_122",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة التي تتم على الإنترنت؟",
+    "answer": "الاحتيال الإلكتروني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_123",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم العلم الذي يدرس الأدلة في الجرائم؟",
+    "answer": "الأدلة الجنائية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_124",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الأثر الذي قد يكشف الجاني؟",
+    "answer": "البصمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_125",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم التحقيق الرسمي في الحادث؟",
+    "answer": "المعاينة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_126",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الشهادة التي يدلي بها شخص أمام المحكمة؟",
+    "answer": "شهادة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_127",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة المرتبطة بالمال العام؟",
+    "answer": "الاختلاس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_128",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة التي تتم داخل البنك؟",
+    "answer": "السطو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_129",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة المرتبطة بالتزوير؟",
+    "answer": "التزوير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_130",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة المرتبطة بالرشوة؟",
+    "answer": "الفساد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_131",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الشخص الذي يحقق في القضية؟",
+    "answer": "المحقق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_132",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الشخص الذي ينكر التهمة؟",
+    "answer": "المتهم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_133",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الجريمة التي تتعلق بخطف شخص؟",
+    "answer": "الخطف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_134",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الملف الذي يجمع كل الأدلة؟",
+    "answer": "ملف القضية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_135",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم التقنية التي تكشف الهوية الوراثية؟",
+    "answer": "تحليل DNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_136",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم السلاح الذي يطلق الرصاص؟",
+    "answer": "المسدس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_137",
+    "category": "general",
+    "subcategory": "لغز وجريمة",
+    "question": "ما اسم الشخص الذي يهرب من العدالة؟",
+    "answer": "فارّ من العدالة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_138",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Hello\" — بأي لغة؟",
+    "answer": "الإنجليزية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_139",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Bonjour\" — بأي لغة؟",
+    "answer": "الفرنسية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_140",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Gracias\" — بأي لغة؟",
+    "answer": "الإسبانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_141",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Ciao\" — بأي لغة؟",
+    "answer": "الإيطالية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_142",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Konnichiwa\" — بأي لغة؟",
+    "answer": "اليابانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_143",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Annyeong\" — بأي لغة؟",
+    "answer": "الكورية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_144",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Obrigada\" — بأي لغة؟",
+    "answer": "البرتغالية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_145",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Xin chào\" — بأي لغة؟",
+    "answer": "الفيتنامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_146",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Nǐ hǎo\" — بأي لغة؟",
+    "answer": "الصينية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_147",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Danke\" — بأي لغة؟",
+    "answer": "الألمانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_148",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Aiwa\" — بأي لهجة عربية؟",
+    "answer": "المصرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_149",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Shlonak\" — بأي لهجة عربية؟",
+    "answer": "العراقية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_150",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Keefak\" — بأي لهجة عربية؟",
+    "answer": "الشامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_151",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Mashi\" — بأي لهجة عربية؟",
+    "answer": "المغربية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_152",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Besh\" — بأي لهجة عربية؟",
+    "answer": "التونسية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_153",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"Sho?\" — بأي لهجة عربية؟",
+    "answer": "الشامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_154",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"يالله\" — أي لغة؟",
+    "answer": "عربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_155",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"حبيبي\" — أي لغة؟",
+    "answer": "عربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_156",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"تمام\" — أي لغة؟",
+    "answer": "عربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_157",
+    "category": "general",
+    "subcategory": "خمن اللغة أو اللهجة",
+    "question": "\"إن شاء الله\" — أي لغة؟",
+    "answer": "عربية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_158",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد توجد قيود مشهورة على مضغ العلكة؟",
+    "answer": "سنغافورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_159",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد قد تُفرض غرامة على رمي القمامة؟",
+    "answer": "سنغافورة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_160",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد يُمنع الأكل في بعض وسائل النقل العام؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_161",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد يُشدد على الهدوء في المترو؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_162",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد توجد غرامات على البصق في الشارع؟",
+    "answer": "سنغافورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_163",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد قد يُمنع عبور الشارع خارج الممر؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_164",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد توجد قوانين صارمة ضد الكتابة على الجدران؟",
+    "answer": "سنغافورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_165",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد توجد قيود مشددة على التدخين في الأماكن العامة؟",
+    "answer": "سنغافورة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_166",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد توجد قواعد دقيقة للطوابير والاصطفاف؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_167",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد قد تُفرض غرامة على الأكل أثناء المشي في بعض المناطق؟",
+    "answer": "اليابان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_168",
+    "category": "general",
+    "subcategory": "قوانين غريبة",
+    "question": "في أي بلد قد تُمنع بعض الحيوانات الأليفة في الشقق؟",
+    "answer": "سنغافورة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "general_extra_169",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ تفاح، موز، برتقال، سيارة",
+    "answer": "سيارة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_170",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ قلم، دفتر، كتاب، سمكة",
+    "answer": "سمكة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_171",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ أسد، نمر، فهد، كرسي",
+    "answer": "كرسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_172",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ شمس، قمر، نجمة، خبز",
+    "answer": "خبز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_173",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ بغداد، دمشق، القاهرة، ملعقة",
+    "answer": "ملعقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_174",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ قط، كلب، حصان، هاتف",
+    "answer": "هاتف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_175",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ ماء، نهر، بحر، باب",
+    "answer": "باب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_176",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ ذهب، فضة، نحاس، مدرسة",
+    "answer": "مدرسة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_177",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ يناير، فبراير، مارس، كرسي",
+    "answer": "كرسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_178",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ أخضر، أحمر، أزرق، طاولة",
+    "answer": "طاولة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_179",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ سيارة، شاحنة، حافلة، موز",
+    "answer": "موز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_180",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ جبل، وادٍ، سهل، قلم",
+    "answer": "قلم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_181",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ ليل، نهار، فجر، مقعد",
+    "answer": "مقعد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_182",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ طائر، سمكة، حوت، باب",
+    "answer": "باب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_183",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ كرة، ملعب، هدف، شجرة",
+    "answer": "شجرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_184",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ قهوة، شاي، ماء، قميص",
+    "answer": "قميص",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_185",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ بيت، منزل، دار، نحلة",
+    "answer": "نحلة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_186",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ كتاب، مجلة، صحيفة، دب",
+    "answer": "دب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_187",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ سيارة، دراجة، قطار، ملعقة",
+    "answer": "ملعقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_188",
+    "category": "general",
+    "subcategory": "الكلمة الدخيلة",
+    "question": "ما الكلمة الدخيلة؟ حمامة، عصفور، بطة، هاتف",
+    "answer": "هاتف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_189",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ر، ك، س، ي",
+    "answer": "كرسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_190",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ق، ل، م",
+    "answer": "قلم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_191",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: م، ا، ء",
+    "answer": "ماء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_192",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ش، ج، ر، ة",
+    "answer": "شجرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_193",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: س، ي، ا، ر، ة",
+    "answer": "سيارة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_194",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ك، ت، ا، ب",
+    "answer": "كتاب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_195",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ح، ا، ف، ل، ة",
+    "answer": "حافلة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_196",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ب، ا، ب",
+    "answer": "باب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_197",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ن، ج، م، ة",
+    "answer": "نجمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_198",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: أ، س، د",
+    "answer": "أسد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_199",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ج، م، ل",
+    "answer": "جمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_200",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ف، ي، ل",
+    "answer": "فيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_201",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ق، ط",
+    "answer": "قط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_202",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ك، ل، ب",
+    "answer": "كلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_203",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ن، ه، ر",
+    "answer": "نهر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_204",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ب، ح، ر",
+    "answer": "بحر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_205",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ش، م، س",
+    "answer": "شمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_206",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ق، م، ر",
+    "answer": "قمر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_207",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ز، ه، ر، ة",
+    "answer": "زهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_208",
+    "category": "general",
+    "subcategory": "حروف مبعثرة",
+    "question": "رتب الحروف: ت، ف، ا، ح",
+    "answer": "تفاح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_209",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الولادة، المدرسة، الجامعة، العمل",
+    "answer": "الولادة، المدرسة، الجامعة، العمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_210",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الفجر، الصباح، الظهر، المساء",
+    "answer": "الفجر، الصباح، الظهر، المساء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_211",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: البذرة، النبتة، الزهرة، الثمرة",
+    "answer": "البذرة، النبتة، الزهرة، الثمرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_212",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الشتاء، الربيع، الصيف، الخريف",
+    "answer": "الشتاء، الربيع، الصيف، الخريف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_213",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: أمس، اليوم، غداً",
+    "answer": "أمس، اليوم، غداً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_214",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الاستيقاظ، الإفطار، الذهاب، العمل",
+    "answer": "الاستيقاظ، الإفطار، الذهاب، العمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_215",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الكتابة، المراجعة، الطباعة، النشر",
+    "answer": "الكتابة، المراجعة، الطباعة، النشر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_216",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الغليان، التبريد، الشرب، النوم",
+    "answer": "الغليان، التبريد، الشرب، النوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_217",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الوقوف، المشي، الجري، القفز",
+    "answer": "الوقوف، المشي، الجري، القفز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_218",
+    "category": "general",
+    "subcategory": "رتب الأحداث",
+    "question": "رتب هذه الأحداث بترتيبها الصحيح: الصباح، الظهيرة، المغرب، الليل",
+    "answer": "الصباح، الظهيرة، المغرب، الليل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_219",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"نعم\"، اذكر العكس",
+    "answer": "لا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_220",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"كبير\"، اذكر العكس",
+    "answer": "صغير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_221",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"ليل\"، اذكر العكس",
+    "answer": "نهار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_222",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"فوق\"، اذكر العكس",
+    "answer": "تحت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_223",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"أبيض\"، اذكر العكس",
+    "answer": "أسود",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_224",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"طويل\"، اذكر العكس",
+    "answer": "قصير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_225",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"قريب\"، اذكر العكس",
+    "answer": "بعيد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_226",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"حار\"، اذكر العكس",
+    "answer": "بارد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_227",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"سريع\"، اذكر العكس",
+    "answer": "بطيء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_228",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"داخل\"، اذكر العكس",
+    "answer": "خارج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_229",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"يمين\"، اذكر العكس",
+    "answer": "يسار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_230",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"صعود\"، اذكر العكس",
+    "answer": "نزول",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_231",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"مفتوح\"، اذكر العكس",
+    "answer": "مغلق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_232",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"صادق\"، اذكر العكس",
+    "answer": "كاذب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_233",
+    "category": "general",
+    "subcategory": "ولا كلمة",
+    "question": "لا تقل \"حي\"، اذكر العكس",
+    "answer": "ميت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "general_extra_234",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Hello\"",
+    "answer": "مرحباً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_235",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Thank you\"",
+    "answer": "شكراً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_236",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Good morning\"",
+    "answer": "صباح الخير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_237",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Good night\"",
+    "answer": "تصبح على خير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_238",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Water\"",
+    "answer": "ماء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_239",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"House\"",
+    "answer": "بيت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_240",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Book\"",
+    "answer": "كتاب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_241",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Car\"",
+    "answer": "سيارة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_242",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Sun\"",
+    "answer": "شمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_243",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Moon\"",
+    "answer": "قمر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_244",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Mother\"",
+    "answer": "أم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_245",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Father\"",
+    "answer": "أب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_246",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"School\"",
+    "answer": "مدرسة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_247",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"City\"",
+    "answer": "مدينة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_248",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Friend\"",
+    "answer": "صديق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_249",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Food\"",
+    "answer": "طعام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_250",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Love\"",
+    "answer": "حب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_251",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Peace\"",
+    "answer": "سلام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_252",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Work\"",
+    "answer": "عمل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_253",
+    "category": "general",
+    "subcategory": "ترجم",
+    "question": "ترجم إلى العربية: \"Time\"",
+    "answer": "وقت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "general_extra_254",
+    "category": "general",
+    "subcategory": "مصطلحات جيل Z",
+    "question": "ما معنى filter؟",
+    "answer": "فلتر",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "series_1",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "في مسلسل Breaking Bad، ما هي مهنة والتر وايت الأصلية؟",
+    "answer": "مدرّس كيمياء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_2",
+    "category": "series",
+    "subcategory": "Squid Game",
+    "question": "ما اسم المسلسل الكوري الشهير الذي تدور أحداثه حول ألعاب أطفال قاتلة؟",
+    "answer": "Squid Game",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_3",
+    "category": "series",
+    "subcategory": "La Casa De Papel",
+    "question": "في مسلسل La Casa de Papel، ما الاسم الحركي لقائد المجموعة؟",
+    "answer": "البروفيسور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_4",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم العائلة الحاكمة لـ Winterfell في مسلسل Game of Thrones؟",
+    "answer": "آل ستارك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_5",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "في مسلسل Stranger Things، ما اسم البلدة التي تدور فيها الأحداث؟",
+    "answer": "هوكينز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_6",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "في مسلسل Friends، ما هو تخصص روس المهني؟",
+    "answer": "عالم أحافير (باليونتولوجي)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_7",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم البطل الرئيسي في المسلسل؟",
+    "answer": "والتر وايت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_8",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما المدينة التي تدور فيها الأحداث بشكل رئيسي؟",
+    "answer": "ألبوكيركي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_9",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم شريك والتر وايت في طبخ الميث؟",
+    "answer": "جيسي بينكمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_10",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم زوجة والتر وايت؟",
+    "answer": "سكايلر وايت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_11",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم ابن والتر وايت؟",
+    "answer": "والتر وايت الابن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_12",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما الاسم المستعار الذي يستخدمه والتر؟",
+    "answer": "Heisenberg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_13",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما وظيفة هانك شرادر؟",
+    "answer": "عميل في إدارة مكافحة المخدرات (DEA)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_14",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو المحامي الشهير المرتبط بعالم الجريمة في المسلسل؟",
+    "answer": "سول غودمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_15",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم عمل غاس فرينغ التجاري الشهير؟",
+    "answer": "Los Pollos Hermanos",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_16",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم أفضل صديقين لجيسي وطاقم بيع المخدرات الصغار؟",
+    "answer": "بادجر وسكيني بيت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_17",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم صديق جيسي الذي يُلقب بـ Combo؟",
+    "answer": "كريستيان أورتيغا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_18",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم العمل الذي كان والتر يعمل فيه جزئيًا في البداية؟",
+    "answer": "غسيل السيارات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_19",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هي أخت سكايلر؟",
+    "answer": "ماري شرادر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_20",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم شريك والتر المؤقت في بداية السلسلة الذي لديه عربة RV؟",
+    "answer": "جيسي بينكمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_21",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم السرطان الذي يُصاب به والتر؟",
+    "answer": "سرطان الرئة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_22",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الشركة التي أسسها والتر قديمًا مع إليوت وغريتشن؟",
+    "answer": "Gray Matter Technologies",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_23",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هي صديقة جيسي التي تتوفى في الموسم الثاني؟",
+    "answer": "جين مارغوليس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_24",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم والد جين مارغوليس؟",
+    "answer": "دونالد مارغوليس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_25",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الكيميائي الذي يحاول غاس تشغيله بدل والتر؟",
+    "answer": "غيل بوتيشر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_26",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الشحنات الزرقاء الشهيرة في المسلسل؟",
+    "answer": "Blue meth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_27",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو شريك سول غودمان الذي يعمل كمنفذ (fixer)؟",
+    "answer": "مايك إرمانتراوت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_28",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو أخ سكايلر وايت الذي يحقق في تجارة المخدرات؟",
+    "answer": "هانك شرادر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_29",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الفتاة التي يلتقي بها جيسي في إعادة التأهيل وتصبح لاحقًا مرتبطة به؟",
+    "answer": "أندريا كانتيو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_30",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم ابن أندريا؟",
+    "answer": "بروك كانتيو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_31",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو المسؤول الكبير في الكارتل الذي يعمل كوسيط بين غاس وآل سالامانكا؟",
+    "answer": "خوان بولسا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_32",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو كبير عائلة سالامانكا المتكرر ظهوره في السرد؟",
+    "answer": "هيكتور سالامانكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_33",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم شركة مبيدات الآفات التي ترتبط بعمليات الموسم الخامس؟",
+    "answer": "Vamonos Pest",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_34",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو الشاب الذي ينضم إلى والتر وجيسي في نهاية المسلسل على مستوى العنف؟",
+    "answer": "تود ألكويست",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_35",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم المسؤولة التنفيذية التي تزودهم بمواد كيميائية لاحقًا في الموسم الخامس؟",
+    "answer": "ليديا رودارتي-كويل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_36",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم عمل والتر التجاري البديل الذي يستعمله لغسل الأموال؟",
+    "answer": "غسيل السيارات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_37",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو رئيس شركة Ted Beneke؟",
+    "answer": "تِد بينيكي نفسه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_38",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الزهرة التي تُستخدم في حبكة مهمة ضد الطفل Brock؟",
+    "answer": "Lily of the valley",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_39",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما وصف الجماعة التي يقودها جاك ويلكر؟",
+    "answer": "عصابة بيضاء متطرفة (نازيون جدد)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_40",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "من هو الرجل الذي كان شريكًا ماليًا قديمًا لوالتر في Gray Matter؟",
+    "answer": "إليوت شوارتز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_41",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الشريكة المؤسِّسة الأخرى في Gray Matter؟",
+    "answer": "غريتشن شوارتز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_42",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الحلقة الأولى من المسلسل؟",
+    "answer": "Pilot",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_43",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الحلقة التي يظهر فيها والتر يهدد خصومه عبر مادة متفجرة من المختبر؟",
+    "answer": "Crazy Handful of Nothin'",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_44",
+    "category": "series",
+    "subcategory": "Breaking Bad",
+    "question": "ما اسم الشخصية التي تعمل مع جاك وتصبح عنصرًا محوريًا في الموسم الخامس؟",
+    "answer": "تود ألكويست",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_45",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "كم عدد الأصدقاء الرئيسيين في المسلسل؟",
+    "answer": "ستة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_46",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما المدينة التي تدور فيها أحداث المسلسل؟",
+    "answer": "نيويورك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_47",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم المقهى الشهير في المسلسل؟",
+    "answer": "Central Perk",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_48",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تريد أن تصبح ممثلة؟",
+    "answer": "جوي تريبياني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_49",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تعمل شيفة؟",
+    "answer": "مونيكا غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_50",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تعمل في علم الحفريات؟",
+    "answer": "روس غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_51",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية الغنائية/الموسيقية الغريبة الأطوار؟",
+    "answer": "فيبي بوفيه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_52",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية الأكثر سخافة وسخرية في المجموعة؟",
+    "answer": "تشاندلر بينغ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_53",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تنتقل إلى نيويورك في بداية المسلسل؟",
+    "answer": "رايتشل غرين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_54",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم أخت روس؟",
+    "answer": "مونيكا غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_55",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم والد مونيكا وروس؟",
+    "answer": "جاك غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_56",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم والدة مونيكا وروس؟",
+    "answer": "جودي غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_57",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من هي أخت فيبي التوأم؟",
+    "answer": "أورسولا بوفيه",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_58",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم ابن روس ورايتشل؟",
+    "answer": "إيما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_59",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم زوج مونيكا في النهاية؟",
+    "answer": "تشاندلر بينغ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_60",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم شخصية رايتشل الكامل؟",
+    "answer": "Rachel Green",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_61",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من هو شقيق مونيكا في المسلسل؟",
+    "answer": "روس غيلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_62",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم الموظف الذي يظهر في المقهى بين الحين والآخر؟",
+    "answer": "Gunther",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_63",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تعمل نادلة في البداية؟",
+    "answer": "رايتشل غرين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_64",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من هو الخطيب السابق لرايتشل في بداية المسلسل؟",
+    "answer": "باري فاربر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_65",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم الخطيب السابق لمونيكا في السلسلة المبكرة؟",
+    "answer": "ريتشارد بيرك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_66",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما مهنة فيبي الأساسية؟",
+    "answer": "مُدلِّكة (معالجة بالمساج)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_67",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي تعمل في صناعة الأزياء لاحقًا؟",
+    "answer": "رايتشل غرين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_68",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من هي الأم البيولوجية لفيبي؟",
+    "answer": "فيليس بوفيه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_69",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم والد فيبي البيولوجي؟",
+    "answer": "فرانك بوفيه الأب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_70",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من هو شقيق فيبي غير الشقيق الذي يظهر لاحقًا؟",
+    "answer": "فرانك جونيور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_71",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم زوجة روس الأولى؟",
+    "answer": "كارول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_72",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم ابن روس من كارول؟",
+    "answer": "بن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_73",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم الشركة التي تعمل فيها رايتشل في مرحلة الأزياء؟",
+    "answer": "Ralph Lauren",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_74",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي اشتهرت بجملة How you doin'؟",
+    "answer": "جوي تريبياني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_75",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصية التي انتقلت للعيش مع مونيكا في الحلقة الأولى؟",
+    "answer": "رايتشل غرين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_76",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم الزوجة الثانية لروس؟",
+    "answer": "إميلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_77",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "في أي موسم تعرّف المشاهدون أولًا على أصدقاء المسلسل الستة؟",
+    "answer": "الموسم الأول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_78",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "مع من تنتهي رايتشل عاطفيًا في نهاية المسلسل؟",
+    "answer": "روس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_79",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم الشخصية التي تعمل في مجال المساج وتكتب شعرًا وموسيقى؟",
+    "answer": "فيبي بوفيه",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_80",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم أخت رايتشل؟",
+    "answer": "جيل غرين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_81",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "ما اسم القرد الذي ظهر مع روس؟",
+    "answer": "مارسيل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_82",
+    "category": "series",
+    "subcategory": "Friends",
+    "question": "من الشخصيتان اللتان تعيشان غالبًا في الشقة المقابلة لشقة مونيكا في البداية؟",
+    "answer": "تشاندلر بينغ وجوي تريبياني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_83",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم القلعة الشتوية لآل ستارك؟",
+    "answer": "وينترفيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_84",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو رأس عائلة ستارك في البداية؟",
+    "answer": "نيد ستارك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_85",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي ابنة نيد ستارك المشهورة بالقوس؟",
+    "answer": "آريا ستارك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_86",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الابن الأكبر لنيد ستارك؟",
+    "answer": "روب ستارك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_87",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الابن الذي ينضم إلى الحرس الليلي؟",
+    "answer": "جون سنو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_88",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم العاصمة في السلسلة؟",
+    "answer": "King's Landing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_89",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الملك في بداية السلسلة؟",
+    "answer": "روبرت باراثيون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_90",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي دانييرس؟",
+    "answer": "دانييرس تارغاريان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_91",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم عائلة تيريون؟",
+    "answer": "لانستر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_92",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو شقيق سيرسي؟",
+    "answer": "جيمي لانستر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_93",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو والد تيريون؟",
+    "answer": "تايوين لانستر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_94",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم الجدار العظيم في الشمال؟",
+    "answer": "The Wall",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_95",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم القلعة التي يقيم فيها الحرس الليلي؟",
+    "answer": "Castle Black",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_96",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم السلسلة الأدبية التي بُني عليها المسلسل؟",
+    "answer": "A Song of Ice and Fire",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_97",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "كم موسمًا للمسلسل؟",
+    "answer": "ثمانية مواسم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_98",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "كم عدد الحلقات تقريبًا في Game of Thrones؟",
+    "answer": "73 حلقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_99",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من لقبها أم التنانين؟",
+    "answer": "دانييرس تارغاريان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_100",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو اللورد الذي يخلف السلطة في وينترفيل بعد نيد؟",
+    "answer": "روب ستارك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_101",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الأخ غير الشقيق المعروف لعائلة ستارك؟",
+    "answer": "جون سنو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_102",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي أخت روب ستارك؟",
+    "answer": "سانسا ستارك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_103",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الأخ الأصغر لروب وسانسا؟",
+    "answer": "بران ستارك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_104",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الأصغر بين أبناء نيد المعروفين؟",
+    "answer": "ريكون ستارك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_105",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الملقب بـ The Imp؟",
+    "answer": "تيريون لانستر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_106",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم السلاح الشهير الذي تحمله آريا؟",
+    "answer": "Needle",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_107",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم العضو المعروف في الحرس الليلي الذي يصاحب جون؟",
+    "answer": "صامويل تارلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_108",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو قائد الحرس الليلي الشهير في البداية؟",
+    "answer": "Jeor Mormont",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_109",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم المنطقة وراء الجدار؟",
+    "answer": "Beyond the Wall",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_110",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الحارس المعروف بلقب Hound؟",
+    "answer": "ساندور كليغان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_111",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الشقيق المعروف بلقب Mountain؟",
+    "answer": "غريغور كليغان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_112",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو مستشار الملك الملقب بـ سيد الهمسات؟",
+    "answer": "فاريس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_113",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو المعروف بلقب Littlefinger؟",
+    "answer": "بيتر بايليش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_114",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي زوجة روبرت باراثيون؟",
+    "answer": "سيرسي لانستر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_115",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم الجزيرة التي يحكم منها ستانيس أحيانًا؟",
+    "answer": "Dragonstone",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_116",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي مستشارة ستانيس الدينية؟",
+    "answer": "ميليساندري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_117",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو القائد الدوثراكي الذي تتزوجه دانييرس؟",
+    "answer": "كال دروغو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_118",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما أسماء تنانين دانييرس الثلاثة؟",
+    "answer": "دروغون، وريغال، وفيسيريون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_119",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو والد جون سنو الحقيقي؟",
+    "answer": "ريغار تارغاريان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_120",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي والدة جون سنو؟",
+    "answer": "ليانا ستارك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_121",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم الملك الذي تُجرى ضده ثورة في بداية السرد؟",
+    "answer": "روبرت باراثيون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_122",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم البيت الذي تنافسه عائلة ستارك في الشمال تاريخيًا؟",
+    "answer": "بولتون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_123",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم المقر الشهير لآل بولتون؟",
+    "answer": "The Dreadfort",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_124",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هي جدة مارجري تيريل المشهورة بالذكاء؟",
+    "answer": "أوليّنا تيريل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_125",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو العضو الذي يمثل آل تارغاريان في المنفى في البداية؟",
+    "answer": "Viserys Targaryen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_126",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم القلعة التي تُعد مقرًا للحرس الليلي؟",
+    "answer": "Castle Black",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_127",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "من هو الملك المعروف بقسوته في كينغز لاندينغ بعد روبرت؟",
+    "answer": "جوفري باراثيون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_128",
+    "category": "series",
+    "subcategory": "Game of Thrones",
+    "question": "ما اسم آخر موسم في المسلسل؟",
+    "answer": "الموسم الثامن",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_129",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الصبي الذي يختفي في الموسم الأول؟",
+    "answer": "ويل بايرز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_130",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم والدة ويل؟",
+    "answer": "جويس بايرز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_131",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو رئيس شرطة هوكينز؟",
+    "answer": "جيم هوبر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_132",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الفتاة ذات القدرات الخاصة؟",
+    "answer": "إليفن، ويُعرف اسمها لاحقًا بجين هوبر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_133",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو أفضل صديق لمايك؟",
+    "answer": "داستن هندرسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_134",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو الصديق الثالث في المجموعة الأصلية من الأولاد؟",
+    "answer": "لوكاس سنكلير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_135",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم عائلة مايك؟",
+    "answer": "ويلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_136",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هي أخت مايك؟",
+    "answer": "نانسي ويلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_137",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو شقيق ويل الأكبر؟",
+    "answer": "جوناثان بايرز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_138",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم المكان/العالم الموازي الشهير في السلسلة؟",
+    "answer": "Upside Down",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_139",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو العالم المسؤول عن مختبر هوكينز في البداية؟",
+    "answer": "د. مارتن برينر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_140",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم والدي مايك؟",
+    "answer": "كارين وتيد ويلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_141",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم شقيقة مايك الصغرى؟",
+    "answer": "هولي ويلر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_142",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هي الفتاة التي يرتبط بها ستيف لاحقًا كصديق للمجموعة؟",
+    "answer": "روبن باكلي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_143",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم منزل عائلة بايرز في البداية؟",
+    "answer": "منزل بايرز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_144",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو الأخ الأصغر لجوناثان؟",
+    "answer": "ويل بايرز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_145",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الفتاة التي تعيش مع هوبر في فترة لاحقة؟",
+    "answer": "إليفن/جين هوبر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_146",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "في أي حقبة زمنية تدور السلسلة؟",
+    "answer": "ثمانينيات القرن العشرين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_147",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الفتاة التي تعيش في كاليفورنيا مع مايك في موسم لاحق؟",
+    "answer": "إليفن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_148",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو الأخ الأكبر لماكس في الموسم الثالث؟",
+    "answer": "بيلي هارغروف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_149",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الفتاة التي تنضم للمجموعة وتصبح صديقة لستيف؟",
+    "answer": "ماكس مايفيلد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_150",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الشخص المسؤول عن تدريب إليفن في المختبر؟",
+    "answer": "د. مارتن برينر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_151",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو شقيق جوناثان الأصغر؟",
+    "answer": "ويل بايرز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_152",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الصديق الذي يعمل جزئيًا في متجر الآيس كريم مع ستيف؟",
+    "answer": "روبن باكلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_153",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم المدينة التي تقع فيها مختبرات هوكينز؟",
+    "answer": "هوكينز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_154",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو صاحب الدراجة الذي يُعد الروح القيادية بين الأولاد؟",
+    "answer": "مايك ويلر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_155",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هي أخت مايك التي تسكن في البيت مع الوالدين في البداية؟",
+    "answer": "هولي ويلر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_156",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم المنظمة التي تعمل في الظل وتكون مرتبطة بالمختبر؟",
+    "answer": "Hawkins National Laboratory",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_157",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الشخصية التي تملك قدرات التخاطر؟",
+    "answer": "إليفن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_158",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو صديق نانسي الذي يرتبط بها عاطفيًا في البداية؟",
+    "answer": "ستيف هارينغتون، ثم لاحقًا جوناثان في علاقة مختلفة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_159",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الفتاة التي تظهر من المختبر وتحمل الرقم 011؟",
+    "answer": "إليفن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_160",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "من هو المسؤول عن برنامج التجارب على الأطفال في المختبر؟",
+    "answer": "د. مارتن برينر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_161",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الشخصية التي كانت عنوان الحلقة الأولى The Vanishing of ___؟",
+    "answer": "ويل بايرز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_162",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الوحش الذي يهدد البلدة من العالم الموازي في البداية؟",
+    "answer": "Demogorgon",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_163",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الصديق الذي يصبح أقرب إلى ستيف لاحقًا؟",
+    "answer": "داستن هندرسون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_164",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم الشخصية ذات الشعر الأشقر التي تخضع لتجارب في الموسم الأول؟",
+    "answer": "إليفن",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_165",
+    "category": "series",
+    "subcategory": "Stranger Things",
+    "question": "ما اسم السلسلة التي أطلقتها Netflix في يوليو 2016؟",
+    "answer": "Stranger Things",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_166",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم بطل المسلسل؟",
+    "answer": "تومي شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_167",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم عصابة المسلسل؟",
+    "answer": "Peaky Blinders",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_168",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم شقيق تومي الأكبر؟",
+    "answer": "آرثر شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_169",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هي العمة المشهورة في العائلة؟",
+    "answer": "بولي غراي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_170",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الأخت التي تنضم للأعمال العائلية؟",
+    "answer": "آدا ثورن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_171",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم المدينة التي تتمركز فيها العصابة؟",
+    "answer": "برمنغهام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_172",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الشرطي/المفتش الشهير الذي يطاردهم؟",
+    "answer": "تشيستر كامبل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_173",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم شركة العائلة الأساسية في البداية؟",
+    "answer": "Shelby Company Limited",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_174",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو زعيم العائلة الذكر الرئيسي؟",
+    "answer": "توماس شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_175",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو ابن عم تومي الذي يعمل معهم لاحقًا؟",
+    "answer": "مايكل غراي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_176",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هي زوجة تومي الأولى الشهيرة؟",
+    "answer": "غريس شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_177",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الابن الصغير في العائلة؟",
+    "answer": "فن شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_178",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو العضو الذي يُعد العقل المالي للعائلة أحيانًا؟",
+    "answer": "بولي غراي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_179",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم القائد السياسي البريطاني المذكور ضمن الشخصيات؟",
+    "answer": "ونستون تشرشل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_180",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو عضو العصابة الأكثر اندفاعًا بين الإخوة؟",
+    "answer": "آرثر شيلبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_181",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم زوج آدا؟",
+    "answer": "فريدي ثورن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_182",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هي زوجة آرثر؟",
+    "answer": "ليندا شيلبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_183",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هي زوجة جون شيلبي؟",
+    "answer": "إسمي شيلبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_184",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم والد تومي؟",
+    "answer": "آرثر شيلبي الأب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_185",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الشخصية التي تُعرف بلقب Aunt Polly؟",
+    "answer": "بولي غراي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_186",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو الأكثر هدوءًا وعقلانية بين الإخوة؟",
+    "answer": "تومي شيلبي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_187",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "في أي مدينة تُعرض فيها أعمال العائلة تجاريًا خارج برمنغهام؟",
+    "answer": "لندن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_188",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الحانة المرتبطة بالعصابة؟",
+    "answer": "The Garrison",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_189",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هي الشخصية التي كانت تغني وتعمل في الملاهي؟",
+    "answer": "غريس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_190",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو أحد أفراد العائلة الذي يقود العمليات المالية؟",
+    "answer": "مايكل غراي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_191",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "ما اسم الأم القوية للعائلة؟",
+    "answer": "بولي غراي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_192",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو الأخ الذي يُقتل مبكرًا نسبيًا ضمن الصراعات؟",
+    "answer": "جون شيلبي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_193",
+    "category": "series",
+    "subcategory": "Peaky Blinders",
+    "question": "من هو فرد العائلة الذي يتولى أحيانًا التجارة الدولية؟",
+    "answer": "مايكل غراي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_194",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم البطل الرئيسي في المسلسل؟",
+    "answer": "توني سوبرانو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_195",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم زوجة توني؟",
+    "answer": "كارميلا سوبرانو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_196",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم ابنة توني؟",
+    "answer": "ميدو سوبرانو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_197",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم ابن توني؟",
+    "answer": "أنتوني (AJ) سوبرانو جونيور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_198",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم الطبيبة النفسية التي يزورها توني؟",
+    "answer": "د. جينيفر ميلفي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_199",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم عائلة المافيا التي يقودها توني؟",
+    "answer": "عائلة دي ميو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_200",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "في أي ولاية تدور الأحداث؟",
+    "answer": "نيوجيرسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_201",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم عم توني الشهير؟",
+    "answer": "كورادو (جونيور) سوبرانو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_202",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو ابن أخ توني وأحد رجال العصابة المهمين؟",
+    "answer": "كريستوفر مولتيسانتي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_203",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو الرجل المعروف بلقب Big Pussy؟",
+    "answer": "سالفاتوري بونبنسييرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_204",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم الشخصية التي تؤديها الممثلة إيدي فالكو؟",
+    "answer": "كارميلا سوبرانو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_205",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم المدينة التي تتمركز فيها عائلة دي ميو؟",
+    "answer": "نورث جيرسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_206",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما نوع الحياة التي يحاول توني الموازنة بينها؟",
+    "answer": "الحياة العائلية وحياة الجريمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_207",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما التخصص الذي يمارسه توني كزعيم؟",
+    "answer": "زعيم مافيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_208",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو سائق/رجل العصابة الأيقوني الذي يرتدي ملابس أنيقة غالبًا؟",
+    "answer": "سيلفيو دانتي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_209",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو الرجل المعروف باندفاعه وولائه لتوني؟",
+    "answer": "باولي غوالتيري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_210",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو أحد الأصدقاء المقربين لتوني ورفيقه في المشاهد العائلية؟",
+    "answer": "بوبي باكاليري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_211",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي والدة كارميلا؟",
+    "answer": "ماري دي أنجليس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_212",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو والد كارميلا؟",
+    "answer": "هيو دي أنجليس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_213",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما نوع العلاج الذي كان يراجعه توني بانتظام؟",
+    "answer": "العلاج النفسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_214",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم زوجة كريستوفر؟",
+    "answer": "أدريانا لا سيرفا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_215",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو الرجل الذي يُعد مرجعًا إجراميًا وموضع احترام داخل العائلة؟",
+    "answer": "سيلفيو دانتي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_216",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم النادي/الملهى الذي يديره بعض أفراد العائلة كواجهة؟",
+    "answer": "Bada Bing!",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_217",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو الشاب الذي يريد أن يصبح مغنيًا ويظهر كابن لتوني؟",
+    "answer": "أنتوني جونيور (AJ)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_218",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي زوجة بوبي باكاليري؟",
+    "answer": "جوني ساك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_219",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي الطبيبة التي أصبحت مشهورة بحديثها مع توني عن مشاكله؟",
+    "answer": "جينيفر ميلفي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_220",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو الصديق المقرَّب الذي يعمل في المافيا ويظهر غالبًا بجانب توني؟",
+    "answer": "باولي غوالتيري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_221",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم الابن الذي يعاني من قلق/مشكلات نفسية أحيانًا؟",
+    "answer": "AJ سوبرانو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_222",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي الطبيبة النفسية التي تُعد عنصرًا أساسيًا في السرد؟",
+    "answer": "جينيفر ميلفي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_223",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم رجل العصابة المعروف بلقب Paulie؟",
+    "answer": "Paulie Gualtieri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_224",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم المسلسل الذي عُرض على HBO عن المافيا في نيوجيرسي؟",
+    "answer": "The Sopranos",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_225",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما الاسم الكامل لتوني سوبرانو؟",
+    "answer": "أنتوني جون سوبرانو الأب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_226",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم الصديق/العضو الذي يُعرف بلقب Chrissy؟",
+    "answer": "كريستوفر مولتيسانتي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_227",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي والدة ميدو؟",
+    "answer": "كارميلا سوبرانو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_228",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هو والد AJ؟",
+    "answer": "توني سوبرانو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_229",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "من هي الطبيبة النفسية التي حاول توني إخفاء زيارته لها؟",
+    "answer": "د. جينيفر ميلفي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_230",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم الرجل الذي يُلقب بـ Junior داخل العائلة؟",
+    "answer": "كورادو سوبرانو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_231",
+    "category": "series",
+    "subcategory": "The Sopranos",
+    "question": "ما اسم عائلة زوجة توني قبل الزواج؟",
+    "answer": "دي أنجليس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_232",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم البطل الرئيسي؟",
+    "answer": "إليوت ألدرسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_233",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما مهنة إليوت؟",
+    "answer": "مهندس أمن سيبراني ومخترق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_234",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم أخت إليوت؟",
+    "answer": "دارلين ألدرسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_235",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم صديقته المقربة منذ الطفولة؟",
+    "answer": "أنجيلا موس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_236",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم المجموعة الهاكر الشهيرة في المسلسل؟",
+    "answer": "fsociety",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_237",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو Mr. Robot؟",
+    "answer": "إدوارد ألدرسون، شخصية مرتبطة بإليوت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_238",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الشركة الأمنية التي يعمل فيها إليوت في البداية؟",
+    "answer": "Allsafe Cybersecurity",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_239",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو المدير التنفيذي المهم في E Corp؟",
+    "answer": "فيليب برايس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_240",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو الخصم/المهندس الطموح المرتبط بـ E Corp؟",
+    "answer": "تايريل ويلك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_241",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي الشخصية المعروفة باسم Dom؟",
+    "answer": "دومينيك دي بييرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_242",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الشخصية التي ترتبط بـ Dark Army؟",
+    "answer": "Whiterose",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_243",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "كم عدد مواسم المسلسل؟",
+    "answer": "أربعة مواسم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_244",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما عدد حلقات المسلسل؟",
+    "answer": "45 حلقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_245",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "في أي سنة بدأ عرض المسلسل؟",
+    "answer": "2015",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_246",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي زميلة إليوت في Allsafe؟",
+    "answer": "أنجيلا موس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_247",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي أخت إليوت التي تشارك في fsociety؟",
+    "answer": "دارلين ألدرسون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_248",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما صفة كريستا غوردون بالنسبة لإليوت؟",
+    "answer": "معالجته النفسية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_249",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي صديقة إليوت السابقة التي قُتلت؟",
+    "answer": "شايلا نيكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_250",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الشركة الكبرى التي يستهدفها المسلسل؟",
+    "answer": "E Corp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_251",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الحلقة الأولى من المسلسل؟",
+    "answer": "eps1.0_hellofriend.mov",
+    "difficulty": "easy"
+  },
+  {
+    "id": "series_252",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو والد إليوت؟",
+    "answer": "إدوارد ألدرسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_253",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي والدة إليوت؟",
+    "answer": "ماجدا ألدرسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_254",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم العميل الفيدرالي الذي يطارد الخيوط غالبًا؟",
+    "answer": "دومينيك دي بييرو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_255",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي الشخصية النسائية المرتبطة بمشروع سايبرستيج في E Corp؟",
+    "answer": "أنجيلا موس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_256",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم والد أنجيلا؟",
+    "answer": "فيليب موس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_257",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم والدة أنجيلا؟",
+    "answer": "داون موس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_258",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو المدير في شركة Allsafe؟",
+    "answer": "جيديون غودارد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_259",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي الشخصية التي تعمل في العلاج النفسي مع إليوت؟",
+    "answer": "كريستا غوردون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_260",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الذراع السرية العالمية التي تنافس E Corp؟",
+    "answer": "Dark Army",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_261",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو الرجل الطموح الذي يرتبط بإنشاء fsociety؟",
+    "answer": "إليوت ألدرسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_262",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الشخصية التي ترتبط بعلاقة مع جوانا ويلك؟",
+    "answer": "تايريل ويلك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_263",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هي زوجة تايريل؟",
+    "answer": "جوانا ويلك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_264",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم مجموعة القرصنة التي لا تمثل مؤسسة قانونية؟",
+    "answer": "fsociety",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_265",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم المسلسل الذي يُعد دراما سيبرانية نفسية؟",
+    "answer": "Mr. Robot",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_266",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "من هو الشاب الذي يعاني من اضطراب الهوية الظاهر في المسلسل؟",
+    "answer": "إليوت ألدرسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "series_267",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما الاسم الكامل لإليوت؟",
+    "answer": "إليوت ألدرسون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_268",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم الفتاة التي كانت صديقة إليوت وعملت في شركة مختلفة لاحقًا؟",
+    "answer": "أنجيلا موس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "series_269",
+    "category": "series",
+    "subcategory": "Mr. Robot",
+    "question": "ما اسم المسلسل الذي عُرض بين عامي 2015 و2019؟",
+    "answer": "Mr. Robot",
+    "difficulty": "hard"
+  }
+]

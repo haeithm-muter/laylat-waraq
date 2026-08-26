@@ -1,0 +1,1890 @@
+[
+  {
+    "id": "movies_1",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "في سلسلة Harry Potter، ما اسم مدرسة السحر؟",
+    "answer": "هوجوورتس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_2",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما الاسم الحقيقي لبطل فيلم Iron Man؟",
+    "answer": "توني ستارك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_3",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما اسم الأسد الصغير بطل فيلم The Lion King؟",
+    "answer": "سيمبا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_4",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "في فيلم Frozen، ما اسم الأميرة صاحبة قوى الجليد؟",
+    "answer": "إلسا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_5",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Titanic؟",
+    "answer": "جيمس كاميرون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_6",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Inception؟",
+    "answer": "كريستوفر نولان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_7",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم البطل في فيلم The Matrix؟",
+    "answer": "نيو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_8",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم Titanic؟",
+    "answer": "1997",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_9",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور الجوكر في فيلم The Dark Knight؟",
+    "answer": "هيث ليدجر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_10",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الكوكب في فيلم Avatar؟",
+    "answer": "باندورا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_11",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من أخرج فيلم Pulp Fiction؟",
+    "answer": "كوينتن تارانتينو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_12",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم السفينة في فيلم Pirates of the Caribbean؟",
+    "answer": "اللؤلؤة السوداء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_13",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو بطل فيلم Forrest Gump؟",
+    "answer": "توم هانكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_14",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم التنين في فيلم How to Train Your Dragon؟",
+    "answer": "توثلس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_15",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم The Lion King الأصلي؟",
+    "answer": "1994",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_16",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Jurassic Park؟",
+    "answer": "ستيفن سبيلبرغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_17",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم البطل في فيلم John Wick؟",
+    "answer": "جون ويك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_18",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Iron Man في أفلام Marvel؟",
+    "answer": "روبرت داوني جونيور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_19",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي فاز بأكبر عدد من جوائز الأوسكار؟",
+    "answer": "Ben-Hur وTitanic وThe Lord of the Rings: The Return of the King",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_20",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم The Godfather؟",
+    "answer": "فرانسيس فورد كوبولا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_21",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم البطل في فيلم Rocky؟",
+    "answer": "روكي بالبوا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_22",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم Star Wars: A New Hope؟",
+    "answer": "1977",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_23",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Jack Dawson في Titanic؟",
+    "answer": "ليوناردو دي كابريو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_24",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي يدور حول حلم السرقة؟",
+    "answer": "Inception",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_25",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Schindler's List؟",
+    "answer": "ستيفن سبيلبرغ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_26",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الشخصية التي لعبها كيانو ريفز في The Matrix؟",
+    "answer": "نيو/توماس أندرسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_27",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Blade Runner 2049؟",
+    "answer": "دوني فيلنوف",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_28",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الجائزة التي تمنحها أكاديمية فنون وعلوم الصور المتحركة؟",
+    "answer": "جائزة الأوسكار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_29",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم The Godfather؟",
+    "answer": "1972",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_30",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Gandalf في The Lord of the Rings؟",
+    "answer": "إيان ماكيلين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_31",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي فاز بأول جائزة أوسكار لأفضل فيلم رسوم متحركة؟",
+    "answer": "Shrek",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_32",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Parasite؟",
+    "answer": "بونج جون هو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_33",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الشخصية الرئيسية في فيلم The Silence of the Lambs؟",
+    "answer": "كلاريس ستارلينج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_34",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم Gladiator؟",
+    "answer": "2000",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_35",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Tyler Durden في Fight Club؟",
+    "answer": "براد بيت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_36",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي يدور حول عازف بيانو في وارسو؟",
+    "answer": "The Pianist",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_37",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Interstellar؟",
+    "answer": "كريستوفر نولان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_38",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الشخصية التي لعبها هيو جاكمان في X-Men؟",
+    "answer": "وولفرين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_39",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم The Shawshank Redemption؟",
+    "answer": "1994",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_40",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Hannibal Lecter في The Silence of the Lambs؟",
+    "answer": "أنتوني هوبكنز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_41",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي يدور حول رحلة في الفضاء للبحث عن كوكب جديد؟",
+    "answer": "Interstellar",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_42",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو مخرج فيلم Mad Max: Fury Road؟",
+    "answer": "جورج ميلر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_43",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الشخصية الرئيسية في فيلم The Truman Show؟",
+    "answer": "ترومان بوربانك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_44",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم Avatar؟",
+    "answer": "2009",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_45",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو ممثل دور Vito Corleone في The Godfather؟",
+    "answer": "مارلون براندو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_46",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم المصور السينمائي لفيلم Blade Runner 2049؟",
+    "answer": "روجر ديكنز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_47",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو المخرج الذي فاز بأوسكار أفضل مخرج عن فيلم The Shape of Water؟",
+    "answer": "غييرمو ديل تورو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_48",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الاستوديو الذي أنتج فيلم Spirited Away؟",
+    "answer": "استوديو غيبلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_49",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم 2001: A Space Odyssey؟",
+    "answer": "1968",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_50",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو الممثل الذي لعب دور Max Rockatansky في Mad Max: Fury Road؟",
+    "answer": "توم هاردي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_51",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الفيلم الذي فاز بالسعفة الذهبية في مهرجان كان 2019؟",
+    "answer": "Parasite",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_52",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "من هو المخرج الذي أخرج فيلم Pan's Labyrinth؟",
+    "answer": "غييرمو ديل تورو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_53",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "ما هو اسم الشخصية التي لعبها كريستيان بيل في The Dark Knight؟",
+    "answer": "بروس واين/باتمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_54",
+    "category": "movies",
+    "subcategory": "أفلام عامة",
+    "question": "في أي عام صدر فيلم Casablanca؟",
+    "answer": "1942",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_55",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو البطل الخارق الذي يرتدي بدلة حديدية؟",
+    "answer": "آيرون مان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_56",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم المطرقة الخاصة بـThor؟",
+    "answer": "ميولنير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_57",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو العدو اللدود لـSpider-Man؟",
+    "answer": "جرين جوبلين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_58",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفريق الذي يضم Iron Man وCaptain America؟",
+    "answer": "المنتقمون (Avengers)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_59",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Captain America؟",
+    "answer": "كريس إيفانز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_60",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الكوكب الذي يأتي منه Thor؟",
+    "answer": "آسغارد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_61",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الشرير الذي يريد جمع أحجار اللانهاية؟",
+    "answer": "ثانوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_62",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحيوان الذي يرافق Rocket في Guardians of the Galaxy؟",
+    "answer": "غروت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_63",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Iron Man؟",
+    "answer": "روبرت داوني جونيور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_64",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم المنظمة التي يقودها Nick Fury؟",
+    "answer": "S.H.I.E.L.D.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_65",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو البطل الخارق الذي يمكنه التكبر والتصغر؟",
+    "answer": "Ant-Man",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_66",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم المدينة الخفية في Black Panther؟",
+    "answer": "واكاندا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_67",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Thor؟",
+    "answer": "كريس هيمسورث",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_68",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم السلاح الذي يحمله Captain America؟",
+    "answer": "الدرع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_69",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الشرير الذي يقتل نصف الكون في Avengers: Infinity War؟",
+    "answer": "ثانوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_70",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفيلم الذي ظهر فيه Black Panther لأول مرة؟",
+    "answer": "Captain America: Civil War",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_71",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Hulk؟",
+    "answer": "مارك روفالو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_72",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم العنصر الذي يعمل به قلب Iron Man؟",
+    "answer": "مفاعل القوس (Arc Reactor)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_73",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو البطل الخارق الذي يستخدم السحر؟",
+    "answer": "دكتور سترينج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_74",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفيلم الذي جمع كل المنتقمين لأول مرة؟",
+    "answer": "The Avengers (2012)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_75",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم والد Thor في أفلام Marvel؟",
+    "answer": "أودين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_76",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Loki؟",
+    "answer": "توم هيدلستون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_77",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحجر الذي يمنح القوة في أحجار اللانهاية؟",
+    "answer": "حجر القوة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_78",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو المخرج الذي أخرج معظم أفلام Avengers؟",
+    "answer": "جوس ويدون / الأخوان روسو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_79",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الشخصية التي تلعب دور Black Widow؟",
+    "answer": "ناتاشا رومانوف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_80",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Black Widow؟",
+    "answer": "سكارليت جوهانسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_81",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفيلم الذي ظهر فيه Spider-Man لأول مرة في MCU؟",
+    "answer": "Captain America: Civil War",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_82",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Spider-Man في MCU؟",
+    "answer": "توم هولاند",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_83",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الشرير في فيلم Black Panther؟",
+    "answer": "كيلمونجر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_84",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Killmonger؟",
+    "answer": "مايكل بي جوردان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_85",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحجر الذي يتحكم في العقل؟",
+    "answer": "حجر العقل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_86",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Vision؟",
+    "answer": "بول بيتاني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_87",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفيلم الذي مات فيه Iron Man؟",
+    "answer": "Avengers: Endgame",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_88",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Doctor Strange؟",
+    "answer": "بيندكت كامبرباتش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_89",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم المعلم القديم لـDoctor Strange؟",
+    "answer": "ذا أنشنت ون (Ancient One)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_90",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Ancient One؟",
+    "answer": "تيلدا سوينتون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_91",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم السفينة التي يستخدمها Guardians of the Galaxy؟",
+    "answer": "ميلانو (بناتار)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_92",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Star-Lord؟",
+    "answer": "كريس برات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_93",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحجر الذي يتحكم في الوقت؟",
+    "answer": "حجر الوقت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_94",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Nick Fury؟",
+    "answer": "صامويل جاكسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_95",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو المخرج الذي أخرج فيلم Black Panther؟",
+    "answer": "رايان كوغلر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_96",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي لعب دور Red Skull في Captain America: The First Avenger؟",
+    "answer": "هوغو ويفينغ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_97",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحجر الذي كان في حوزة Nova Corps؟",
+    "answer": "حجر القوة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_98",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو المخرج الذي أخرج فيلم Thor: Ragnarok؟",
+    "answer": "تايكا وايتيتي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_99",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الشخصية التي تلعب دور Scarlet Witch؟",
+    "answer": "واندا ماكسيموف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_100",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Scarlet Witch؟",
+    "answer": "إليزابيث أولسن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_101",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الفيلم الذي ظهرت فيه Captain Marvel لأول مرة؟",
+    "answer": "Captain Marvel (2019)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_102",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور Captain Marvel؟",
+    "answer": "بري لارسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_103",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "ما هو اسم الحجر الذي كان في حوزة Collector؟",
+    "answer": "حجر الواقع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_104",
+    "category": "movies",
+    "subcategory": "Marvel",
+    "question": "من هو الممثل الذي يلعب دور The Collector؟",
+    "answer": "بينيسيو ديل تورو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_105",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو أفضل صديق لهاري بوتر؟",
+    "answer": "رون ويزلي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_106",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الساحر الشرير الذي يريد قتل هاري بوتر؟",
+    "answer": "فولدمورت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_107",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم المنزل الذي ينتمي إليه هاري بوتر؟",
+    "answer": "جريفندور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_108",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو مدير مدرسة هوجوورتس؟",
+    "answer": "ألباس دمبلدور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_109",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الحيوان الأليف لهاري بوتر؟",
+    "answer": "هيدويج (بومة)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_110",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الرياضة التي يلعبها هاري بوتر؟",
+    "answer": "كويدتش",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_111",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو أستاذ الجرعات في هوجوورتس؟",
+    "answer": "سيفيروس سناب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_112",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الشجرة التي تضرب في هوجوورتس؟",
+    "answer": "الشجرة الخفاقة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_113",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم القطار الذي يأخذ الطلاب إلى هوجوورتس؟",
+    "answer": "هوجوورتس إكسبريس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_114",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو صديق هاري بوتر الآخر؟",
+    "answer": "هيرميون جرينجر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_115",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم العصا السحرية لهاري بوتر؟",
+    "answer": "عصا هولي بريشة عنقاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_116",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التنين الذي يحرس بنك جرينجوتس؟",
+    "answer": "تنين أوكراني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_117",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو حارس البوابة في جريفندور؟",
+    "answer": "السيدة البدينة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_118",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم المشروب السحري الذي يعطي الحظ؟",
+    "answer": "فيليكس فيليسيتاس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_119",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم القلعة التي يدرس فيها هاري بوتر؟",
+    "answer": "قلعة هوجوورتس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_120",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو مدير منزل سليذرين؟",
+    "answer": "سيفيروس سناب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_121",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الكتاب الذي يدرس فيه هاري بوتر الجرعات؟",
+    "answer": "الجرعات المتقدمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_122",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الحيوان الأليف لرون ويزلي؟",
+    "answer": "سكابرز (جرذ)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_123",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الحيوان الأليف لهيرميون جرينجر؟",
+    "answer": "كروكشانكس (قطة)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_124",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم والد هاري بوتر؟",
+    "answer": "جيمس بوتر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_125",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم والدة هاري بوتر؟",
+    "answer": "ليلي بوتر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_126",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو العراب لهاري بوتر؟",
+    "answer": "سيريوس بلاك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_127",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم المنزل الذي ينتمي إليه دراكو مالفوي؟",
+    "answer": "سليذرين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_128",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التنين الذي واجهه هاري في المهمة الأولى؟",
+    "answer": "تنين هنغاري أفقي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_129",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو أستاذ الدفاع ضد فنون الظلام في السنة الأولى؟",
+    "answer": "كويرينوس كويريل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_130",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم المرآة التي يرى فيها هاري عائلته؟",
+    "answer": "مرآة إريزيد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_131",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الحجر الذي يبحث عنه فولدمورت في السنة الأولى؟",
+    "answer": "حجر الفلاسفة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_132",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو القاتل الذي هرب من أزكابان؟",
+    "answer": "سيريوس بلاك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_133",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التعويذة التي تستخدم لنزع السلاح؟",
+    "answer": "إكسبيليارموس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_134",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التعويذة التي تستخدم للقتل؟",
+    "answer": "أفادا كيدافرا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_135",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التعويذة التي تستخدم للشفاء؟",
+    "answer": "إيبيسكي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_136",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو أستاذ الدفاع ضد فنون الظلام في السنة الثالثة؟",
+    "answer": "ريموس لوبين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_137",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الحيوان الذي يتحول إليه لوبين؟",
+    "answer": "مستذئب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_138",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الصحيفة التي تكتب عن هاري بوتر؟",
+    "answer": "اليومي السحري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_139",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو وزير السحر في بداية السلسلة؟",
+    "answer": "كورنيليوس فودج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_140",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الكأس التي تنقل البطل إلى المقبرة؟",
+    "answer": "كأس النار الثلاثية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_141",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو القاتل الذي يعمل لدى فولدمورت؟",
+    "answer": "بيتر بيتيجرو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_142",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم العصا السحرية الأقوى؟",
+    "answer": "عصا الإلدر (عصا البلسان)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_143",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الطائر الذي يداوي شفاؤه الجراح؟",
+    "answer": "العنقاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_144",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم أم دمبلدور؟",
+    "answer": "كاندرا دمبلدور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_145",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو مؤسس منزل جريفندور؟",
+    "answer": "جودريك جريفندور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_146",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الشبح الذي يرافق جريفندور؟",
+    "answer": "نيك شبه المقطوع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_147",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التعويذة التي تستخدم لفتح الأقفال؟",
+    "answer": "ألوهومورا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_148",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو أستاذ تاريخ السحر في هوجوورتس؟",
+    "answer": "بينس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_149",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الكائن الذي يحرس بنك جرينجوتس؟",
+    "answer": "العفريت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_150",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم العصا التي صنعت من خشب الصفصاف؟",
+    "answer": "عصا ليلي بوتر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_151",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "من هو القاتل الذي خان والدَي هاري؟",
+    "answer": "بيتر بيتيجرو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_152",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم التعويذة التي تستخدم لاستدعاء شيء؟",
+    "answer": "أكسيو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_153",
+    "category": "movies",
+    "subcategory": "Harry Potter",
+    "question": "ما هو اسم الكأس التي فاز بها هاري في السنة الرابعة؟",
+    "answer": "كأس المهام الثلاثية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_154",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفأر الشهير من ديزني؟",
+    "answer": "ميكي ماوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_155",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الأميرة التي تنام في برج؟",
+    "answer": "أورورا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_156",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الجنية التي تساعد بيتر بان؟",
+    "answer": "تينكر بيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_157",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم السمكة التي تساعد نيمو؟",
+    "answer": "دوري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_158",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الرجل الثلجي في فيلم Frozen؟",
+    "answer": "أولاف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_159",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الأميرة التي لديها شعر طويل؟",
+    "answer": "رابونزل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_160",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الحوت الذي يبتلع بينوكيو؟",
+    "answer": "مونسترو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_161",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الكلب الذي يحب الهوت دوغ في فيلم Lady and the Tramp؟",
+    "answer": "ترامب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_162",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الأميرة التي تعيش تحت الماء؟",
+    "answer": "أرييل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_163",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الطائر الذي يساعد علاء الدين؟",
+    "answer": "إياغو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_164",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الجني في فيلم علاء الدين؟",
+    "answer": "الجني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_165",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الدب الذي يحب العسل؟",
+    "answer": "ويني الدبدوب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_166",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم القطة الشريرة في فيلم 101 Dalmatians؟",
+    "answer": "كرويلا ديفيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_167",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الأمير في فيلم الجميلة والوحش؟",
+    "answer": "آدم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_168",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفأر الذي يطبخ في فيلم Ratatouille؟",
+    "answer": "ريمي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_169",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الروبوت الذي يحب النبات في فيلم WALL-E؟",
+    "answer": "وول-إي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_170",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الأميرة التي ترتدي فستانًا أصفر؟",
+    "answer": "بيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_171",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم القرد في فيلم Aladdin؟",
+    "answer": "أبو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_172",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم التنين في فيلم Mulan؟",
+    "answer": "موشو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_173",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم أول فيلم رسوم متحركة طويل من ديزني؟",
+    "answer": "سنو وايت والأقزام السبعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_174",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم المملكة في فيلم Frozen؟",
+    "answer": "أريندل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_175",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم السفينة في فيلم Treasure Planet؟",
+    "answer": "R.L.S. Legacy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_176",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "من هي الشخصية التي تلعب دور الشرير في فيلم The Little Mermaid؟",
+    "answer": "أورسولا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_177",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الطائر الذي يغني في فيلم The Lion King؟",
+    "answer": "زازو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_178",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الكلب في فيلم Up؟",
+    "answer": "دوغ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_179",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "من هي الشخصية التي تلعب دور البطلة في فيلم Moana؟",
+    "answer": "موانا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_180",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الجزيرة في فيلم Moana؟",
+    "answer": "موتونوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_181",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم التنين في فيلم Pete's Dragon؟",
+    "answer": "إليوت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_182",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم القطة في فيلم The Aristocats؟",
+    "answer": "دوتشيس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_183",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفأر في فيلم The Rescuers؟",
+    "answer": "برنارد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_184",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الطائر في فيلم The Rescuers؟",
+    "answer": "أورفيل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_185",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الدب في فيلم The Jungle Book؟",
+    "answer": "بالو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_186",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم النمر في فيلم The Jungle Book؟",
+    "answer": "باجيرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_187",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الذئبة في فيلم The Jungle Book؟",
+    "answer": "أكيلة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_188",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم القرد في فيلم The Jungle Book؟",
+    "answer": "الملك لوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_189",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفيل في فيلم The Jungle Book؟",
+    "answer": "الكولونيل هاثي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_190",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "من هو مخرج فيلم Fantasia؟",
+    "answer": "جيمس ألغار",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_191",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم أول أميرة ديزني؟",
+    "answer": "سنو وايت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_192",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الاستوديو الذي اشترته ديزني وأنتجت فيه سلسلة Star Wars؟",
+    "answer": "لوكاس فيلم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_193",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفيلم الذي فازت فيه ديزني بأول أوسكار لفيلم رسوم متحركة؟",
+    "answer": "سنو وايت والأقزام السبعة (جائزة فخرية)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_194",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم القلعة التي تستخدم كشعار لديزني؟",
+    "answer": "قلعة سندريلا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_195",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "من هي الشخصية التي تلعب دور البطل في فيلم Hercules؟",
+    "answer": "هرقل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_196",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفيلم الذي ظهر فيه ميكي ماوس لأول مرة؟",
+    "answer": "Steamboat Willie",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_197",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو العام الذي تأسست فيه شركة ديزني؟",
+    "answer": "1923",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_198",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "في أي عام صدر فيلم The Lion King الأصلي؟",
+    "answer": "1994",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_199",
+    "category": "movies",
+    "subcategory": "Disney",
+    "question": "ما هو اسم الفأر الذي يرتدي سروالًا أحمر؟",
+    "answer": "ميكي ماوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_200",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الفيلم الذي يتناول فرقة بوب كوري تقاتل الأرواح الشريرة؟",
+    "answer": "KPop Demon Hunters",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_201",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "في أي عام صدر فيلم KPop Demon Hunters؟",
+    "answer": "2025",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_202",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو نوع فيلم KPop Demon Hunters؟",
+    "answer": "رسوم متحركة / موسيقي / فانتازيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_203",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "على أي منصة تم عرض فيلم KPop Demon Hunters حصريًا؟",
+    "answer": "نتفليكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_204",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "كم عدد عضوات فرقة البوب في الفيلم؟",
+    "answer": "ثلاث",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_205",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هي أسماء عضوات الفرقة في الفيلم؟",
+    "answer": "رومي، ميرا، زوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_206",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "من هي المخرجة المشاركة لفيلم KPop Demon Hunters؟",
+    "answer": "ماغي كانغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_207",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "من هو المخرج الآخر المشارك في إخراج الفيلم؟",
+    "answer": "كريس أبيلهانس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_208",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو الاستوديو الذي أنتج فيلم KPop Demon Hunters؟",
+    "answer": "Sony Pictures Animation",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_209",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هي اللغة الأصلية للفيلم؟",
+    "answer": "الإنجليزية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_210",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو التصنيف العمري للفيلم؟",
+    "answer": "PG",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_211",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "كم تبلغ مدة عرض فيلم KPop Demon Hunters تقريبًا؟",
+    "answer": "ساعة و35 دقيقة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_212",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هي الهواية السرية لعضوات الفرقة في الفيلم؟",
+    "answer": "صيد الشياطين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_213",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو هدف الفرقة الحقيقي في الفيلم؟",
+    "answer": "حماية المعجبين من الأرواح الشريرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_214",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو النوع الموسيقي الذي يميز الفيلم؟",
+    "answer": "بوب كوري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_215",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "هل الفيلم مقتبس من قصة حقيقية؟",
+    "answer": "لا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_216",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو العنصر الرئيسي في تصميم شخصيات الفيلم؟",
+    "answer": "الطاقة والحيوية والألوان الزاهية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_217",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "هل الفيلم مناسب للعائلات؟",
+    "answer": "نعم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_218",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو العنصر الذي يجمع بين الموسيقى والأكشن في الفيلم؟",
+    "answer": "مشاهد لامعة وموسيقى رائعة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_219",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "من هي الممثلة الصوتية لشخصية \"رومي\"؟",
+    "answer": "آردن تشو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_220",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "من هي الممثلة الصوتية لشخصية \"ميرا\"؟",
+    "answer": "ماي هونغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_221",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "من هي الممثلة الصوتية لشخصية \"زوي\"؟",
+    "answer": "جي يونغ يو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_222",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الممثل الكوري الذي شارك في الفيلم؟",
+    "answer": "آن هيو سيوب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_223",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو الموضوع الخفي الذي يناقشه الفيلم؟",
+    "answer": "النسوية ما بعد الحداثة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_224",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الفيلم باللغة الإنجليزية بدون رموز؟",
+    "answer": "KPop Demon Hunters",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_225",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو التصنيف الذي حصل عليه الفيلم من النقاد؟",
+    "answer": "ترفيه عائلي مبهج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_226",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو العنصر الذي يميز الفيلم عن غيره من أفلام الرسوم المتحركة؟",
+    "answer": "الموسيقى التصويرية الرائعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_227",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو العام الذي تم فيه الإعلان عن الفيلم؟",
+    "answer": "2024/2025",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_228",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو النوع الذي يجمع بين الفيلم والموسيقى؟",
+    "answer": "موسيقى حضرية فانتازيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "movies_229",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الشخصية التي تلعب دور المغنية الرئيسية؟",
+    "answer": "رومي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_230",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الشخصية التي تلعب دور الراقصة؟",
+    "answer": "ميرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_231",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الشخصية التي تلعب دور المغنية الثانية؟",
+    "answer": "زوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_232",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو العنصر الذي يحمي به الفريق معجبيهم؟",
+    "answer": "قدراتهم السرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_233",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الحدث الذي يبيع فيه الفريق التذاكر؟",
+    "answer": "الحفلات الموسيقية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_234",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الكيان الذي يهدد المعجبين في الفيلم؟",
+    "answer": "الأرواح الشريرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "movies_235",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الموقع الذي نشر مراجعة إيجابية للفيلم؟",
+    "answer": "Rotten Tomatoes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "movies_236",
+    "category": "movies",
+    "subcategory": "K-Pop Demon Hunters",
+    "question": "ما هو اسم الموقع الذي وصف الفيلم بأنه \"موجة عالمية من الفرح\"؟",
+    "answer": "PAFF",
+    "difficulty": "hard"
+  }
+]

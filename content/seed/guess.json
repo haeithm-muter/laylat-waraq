@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "guess_1",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: سفينة عملاقة تصطدم بجبل جليدي في رحلتها الأولى",
+    "answer": "تايتانيك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_2",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مدرّس كيمياء يتحول إلى تاجر مخدرات",
+    "answer": "Breaking Bad",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_3",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: قرصان بقبعة قش يبحث عن كنز أسطوري",
+    "answer": "One Piece",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_4",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: من جدّ ...",
+    "answer": "وجد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_5",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الصبر مفتاح ...",
+    "answer": "الفرج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_6",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: فأر يرتدي شورت أحمر وله أذنان دائريتان كبيرتان",
+    "answer": "ميكي ماوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_007",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل عنكبوت يحمي مدينة نيويورك من الأشرار",
+    "answer": "سبايدرمان (Spider-Man)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_008",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: بطل خارق يرتدي درعاً معدنياً ويملك شركة تقنية",
+    "answer": "آيرون مان (Iron Man)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_009",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: طفل ساحر يدرس في مدرسة هوغوورتس للسحر",
+    "answer": "هاري بوتر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_010",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: قزم بأصابع طويلة يرتدي خاتماً سحرياً يسعى لتدميره",
+    "answer": "سيد الخواتم (The Lord of the Rings)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_011",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: سفينة عملاقة تصطدم بجبل جليدي في رحلتها الأولى وتغرق",
+    "answer": "تايتانيك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_012",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: أسد صغير يفقد والده ويعود ليسترجع مملكته",
+    "answer": "الأسد الملك (The Lion King)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_013",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: مهرج شرير يواجه فارس الظلام في مدينة غوثام",
+    "answer": "باتمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_014",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل يفقد ذاكرته كل يوم ويحاول كشف قاتل زوجته",
+    "answer": "ميمنتو (Memento)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_015",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: علماء يبنون حديقة مليئة بالديناصورات المستنسخة",
+    "answer": "الحديقة الجوراسية (Jurassic Park)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_016",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل آلي من المستقبل يُرسل لحماية طفل من قاتل آلي آخر",
+    "answer": "المدمر (Terminator)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_017",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: طيار حربي أمريكي يقود مقاتلات نفاثة بسرعة قصوى",
+    "answer": "توب غان (Top Gun)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_018",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: سمكة مهرج صغيرة تبحث عن ابنها المفقود في المحيط",
+    "answer": "البحث عن نيمو (Finding Nemo)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_019",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: لعب أطفال تنبض بالحياة عندما يغادر البشر الغرفة",
+    "answer": "قصة لعبة (Toy Story)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_020",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: عملاق أخضر يعيش في مستنقع ويقع في حب أميرة",
+    "answer": "شريك (Shrek)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_021",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: سيارات ناطقة تتسابق في مدينة صغيرة أمريكية",
+    "answer": "كارز (Cars)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_022",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل يُحاصر بمفرده في المنزل ويصد لصين محترفين",
+    "answer": "وحيداً في المنزل (Home Alone)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_023",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: طبيب نفسي يكتشف أن مريضه الصغير يرى الموتى",
+    "answer": "الحاسة السادسة (The Sixth Sense)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_024",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: محقق بريطاني يقيم في شارع بيكر ويحل ألغاز الجرائم",
+    "answer": "شرلوك هولمز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_025",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: قرصان مغامر يبحث عن كنز في البحر الكاريبي بسفينة لعنة",
+    "answer": "قراصنة الكاريبي (Pirates of the Caribbean)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_026",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل عملاق أخضر يفقد السيطرة عند الغضب الشديد",
+    "answer": "هالك (Hulk)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_027",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: فتاة تسقط في حفرة أرنب وتدخل عالماً خيالياً غريباً",
+    "answer": "أليس في بلاد العجائب (Alice in Wonderland)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_028",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: مصمم أزياء طموح يعمل مساعدة لرئيسة مجلة أزياء قاسية",
+    "answer": "الشيطان يرتدي برادا (The Devil Wears Prada)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_029",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: مجموعة أبطال خارقين يتحدون لإنقاذ الكون من فيلانوس",
+    "answer": "المنتقمون (The Avengers)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_030",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: فأر يحلم بأن يصبح طاهياً ويساعد شاباً خجولاً في مطعم باريسي فاخر",
+    "answer": "راتاتوي (Ratatouille)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_031",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل وحيد عالق على المريخ يحاول البقاء على قيد الحياة",
+    "answer": "المريخي (The Martian)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_032",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: طفل يكتشف أن له قوى تسمح له برؤية المستقبل من خلال الأحلام",
+    "answer": "بداية (Inception)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_033",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: عائلة خارقة تخفي قواها وتعيش حياة عادية حتى تضطر للعودة للعمل البطولي",
+    "answer": "المذهلون (The Incredibles)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_034",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: رجل يستيقظ ليجد نفسه عالقاً في نفس اليوم يتكرر باستمرار",
+    "answer": "يوم غروندهوغ (Groundhog Day)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_035",
+    "category": "guess",
+    "subcategory": "خمن الفيلم",
+    "question": "خمّن الفيلم: مصارع روماني سابق يسعى للانتقام من الإمبراطور الذي قتل عائلته",
+    "answer": "المصارع (Gladiator)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_036",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مدرّس كيمياء مصاب بالسرطان يتحول إلى تاجر مخدرات",
+    "answer": "Breaking Bad",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_037",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلات نبيلة تتصارع على عرش حديدي في عالم خيالي",
+    "answer": "Game of Thrones",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_038",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة أصدقاء يعيشون في نيويورك ويجتمعون في مقهى",
+    "answer": "Friends",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_039",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: محقق ذكي جداً يحل الجرائم بملاحظته الدقيقة في لندن الحديثة",
+    "answer": "Sherlock",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_040",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: طلاب علوم يتنافسون في مسابقات ويتعرضون لحوادث خارقة",
+    "answer": "Stranger Things",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_041",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة ثرية تدير شبكة فنادق وتتصارع على الميراث",
+    "answer": "Succession",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_042",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة أشخاص عالقون على جزيرة غامضة بعد تحطم طائرتهم",
+    "answer": "Lost",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_043",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: طبيب شاب يعمل في مستشفى تدريبي بمدينة سياتل",
+    "answer": "Grey's Anatomy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_044",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: رجل يخطط لسرقة دار سك العملة الإسبانية بمساعدة فريق يرتدي أقنعة دالي",
+    "answer": "Money Heist",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_045",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة ملكية بريطانية تُعرض قصتها عبر عقود من الزمن",
+    "answer": "The Crown",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_046",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة مراهقين خارقين يخفون هوياتهم في مدرسة ثانوية",
+    "answer": "Riverdale",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_047",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مبرمج يكتشف أن حياته كلها محاكاة داخل برنامج حاسوبي",
+    "answer": "Mr. Robot",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_048",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة من نيوجيرزي يديرون أعمالاً غير قانونية تحت غطاء شركة نفايات",
+    "answer": "The Sopranos",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_049",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة أصدقاء يعملون في مكتب شركة ورق أمريكي صغير بأسلوب كوميدي وثائقي",
+    "answer": "The Office",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_050",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: طبيب علاج طوارئ متسلط الشخصية يعمل في مستشفى برينستون بلينزبورو",
+    "answer": "House",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_051",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة سيمبسون الكرتونية الصفراء وحياتهم اليومية الفكاهية",
+    "answer": "The Simpsons",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_052",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مسلسل رسوم متحركة عن عائلة من الحجر تعيش في العصر الحجري",
+    "answer": "The Flintstones",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_053",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: شرطية تحقق في جرائم غامضة بمدينة اسكندنافية باردة",
+    "answer": "The Killing",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_054",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة نساء خارقات يحمين مدينة سان فرانسيسكو من الشياطين",
+    "answer": "Charmed",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_055",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: محارب فايكنغ أسطوري يقود غزوات بحرية في أوروبا الوسطى",
+    "answer": "Vikings",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_056",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: طالب طب شرعي يساعد الشرطة في حل الجرائم من خلال الأدلة الجنائية",
+    "answer": "CSI",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_057",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة من المصاصين تحاول التأقلم مع الحياة الحديثة بأسلوب كوميدي",
+    "answer": "What We Do in the Shadows",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_058",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مسلسل يتتبع حياة سجينات في سجن نسائي أمريكي",
+    "answer": "Orange Is the New Black",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_059",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: مجموعة عمال يبنون فندقاً فاخراً ويتصارعون على السلطة في نيويورك القديمة",
+    "answer": "The Gilded Age",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_060",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: طبيبة نفسية تعالج مرضاها بأساليب غير تقليدية وتخفي أسرارها الخاصة",
+    "answer": "In Treatment",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_061",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عملاء استخبارات يديرون شبكة تجسس سرية تحت غطاء وكالة سفر خلال الحرب الباردة",
+    "answer": "The Americans",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_062",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: محقق مخضرم يعمل مع شريكة شابة لحل جرائم قتل غامضة في لويزيانا",
+    "answer": "True Detective",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_063",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: عائلة ملكية في مملكة خيالية تتصارع فيها التنانين والبشر",
+    "answer": "House of the Dragon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_064",
+    "category": "guess",
+    "subcategory": "خمن المسلسل",
+    "question": "خمّن المسلسل: أب يروي لأبنائه في المستقبل قصة كيف تعرّف على والدتهم مع مجموعة أصدقائه في نيويورك",
+    "answer": "How I Met Your Mother",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_065",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: قرصان بقبعة قش يبحث عن كنز أسطوري مع طاقمه",
+    "answer": "One Piece",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_066",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: نينجا صغير يحمل وحشاً مختوماً بداخله ويحلم بأن يصبح زعيم قريته",
+    "answer": "Naruto",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_067",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: مقاتلون يخوضون معارك خارقة للطاقة ويرفعون قوتهم القتالية باستمرار",
+    "answer": "Dragon Ball",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_068",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: جنود يقاتلون عمالقة آكلة للبشر خلف أسوار ضخمة",
+    "answer": "Attack on Titan",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_069",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طالب يجد دفتراً يقتل كل من يُكتب اسمه فيه",
+    "answer": "Death Note",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_070",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: أخوان كيميائيان يبحثان عن حجر الفيلسوف لاستعادة جسديهما",
+    "answer": "Fullmetal Alchemist",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_071",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: صياد شبح شاب ينضم لفريق مكافحة الأرواح الشريرة في المدرسة",
+    "answer": "Bleach",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_072",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتاة صغيرة تتحول إلى بطلة خارقة سحرية لحماية الأرض من الأشرار بمساعدة قط ناطق",
+    "answer": "Sailor Moon",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_073",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: لاعب كرة طائرة قصير القامة يسعى ليصبح أفضل لاعب رغم قصر طوله",
+    "answer": "Haikyuu!!",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_074",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: مدرّس شبح غامض يعلّم طلاباً ذوي مواهب خارقة في فصل خاص",
+    "answer": "Assassination Classroom",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_075",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: صياد محترف يبحث عن والده المفقود ويخوض امتحانات خطيرة",
+    "answer": "Hunter x Hunter",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_076",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طالب عادي يحصل على قوى خارقة ويصبح بطلاً في عالم مليء بالأبطال الخارقين",
+    "answer": "My Hero Academia",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_077",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: مجموعة أصدقاء يلعبون كرة القدم ويحلمون بالوصول للمنتخب الوطني",
+    "answer": "Captain Tsubasa",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_078",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتى يمتلك سيفاً يتحول إلى شخص آخر ويحارب أرواحاً شريرة تسمى الشياطين",
+    "answer": "Demon Slayer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_079",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: عالم غامض حيث يمتلك الناس قدرات نفسية خارقة تسمى إستاند",
+    "answer": "JoJo's Bizarre Adventure",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_080",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: مصارع فضائي صغير يتدرب ليصبح أقوى محارب في الكون ويرفع قوته باستمرار",
+    "answer": "Dragon Ball Z",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_081",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طالبة تنتقل إلى عالم اللعب الافتراضي وتصبح عالقة فيه مع آلاف اللاعبين",
+    "answer": "Sword Art Online",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_082",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: محقق شاب يتقلص جسده إلى طفل ويستمر بحل القضايا الغامضة",
+    "answer": "Detective Conan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_083",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتاة تدخل عالم الأرواح وتعمل في حمام ساخن سحري لإنقاذ والديها",
+    "answer": "Spirited Away",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_084",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: قطة سوداء وقطة بيضاء يتحولان لأبطال خارقين يحاربان الشر ليلاً في باريس",
+    "answer": "Miraculous Ladybug",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_085",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طفل يمتلك جسداً مطاطياً بعد أكل فاكهة سحرية ويحلم بأن يصبح ملك القراصنة",
+    "answer": "One Piece",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_086",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طلاب يمتلكون وحوشاً رقمية يحاربون بها في عالم افتراضي وعالم رقمي مواز",
+    "answer": "Digimon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_087",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: أخوان يلعبان الشطرنج الياباني (شوغي) وواحد منهم عبقري صغير السن",
+    "answer": "March Comes in Like a Lion",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_088",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتاة تربي وحوشاً صغيرة وتخوضها في معارك ومسابقات مع أصدقائها",
+    "answer": "Pokémon",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_089",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طفل يسافر مع وحش كهربائي أصفر صغير ليصبح أعظم مدرب وحوش في العالم",
+    "answer": "Pokémon",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_090",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: إسفنجة صفراء مرحة تعمل في مطعم تحت الماء وتحب صيد قناديل البحر",
+    "answer": "سبونج بوب (SpongeBob SquarePants)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_091",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: قط أزرق كسول يكره الاثنين ويحب لازانيا صاحبه",
+    "answer": "غارفيلد (Garfield)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_092",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: بطة غاضبة ترتدي قبعة بحّار ولا تكاد تُفهم كلماتها",
+    "answer": "دونالد داك (Donald Duck)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_093",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: كلب أصفر جبان يعيش مع عجوزين في منزل مهجور مخيف",
+    "answer": "كوراج الكلب الجبان (Courage the Cowardly Dog)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_094",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: أرنب رمادي مرح يمضغ الجزر ويسخر من أعدائه بعبارة مشهورة",
+    "answer": "باغز باني (Bugs Bunny)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_095",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: قطة تطارد فأراً ذكياً في منزل واحد بلا كلام تقريباً",
+    "answer": "توم وجيري (Tom and Jerry)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_096",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: إسفنجي غبي وصديقه نجم البحر الوردي يعيشان مغامرات يومية غريبة",
+    "answer": "سبونج بوب (SpongeBob SquarePants)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_097",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: عائلة من العصر الحجري تقود سيارات من الحجر وتعيش حياة بدائية فكاهية",
+    "answer": "The Flintstones",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_098",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طفل عبقري له شعر مدبب يخترع آلات غريبة في مختبره السري",
+    "answer": "جيمي نيترون (Jimmy Neutron)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_099",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طفل عبقري له أخت مزعجة ومختبر سري في قبو منزله يمنع الجميع من دخوله",
+    "answer": "مختبر ديكستر (Dexter's Laboratory)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_100",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: فتيات صغيرات خارقات القوى صنعهن عالم بمكون سري إضافي بالخطأ",
+    "answer": "فتيات الطاقة (Powerpuff Girls)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_101",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: كلب بوليسي يتحدث ويحل ألغاز جرائم مع صديقه الخائف من كل شيء",
+    "answer": "سكوبي دو (Scooby-Doo)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_102",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طفل يرتدي قبعة برتقالية يسافر مع جده العجوز في مغامرات غريبة",
+    "answer": "Adventure Time (فين وجيك)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_103",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: أخوان أحدهما ذكي مخترع والآخر مغامر يبنيان اختراعات صيفية ضخمة كل يوم",
+    "answer": "فينياس وفيرب (Phineas and Ferb)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_104",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: فأر صغير الحجم يرتدي قفازات بيضاء ويعيش مغامرات مع أصدقائه في مدينة خيالية",
+    "answer": "ميكي ماوس (Mickey Mouse)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_105",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: بطة تعيش مغامرات مع أبناء أخيها الثلاثة بحثاً عن الكنوز",
+    "answer": "داك تيلز (DuckTales)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_106",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طفل أزرق اللون له أصدقاء زرق صغار يعيشون في قرية فطرية بعيداً عن ساحر شرير",
+    "answer": "السنافر (The Smurfs)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_107",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: جرو صغير يقود فريقاً من الجراء لإنقاذ سكان مدينة ساحلية",
+    "answer": "فريق المطاردة (PAW Patrol)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_108",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طفلة فضولية زرقاء الشعر ترتدي فستاناً وردياً وتتحدث مباشرة للمشاهدين وتحب الاستكشاف",
+    "answer": "دورا المستكشفة (Dora the Explorer)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_109",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: مهندس إسفنجي يعمل تحت قيادة ربان بخيل في مطعم كركند",
+    "answer": "سبونج بوب (SpongeBob SquarePants)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_110",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: عائلة صفراء تعيش في مدينة سبرينغفيلد وتقدم نقداً كوميدياً للحياة الأمريكية",
+    "answer": "The Simpsons",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_111",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: بحّار قوي يأكل السبانخ ليكتسب قوة خارقة وينقذ حبيبته أوليف من عدوه اللدود",
+    "answer": "بوباي (Popeye)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_112",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: قط أحمر ضخم ودود يعيش مع فتاة صغيرة ويكبر كل شيء من حوله",
+    "answer": "كليفورد الكلب الأحمر الكبير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_113",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: دب أصفر يحب العسل ويعيش مغامرات في غابة المئة فدان مع أصدقائه",
+    "answer": "ويني الدبدوب (Winnie the Pooh)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_114",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: نمر مرح ذو خطوط برتقالية يقفز بذيله ويحب اللعب مع صديقه الدب",
+    "answer": "تيغر (Tigger)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_115",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: طائر أزرق سريع يركض بسرعة البرق ولا يتوقف عن الجري في الصحراء",
+    "answer": "الطائر السريع (Road Runner)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_116",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: ذئب يحاول باستمرار اصطياد طائر سريع في الصحراء ويفشل دائماً بطرق مضحكة",
+    "answer": "وايل إي كايوتي (Wile E. Coyote)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_117",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: خنزيرة وردية مغرورة تتحدث بصوت عالٍ وتحب المشاهير",
+    "answer": "بيغي ميس (Miss Piggy)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_118",
+    "category": "guess",
+    "subcategory": "خمن الكرتون",
+    "question": "خمّن الكرتون: ضفدع أخضر يقود عرضاً من الدمى الناطقة مع أصدقائه الغريبين",
+    "answer": "كيرمت الضفدع (Kermit the Frog)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_119",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: العصفور في اليد خير من ...",
+    "answer": "عشرة على الشجرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_120",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الجار قبل ...",
+    "answer": "الدار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_121",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: اتقِ شر من أحسنت ...",
+    "answer": "إليه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_122",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: من طلب العلا سهر ...",
+    "answer": "الليالي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_123",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الوقت من ...",
+    "answer": "ذهب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_124",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: درهم وقاية خير من قنطار ...",
+    "answer": "علاج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_125",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: كما تدين ...",
+    "answer": "تُدان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_126",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: إن غداً لناظره ...",
+    "answer": "قريب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_127",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: القرد في عين أمه ...",
+    "answer": "غزال",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_128",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الطيور على أشكالها ...",
+    "answer": "تقع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_129",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: يد واحدة لا ...",
+    "answer": "تصفق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_130",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: من شبّ على شيء ...",
+    "answer": "شاب عليه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_131",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: كل ممنوع ...",
+    "answer": "مرغوب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_132",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الحاجة أم ...",
+    "answer": "الاختراع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_133",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: لا يلدغ المؤمن من جحر واحد ...",
+    "answer": "مرتين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_134",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: في التأني السلامة وفي العجلة ...",
+    "answer": "الندامة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_135",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: من راقب الناس ...",
+    "answer": "مات همّاً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_136",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: الوقاية خير من ...",
+    "answer": "العلاج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_137",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: خير الكلام ما قلّ و...",
+    "answer": "دلّ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_138",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: رحم الله امرءاً عرف قدر ...",
+    "answer": "نفسه",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_139",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: إذا كان الكلام من فضة فالسكوت من ...",
+    "answer": "ذهب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_140",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: قطرة قطرة يتكون ...",
+    "answer": "النهر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_141",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: لكل جواد كبوة ولكل عالم ...",
+    "answer": "هفوة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_142",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: من حفر حفرة لأخيه وقع ...",
+    "answer": "فيها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_143",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: رب ضارة ...",
+    "answer": "نافعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_144",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: العلم في الصغر كالنقش على ...",
+    "answer": "الحجر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_145",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: إذا كنت في قوم فاحلب في إنائهم ...",
+    "answer": "ولو كان ماء",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_146",
+    "category": "guess",
+    "subcategory": "خمن المثل الشعبي",
+    "question": "خمّن المثل: لا تؤجل عمل اليوم إلى ...",
+    "answer": "الغد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_147",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم أرجنتيني يُلقب بـ«البرغوث» وقاد بلاده للفوز بكأس العالم 2022",
+    "answer": "ليونيل ميسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_148",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم برتغالي يشتهر برقم قميصه 7 ولقب CR7",
+    "answer": "كريستيانو رونالدو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_149",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة سلة أمريكي أسطوري يُلقب بـ«إير جوردن»",
+    "answer": "مايكل جوردان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_150",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: ملاكم أمريكي أسطوري قال عن نفسه: أطير كالفراشة وألسع كالنحلة",
+    "answer": "محمد علي كلاي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_151",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: عدّاء جامايكي يحمل لقب أسرع رجل في العالم",
+    "answer": "أوسين بولت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_152",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم برازيلي أسطوري يُلقب بـ«الملك» وفاز بثلاث كؤوس عالم",
+    "answer": "بيليه",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_153",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعبة تنس أمريكية حصدت أكثر من 20 لقب بطولة كبرى",
+    "answer": "سيرينا ويليامز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_154",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: سبّاح أمريكي يحمل رقم أكثر الميداليات الأولمبية في التاريخ",
+    "answer": "مايكل فيلبس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_155",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم فرنسي شاب فاز بكأس العالم 2018 وهو في سن التاسعة عشرة",
+    "answer": "كيليان مبابي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_156",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم مصري يلعب في الدوري الإنجليزي ويُلقب بالفرعون المصري",
+    "answer": "محمد صلاح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_157",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب غولف أمريكي أسطوري حقق أكبر عدد من الألقاب العالمية الكبرى",
+    "answer": "تايغر وودز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_158",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعبة جمباز أمريكية تُعد صاحبة أكثر الميداليات في تاريخ الرياضة",
+    "answer": "سيمون بايلز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_159",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم أرجنتيني توفي عام 2020 ويُلقب بصاحب «اليد الإلهية»",
+    "answer": "دييغو مارادونا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_160",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة سلة أمريكي توفي في حادث مروحية عام 2020 ولُقّب بـ«الأسطورة السوداء»",
+    "answer": "كوبي براينت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_161",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: سائق فورمولا 1 ألماني حاز على سبعة ألقاب عالمية قبل أن يتفوق عليه لاحقاً سائق آخر",
+    "answer": "مايكل شوماخر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_162",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب تنس سويسري يُلقب بـ«الساحر» وحصل على عدة ألقاب في بطولة ويمبلدون",
+    "answer": "روجيه فيدرر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_163",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب تنس إسباني يُلقب بـ«ملك الملاعب الترابية»",
+    "answer": "رافائيل نادال",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_164",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم هولندي أسطوري ارتبط اسمه بحركة كروية شهيرة تحمل اسمه",
+    "answer": "يوهان كرويف",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_165",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: ملاكم بريطاني معاصر حمل لقب بطل العالم في الوزن الثقيل",
+    "answer": "أنتوني جوشوا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_166",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة سلة أمريكي يُلقب بـ«الملك» ويلعب برقم 23",
+    "answer": "ليبرون جيمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "guess_fill_167",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: حارس مرمى إيطالي أسطوري لعب لفريق يوفنتوس والمنتخب الإيطالي لسنوات طويلة",
+    "answer": "جانلويجي بوفون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_168",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: سائق فورمولا 1 بريطاني معاصر حاز على سبعة ألقاب عالمية",
+    "answer": "لويس هاميلتون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_169",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعبة تنس ألمانية سابقة تُلقب بـ«الملكة» وفازت بجميع بطولات الغراند سلام في عام واحد",
+    "answer": "شتيفي غراف",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_170",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم ألماني أسطوري فاز بكأس العالم كلاعب ثم كمدرب لاحقاً",
+    "answer": "فرانز بيكنباور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_171",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: سبّاح أسترالي يُلقب بـ«الطوربيد» ومنافس تاريخي لمايكل فيلبس",
+    "answer": "إيان ثورب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_172",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم بلجيكي معاصر يلعب صانع ألعاب ويُعرف بدقة تمريراته",
+    "answer": "كيفن دي بروين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_173",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كريكيت هندي أسطوري يُلقب بـ«إله الكريكيت»",
+    "answer": "ساتشين تندولكار",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_174",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعبة كرة قدم أمريكية قادت منتخب بلادها لكسب كأس العالم النسائي عدة مرات",
+    "answer": "ميغان رابينو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_175",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم فرنسي جزائري الأصل قاد بلاده للفوز بكأس العالم 1998 ويُلقب بـ«زيزو»",
+    "answer": "زين الدين زيدان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_176",
+    "category": "guess",
+    "subcategory": "خمن اللاعب الرياضي",
+    "question": "خمّن اللاعب: لاعب كرة قدم برازيلي سابق يُلقب بـ«الظاهرة» وفاز بكأس العالم مرتين",
+    "answer": "رونالدو نازاريو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_177",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتى يمتلك عيناً واحدة حمراء بعد صفقة مع شيطان الموت ليصبح كاسحاً",
+    "answer": "Chainsaw Man",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_178",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: مصارع سومو سابق يتحول إلى معلم مصارعة سومو لمجموعة طلاب مبتدئين",
+    "answer": "Hinomaru Sumo",
+    "difficulty": "hard"
+  },
+  {
+    "id": "guess_fill_179",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: طالب ثانوي يكتشف أنه يستطيع رؤية الأرواح الشريرة ويلتحق بمدرسة لمحاربتها بالسحر",
+    "answer": "Jujutsu Kaisen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "guess_fill_180",
+    "category": "guess",
+    "subcategory": "خمن الأنمي",
+    "question": "خمّن الأنمي: فتاة ساحرة صغيرة تسافر بمظلة طائرة لتعمل في مدينة ساحلية ضمن سنة تدريب إجبارية للسحرة",
+    "answer": "Kiki's Delivery Service (كيكي وخدمة التوصيل)",
+    "difficulty": "medium"
+  }
+]

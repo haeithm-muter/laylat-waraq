@@ -1,0 +1,682 @@
+[
+  {
+    "id": "gaming_1",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم الشخصية الرئيسية في سلسلة ألعاب Super Mario؟",
+    "answer": "ماريو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_3",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما هي الشركة المطوّرة لجهاز PlayStation؟",
+    "answer": "سوني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_4",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما هو الاختصار الشائع للعبة Call of Duty؟",
+    "answer": "COD",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_6",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما هي الشركة المطوّرة لسلسلة ألعاب FIFA؟",
+    "answer": "EA (إلكترونيك آرتس)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_001",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول بناء العالم؟",
+    "answer": "ماينكرافت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_002",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول قتل الزومبي؟",
+    "answer": "Resident Evil",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_003",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول سباق السيارات؟",
+    "answer": "Need for Speed",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_004",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة القدم؟",
+    "answer": "FIFA",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_005",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الملاكمة؟",
+    "answer": "Punch-Out",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_006",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول المغامرات؟",
+    "answer": "The Legend of Zelda",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_007",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الحرب؟",
+    "answer": "Call of Duty",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_008",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول القراصنة؟",
+    "answer": "Sea of Thieves",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_009",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البقاء؟",
+    "answer": "Fortnite",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_010",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الرماية؟",
+    "answer": "Counter-Strike",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_011",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الرياضة؟",
+    "answer": "NBA 2K",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_012",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الغولف؟",
+    "answer": "PGA Tour",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_013",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول التنس؟",
+    "answer": "Tennis",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_014",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البيسبول؟",
+    "answer": "MLB",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_015",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الهوكي؟",
+    "answer": "NHL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_016",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة السلة؟",
+    "answer": "NBA",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_017",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة القدم الأمريكية؟",
+    "answer": "NFL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_018",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة اليد؟",
+    "answer": "Handball",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_019",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الكرة الطائرة؟",
+    "answer": "Volleyball",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_020",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الكرة اللينة؟",
+    "answer": "Softball",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gaming_general_021",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البناء؟",
+    "answer": "SimCity",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_022",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الإدارة؟",
+    "answer": "The Sims",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_023",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الزراعة؟",
+    "answer": "FarmVille",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_024",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الطهي؟",
+    "answer": "Cooking Mama",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_025",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول السفر؟",
+    "answer": "Traveler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_026",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول المغامرات؟",
+    "answer": "Uncharted",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_027",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الحرب؟",
+    "answer": "Battlefield",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_028",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول القراصنة؟",
+    "answer": "Assassin's Creed",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_029",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البقاء؟",
+    "answer": "PUBG",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_030",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الرماية؟",
+    "answer": "Overwatch",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_031",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الرياضة؟",
+    "answer": "Madden",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_032",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الغولف؟",
+    "answer": "Tiger Woods",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_033",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول التنس؟",
+    "answer": "Wimbledon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_034",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البيسبول؟",
+    "answer": "Baseball",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_035",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الهوكي؟",
+    "answer": "Hockey",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_036",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة السلة؟",
+    "answer": "Basketball",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_037",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول كرة القدم الأمريكية؟",
+    "answer": "Football",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gaming_general_038",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول البناء؟",
+    "answer": "Minecraft",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gaming_general_039",
+    "category": "gaming",
+    "subcategory": "ألعاب إلكترونية عامة",
+    "question": "ما اسم اللعبة التي تدور حول الإدارة؟",
+    "answer": "SimCity",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cod_001",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الأولى في سلسلة Call of Duty؟",
+    "answer": "Call of Duty",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_002",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثانية في سلسلة Call of Duty؟",
+    "answer": "Call of Duty 2",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_003",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثالثة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty 3",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_004",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الرابعة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty 4: Modern Warfare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_005",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الخامسة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: World at War",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_006",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة السادسة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Modern Warfare 2",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_007",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة السابعة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Black Ops",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_008",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثامنة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Modern Warfare 3",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_009",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة التاسعة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Black Ops II",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_010",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة العاشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Ghosts",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_011",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الحادية عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Advanced Warfare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_012",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثانية عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Black Ops III",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_013",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثالثة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Infinite Warfare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_014",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الرابعة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: WWII",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_015",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الخامسة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Black Ops 4",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_016",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة السادسة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Modern Warfare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_017",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة السابعة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Black Ops Cold War",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_018",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة الثامنة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Vanguard",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_019",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة التاسعة عشرة في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Modern Warfare II",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_020",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم اللعبة العشرين في سلسلة Call of Duty؟",
+    "answer": "Call of Duty: Modern Warfare III",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cod_021",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Modern Warfare؟",
+    "answer": "كابتن برايس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_022",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Black Ops؟",
+    "answer": "أليكس ماسون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_023",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في World at War؟",
+    "answer": "ديميتري بيترينكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_024",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Ghosts؟",
+    "answer": "لوغان ووكر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_025",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Advanced Warfare؟",
+    "answer": "جاك ميتشل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_026",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Infinite Warfare؟",
+    "answer": "نيك ريس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_027",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في WWII؟",
+    "answer": "رونالد دانييلز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_028",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Vanguard؟",
+    "answer": "آرثر كينغسلي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_029",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Black Ops Cold War؟",
+    "answer": "راسل أدلر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_030",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Modern Warfare؟",
+    "answer": "فلاديمير ماكاروف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_031",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Black Ops؟",
+    "answer": "نيكيتا دراغوفيتش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_032",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Ghosts؟",
+    "answer": "غابرييل رورك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_033",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Advanced Warfare؟",
+    "answer": "جوناثان آيرونز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_034",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Infinite Warfare؟",
+    "answer": "سالين كوتش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_035",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في WWII؟",
+    "answer": "إروين ميتز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_036",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Vanguard؟",
+    "answer": "هيرمان فرايزنغر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_037",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Black Ops Cold War؟",
+    "answer": "بيرسيوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cod_038",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Black Ops II؟",
+    "answer": "ديفيد ماسون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cod_039",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Black Ops II؟",
+    "answer": "راؤول مينينديز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cod_040",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم العدو الرئيسي في Black Ops III؟",
+    "answer": "كورل هاندريكس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cod_041",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Modern Warfare 2؟",
+    "answer": "جيمس راميريز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cod_042",
+    "category": "gaming",
+    "subcategory": "Call of Duty",
+    "question": "ما اسم الشخصية الرئيسية في Modern Warfare 3؟",
+    "answer": "يوري",
+    "difficulty": "hard"
+  }
+]

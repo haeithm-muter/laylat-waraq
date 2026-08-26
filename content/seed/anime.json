@@ -1,0 +1,3506 @@
+[
+  {
+    "id": "anime_5",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "في أنمي ناروتو، ما اسم القرية التي ينتمي إليها ناروتو؟",
+    "answer": "قرية الورق (كونوها)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_001",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم البطل الرئيسي في أنمي \"ناروتو\"؟",
+    "answer": "ناروتو أوزوماكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_002",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو أقوى ساحر في أنمي \"Jujutsu Kaisen\"؟",
+    "answer": "ساتورو غوجو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_003",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم القراصنة الرئيسيين في أنمي \"One Piece\"؟",
+    "answer": "قراصنة قبعة القش",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_004",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو البطل الرئيسي في أنمي \"Attack on Titan\"؟",
+    "answer": "إيرين ييغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_005",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم مذكرة الموت في أنمي \"Death Note\"؟",
+    "answer": "ديث نوت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_006",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو البطل الرئيسي في أنمي \"Demon Slayer\"؟",
+    "answer": "تانجيرو كامادو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_007",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم البطل في أنمي \"Dragon Ball\"؟",
+    "answer": "غوكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_008",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو البطل الرئيسي في أنمي \"Bleach\"؟",
+    "answer": "إيتشيغو كوروساكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_009",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم النظام الذي يستخدمه الغون في \"Hunter x Hunter\"؟",
+    "answer": "النين (Nen)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_010",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو البطل في أنمي \"Chainsaw Man\"؟",
+    "answer": "دينجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_011",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الأنمي الذي يدور حول السفر عبر الزمن؟",
+    "answer": "Steins;Gate",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_012",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم قرية النينجا التي ينتمي إليها ناروتو؟",
+    "answer": "قرية كونوها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_013",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو معلم غوكو الأول في Dragon Ball؟",
+    "answer": "المعلم روشي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_014",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم السيف الذي يحمله إيتشيغو في Bleach؟",
+    "answer": "زانغيتسو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_015",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو captain قراصنة قبعة القش؟",
+    "answer": "مونكي دي لوفي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_016",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الشيطان الذي يعيش داخل ناروتو؟",
+    "answer": "كوراما (الثعلب ذو الذيول التسعة)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_017",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو البطل في أنمي \"Jujutsu Kaisen\"؟",
+    "answer": "يوجي إيتادوري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_018",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم أخت تانجيرو في Demon Slayer؟",
+    "answer": "نيزوكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_019",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو الخصم الرئيسي في Death Note؟",
+    "answer": "إل (L)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_020",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الجدران التي تحمي البشر في Attack on Titan؟",
+    "answer": "ماريا، روز، شينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "anime_general_021",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "كم عدد الذيول التي يمتلكها كوراما؟",
+    "answer": "9 ذيول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_022",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم تقنية غوجو الخاصة في Jujutsu Kaisen؟",
+    "answer": "اللانهاية (Limitless)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_023",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو أول من انضم لطاقم لوفي بعد زورو؟",
+    "answer": "نامي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_024",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم العملاق الذي يتحول إليه إيرين؟",
+    "answer": "العملاق المهاجم (Attack Titan)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_025",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الشينيغامي في Death Note؟",
+    "answer": "ريوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_026",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم تقنية تنفس تانجيرو الأساسية؟",
+    "answer": "تنفس الماء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_027",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم التحول الأقوى لغوكو في Dragon Ball Z؟",
+    "answer": "سوبر سايان 3",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_028",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم فرقة إيتشيغو في Bleach؟",
+    "answer": "الفرقة ( 13في الأنمي)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_029",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو صديق غون المقرب في Hunter x Hunter؟",
+    "answer": "كيلوا زولديك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_030",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الشيطانة التي تتحول إليها دينجي؟",
+    "answer": "شيطانة المنشار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_031",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الجهاز الذي يستخدمه أوكابي في Steins;Gate؟",
+    "answer": "فرن الميكروويف المعدل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_032",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم امتحان تشونين في ناروتو؟",
+    "answer": "امتحان تشونين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_033",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو والد غوكو؟",
+    "answer": "باردوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_034",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم بنكاي إيتشيغو؟",
+    "answer": "تينسا زانغيتسو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_035",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم الفاكهة التي أكلها لوفي؟",
+    "answer": "فاكهة المطاط (Gomu Gomu no Mi)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_036",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو ملك الشياطين في Jujutsu Kaisen؟",
+    "answer": "ريومين سكونا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_037",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم التنفس الذي يستخدمه زينتسو في Demon Slayer؟",
+    "answer": "تنفس الرعد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_038",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو عم ليفي في Attack on Titan؟",
+    "answer": "كيني السفاح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_039",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم قدرة أوكابي الفريدة؟",
+    "answer": "قارئ ستاينر (Reading Steiner)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "anime_general_040",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم والد ناروتو؟",
+    "answer": "ميناتو ناميكازي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_041",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم تقنية غوجو الحمراء والزرقاء؟",
+    "answer": "الأزرق (التجاذب) والأحمر (التنافر)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_042",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو المستخدم السابق لفاكهة لوفي؟",
+    "answer": "جوي بوي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_043",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم العملاق الذي ورثه أرمين؟",
+    "answer": "العملاق الهائل (Colossal Titan)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_044",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "كم عدد أصابع سكونا الموجودة؟",
+    "answer": "20 إصبعاً",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_045",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم تنفس كيوجورو رينغوكو؟",
+    "answer": "تنفس اللهب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_046",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم السوبر سايان الأول الذي وصله غوكو؟",
+    "answer": "سوبر سايان 1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_047",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "من هو captain الفرقة 5 في Bleach؟",
+    "answer": "سوسكي آيزن",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_048",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم اختبار الصياد في Hunter x Hunter؟",
+    "answer": "اختبار الصياد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "anime_general_049",
+    "category": "anime",
+    "subcategory": "أنمي عام",
+    "question": "ما اسم العالم الذي يحدث فيه Steins;Gate؟",
+    "answer": "أكيهابارا، طوكيو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_001",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم قرية ناروتو؟",
+    "answer": "كونوها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_002",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو معلم ناروتو؟",
+    "answer": "كاكاشي هاتاكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_003",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم صديق ناروتو المقرب؟",
+    "answer": "ساسكي أوتشيها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_004",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم الفتاة التي يحبها ناروتو؟",
+    "answer": "هيناتا هيوجا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_005",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "كم عدد أركان الهوكاجي؟",
+    "answer": "( 5 هوكاجي، ميزوكاجي، تسوتشيكاجي، رايكاجي، كازيكاجي)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_006",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم والدة ناروتو؟",
+    "answer": "كوشينا أوزوماكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_007",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم الشيطان داخل ناروتو؟",
+    "answer": "كوراما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_008",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي الرابع؟",
+    "answer": "ميناتو ناميكازي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_009",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية ناروتو الشهيرة؟",
+    "answer": "راسينغان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_010",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو هوكاجي الأول؟",
+    "answer": "هاشيراما سينجو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_011",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم عائلة ساسكي؟",
+    "answer": "أوتشيها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_012",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم عين أوتشيها الخاصة؟",
+    "answer": "شارينغان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_013",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو أخو ساسكي؟",
+    "answer": "إيتاتشي أوتشيها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_014",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم صديقة ناروتو؟",
+    "answer": "ساكورا هارونو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_015",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي الثالث؟",
+    "answer": "هيرزارين ساروتوبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_016",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية ساسكي النارية؟",
+    "answer": "كاتون (تقنية النار)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_017",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو معلم ساسكي؟",
+    "answer": "كاكاشي هاتاكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_018",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم فريق ناروتو؟",
+    "answer": "فريق 7",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_019",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي الخامس؟",
+    "answer": "تسونادي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto_020",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية كاكاشي الشهيرة؟",
+    "answer": "رايكيري (البرق)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_021",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم والد ساسكي؟",
+    "answer": "فوغاكو أوتشيها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_022",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم والدة ساسكي؟",
+    "answer": "ميكوتو أوتشيها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_023",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي السادس؟",
+    "answer": "كاكاشي هاتاكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_024",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية تسونادي؟",
+    "answer": "تقنية الشفاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_025",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم زوجة ناروتو؟",
+    "answer": "هيناتا هيوجا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_026",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم ابنة ناروتو؟",
+    "answer": "هيماواري أوزوماكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_027",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم ابن ناروتو؟",
+    "answer": "بوروتو أوزوماكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_028",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو زعيم الأوتشيها؟",
+    "answer": "فوغاكو أوتشيها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_029",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية إيتاتشي؟",
+    "answer": "تسوكويومي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_030",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم منظمة الأشرار في ناروتو؟",
+    "answer": "أكاتسكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_031",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو زعيم أكاتسكي؟",
+    "answer": "بين (ناغاتو)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_032",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية بي؟",
+    "answer": "لاريات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_033",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي السابع؟",
+    "answer": "ناروتو أوزوماكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_034",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية جيرايا؟",
+    "answer": "تقنية الضفادع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_035",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم قرية الرمال؟",
+    "answer": "سوناغاكري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_036",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو كازيكاجي الخامس؟",
+    "answer": "غارا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_037",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية غارا؟",
+    "answer": "تقنية الرمل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_038",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو صديق غارا؟",
+    "answer": "ناروتو أوزوماكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_039",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية نيجي؟",
+    "answer": "بياكوغان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto_040",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم والد هيناتا؟",
+    "answer": "هياشي هيوجا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_041",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية ميناتو؟",
+    "answer": "راسينغان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_042",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو معلم جيرايا؟",
+    "answer": "الهوكاجي الثالث",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_043",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية أوروتشيمارو؟",
+    "answer": "تقنية الثعبان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_044",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو مؤسس أوتشيها؟",
+    "answer": "مادارا أوتشيها",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_045",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية مادارا؟",
+    "answer": "ريننيغان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_046",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو الهوكاجي الثاني؟",
+    "answer": "توبيراما سينجو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_047",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم تقنية هاشيراما؟",
+    "answer": "تقنية الخشب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_048",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "من هو زوج تسونادي؟",
+    "answer": "دان كاتو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto_049",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "question": "ما اسم ابن تسونادي؟",
+    "answer": "لم يكن لها أبناء",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_001",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "إيرين ييغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_002",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم صديقة إيرين المقربة؟",
+    "answer": "ميكاسا أكرمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_003",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو صديق إيرين؟",
+    "answer": "أرمين أرليرت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_004",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم الجدران الثلاثة؟",
+    "answer": "ماريا، روز، شينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_005",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم العملاق الذي يتحول إليه إيرين؟",
+    "answer": "العملاق المهاجم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_006",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو captain الفرقة الخاصة؟",
+    "answer": "ليفي أكرمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_007",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم العملاق الأنثوي؟",
+    "answer": "آني ليونهارت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_008",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو العملاق المدرع؟",
+    "answer": "راينر براون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_009",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم العملاق الهائل؟",
+    "answer": "بيرتهولدت هوفر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_010",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو العملاق الوحش؟",
+    "answer": "زيكي ييغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_011",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم والد إيرين؟",
+    "answer": "غريشا ييغر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_012",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم الفرقة التي ينتمي إليها إيرين؟",
+    "answer": "فيلق الاستطلاع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_013",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو قائد فيلق الاستطلاع؟",
+    "answer": "إروين سميث",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_014",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية قتل العمالقة؟",
+    "answer": "معدات المناورة ثلاثية الأبعاد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_015",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو العملاق ذو الفك؟",
+    "answer": "بوركو جاليارد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_016",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم مدينة مارلي؟",
+    "answer": "ليبريو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_017",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عم ليفي؟",
+    "answer": "كيني السفاح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "aot_018",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم والدة إيرين؟",
+    "answer": "كارلا ييغر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_019",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم عملاق راينر الثاني؟",
+    "answer": "العملاق المدرع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_020",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عملاق زيكي؟",
+    "answer": "العملاق الوحش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_021",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية إيرين للتحكم بالعمالقة؟",
+    "answer": "الصراخ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_022",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو مؤسس الجدران؟",
+    "answer": "الملك كارل فريتز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_023",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم والدة ليفي؟",
+    "answer": "كوتشل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_024",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو قائد الحامية؟",
+    "answer": "دوت بيكسيس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_025",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية أرمين؟",
+    "answer": "الذكاء الاستراتيجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_026",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عملاق ييمير؟",
+    "answer": "العملاق ذو الفك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_027",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم عملاق بوركو؟",
+    "answer": "العملاق ذو الفك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_028",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عملاق بيك؟",
+    "answer": "عملاق العربة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_029",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية زيكي؟",
+    "answer": "التحكم بالدماء الملكية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_030",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو أخو زيكي؟",
+    "answer": "إيرين ييغر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_031",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية راينر؟",
+    "answer": "التصلب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_032",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عملاق فالكو؟",
+    "answer": "العملاق المجنح",
+    "difficulty": "medium"
+  },
+  {
+    "id": "aot_033",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم المسارات؟",
+    "answer": "المسارات (Paths)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_034",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو ييمير؟",
+    "answer": "ييمير فريتز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_035",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية ييمير؟",
+    "answer": "قوة العمالقة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_036",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو ملك الشياطين؟",
+    "answer": "ييمير فريتز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_037",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم عائلة فريتز؟",
+    "answer": "فريتز",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_038",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية غريشا؟",
+    "answer": "العملاق المؤسس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_039",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "من هو عملاق إرين النهائي؟",
+    "answer": "العملاق المؤسس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "aot_040",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "question": "ما اسم تقنية أرمين النهائية؟",
+    "answer": "العملاق الهائل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_001",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم سيف زورو؟",
+    "answer": "وايدو إيتشي مونجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_002",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هي الملاح في الطاقم؟",
+    "answer": "نامي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_003",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو الطباخ؟",
+    "answer": "سانجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_004",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو القناص؟",
+    "answer": "أوسوب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_005",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو الطبيب؟",
+    "answer": "تشوبر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_006",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هي المؤرخة؟",
+    "answer": "نيكو روبن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_007",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو السّفان؟",
+    "answer": "فرانكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_008",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو الموسيقي؟",
+    "answer": "بروك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_009",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو ربان دفة السفينة؟",
+    "answer": "جينبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_010",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم فاكهة لوفي؟",
+    "answer": "غومو غومو نو مي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_011",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم حلم لوفي؟",
+    "answer": "أن يصبح ملك القراصنة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_012",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو عدو لوفي الرئيسي؟",
+    "answer": "مارشال دي تيتش",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_013",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم البحرية؟",
+    "answer": "المارينز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_014",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو أدميرال البحرية؟",
+    "answer": "أكاينو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_015",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم جزيرة لوفي الأولى؟",
+    "answer": "جزيرة داوان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_016",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو شقيق لوفي؟",
+    "answer": "آيس وسابو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_017",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم والد لوفي؟",
+    "answer": "مونكي دي دراغون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_018",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو جد لوفي؟",
+    "answer": "مونكي دي غارب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "one_piece_019",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية لوفي؟",
+    "answer": "غومو غومو نو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_020",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو صانع السفن؟",
+    "answer": "فرانكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_021",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم سيف نامي؟",
+    "answer": "كليما تاكت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_022",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو طباخ الطاقم؟",
+    "answer": "سانجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_023",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية زورو؟",
+    "answer": "سانتيوري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_024",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو قناص الطاقم؟",
+    "answer": "أوسوب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_025",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية تشوبر؟",
+    "answer": "هيتو هيتو نو مي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_026",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هي مؤرخة الطاقم؟",
+    "answer": "نيكو روبن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_027",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية سانجي؟",
+    "answer": "الساق السوداء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_028",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو موسيقي الطاقم؟",
+    "answer": "بروك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_029",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية أوسوب؟",
+    "answer": "كابوتو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_030",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو صديق لوفي؟",
+    "answer": "آيس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_031",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية آيس؟",
+    "answer": "ميرا ميرا نو مي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_032",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو صديق لوفي الثاني؟",
+    "answer": "سابو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_033",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية سابو؟",
+    "answer": "ميرا ميرا نو مي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_034",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو عدو آيس؟",
+    "answer": "أكاينو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_035",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية أكاينو؟",
+    "answer": "ماغو ماغو نو مي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_036",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو أدميرال البحرية الثاني؟",
+    "answer": "كيزارو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_037",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية كيزارو؟",
+    "answer": "بيكا بيكا نو مي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_038",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو أدميرال البحرية الثالث؟",
+    "answer": "أوكيجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "one_piece_039",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية أوكيجي؟",
+    "answer": "هيه هيه نو مي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_040",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو شيشيبوكاي؟",
+    "answer": "سبعة أمراء الحرب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_041",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو يونكو الأول؟",
+    "answer": "كايدو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_042",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية كايدو؟",
+    "answer": "يوو يوو نو مي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_043",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو يونكو الثاني؟",
+    "answer": "بيغ مام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_044",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "ما اسم تقنية بيغ مام؟",
+    "answer": "سورو سورو نو مي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_045",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو يونكو الثالث؟",
+    "answer": "شانشي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "one_piece_046",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "question": "من هو يونكو الرابع؟",
+    "answer": "لوفي (لاحقاً)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_001",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "إيتشيغو كوروساكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_002",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم شينيغامي التي قابلها إيتشيغو؟",
+    "answer": "روكيا كوتشيكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_003",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف إيتشيغو؟",
+    "answer": "زانغيتسو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_004",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو صديق إيتشيغو؟",
+    "answer": "أوريهيمي إينوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_005",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو صديق إيتشيغو الثاني؟",
+    "answer": "تشاد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_006",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو عدو إيتشيغو؟",
+    "answer": "سوسكي آيزن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_007",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم فرقة آيزن؟",
+    "answer": "الفرقة 5",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_008",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 13؟",
+    "answer": "جوشيرو أوكيتايا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_009",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية إيتشيغو؟",
+    "answer": "غيتسوغا تينشو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_010",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو والد إيتشيغو؟",
+    "answer": "إيشين كوروساكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_011",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم والدة إيتشيغو؟",
+    "answer": "ماساكي كوروساكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_012",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو شينيغامي البديل؟",
+    "answer": "إيتشيغو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_013",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم هولوي؟",
+    "answer": "الأرواح الشريرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_014",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو أرواما؟",
+    "answer": "الأرواح الطيبة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_015",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سول سوسايتي؟",
+    "answer": "مجتمع الأرواح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_016",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 11؟",
+    "answer": "كينباتشي زاراكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_017",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية زاراكي؟",
+    "answer": "قوة هائلة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_018",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 10؟",
+    "answer": "توشيرو هيتسوغايا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_019",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف هيتسوغايا؟",
+    "answer": "هيورينمارو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_020",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 10؟",
+    "answer": "رانغيكو ماتسوموتو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bleach_021",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية هيتسوغايا؟",
+    "answer": "هيورينمارو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_022",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 6؟",
+    "answer": "بياكويا كوتشيكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_023",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف بياكويا؟",
+    "answer": "سينبونزاكورا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_024",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 6؟",
+    "answer": "رينجي أباراي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_025",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف رينجي؟",
+    "answer": "زابيمارو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_026",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 4؟",
+    "answer": "ريتسو أونوهانا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_027",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية أونوهانا؟",
+    "answer": "الشفاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_028",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 2؟",
+    "answer": "سوي فونغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_029",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية سوي فونغ؟",
+    "answer": "الشونشو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_030",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 8؟",
+    "answer": "شونسوي كيوراكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_031",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف كيوراكو؟",
+    "answer": "كاتين كيوكوتسو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_032",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 8؟",
+    "answer": "ناناو إيسان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_033",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 9؟",
+    "answer": "كانامي توسين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_034",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف توسين؟",
+    "answer": "سوزوموشي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_035",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 9؟",
+    "answer": "شوهي هيساغي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_036",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف هيساغي؟",
+    "answer": "كازاشيني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_037",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 7؟",
+    "answer": "ساجين كومامورا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_038",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف كومامورا؟",
+    "answer": "تينكين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_039",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 7؟",
+    "answer": "تيتسو زايمون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bleach_040",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 3؟",
+    "answer": "روز أوتوريباشي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_041",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف أوتوريباشي؟",
+    "answer": "كينشارا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_042",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 3؟",
+    "answer": "إيزورو كيرا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_043",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم سيف كيرا؟",
+    "answer": "وابيسكي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_044",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 12؟",
+    "answer": "مايوري كوروتسوتشي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_045",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "ما اسم تقنية كوروتسوتشي؟",
+    "answer": "التجارب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_046",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو lieutenant الفرقة 12؟",
+    "answer": "نيمو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bleach_047",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "question": "من هو captain الفرقة 1؟",
+    "answer": "غينريوسي ياماموتو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_001",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "تانجيرو كامادو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_002",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم أخت تانجيرو؟",
+    "answer": "نيزوكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_003",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تنفس تانجيرو؟",
+    "answer": "تنفس الماء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_004",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو صديق تانجيرو؟",
+    "answer": "زينيتسو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_005",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو صديق تانجيرو الثاني؟",
+    "answer": "إينوسكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_006",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تنفس زينيتسو؟",
+    "answer": "تنفس الرعد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_007",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تنفس إينوسكي؟",
+    "answer": "تنفس الوحش",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_008",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو معلم تانجيرو؟",
+    "answer": "ساكونجي أوروكوداكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_009",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم منظمة قاتلي الشياطين؟",
+    "answer": "فيلق قاتلي الشياطين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_010",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو زعيم الشياطين؟",
+    "answer": "موزان كيبوتسوجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_011",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم الهاشيرا؟",
+    "answer": "الأعمدة التسعة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_012",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الماء؟",
+    "answer": "غيو توميوكا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_013",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الرعد؟",
+    "answer": "جيغورو كوواجيما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_014",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا اللهب؟",
+    "answer": "كيوجورو رينغوكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_015",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الحشرة؟",
+    "answer": "شينوبو كوتشو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_016",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الثعبان؟",
+    "answer": "أوباناي إيغورو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_017",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الحجر؟",
+    "answer": "غيومي هيميجيما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_018",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الرياح؟",
+    "answer": "سانيمي شينازوغاوا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_019",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الصوت؟",
+    "answer": "تينغن أوزوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_020",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الحب؟",
+    "answer": "ميتسوري كانروجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "demon_slayer_021",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تنفس كيوجورو؟",
+    "answer": "تنفس اللهب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_022",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الماء السابق؟",
+    "answer": "ساكونجي أوروكوداكي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_023",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية تانجيرو؟",
+    "answer": "رقصة الرقص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_024",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو والد تانجيرو؟",
+    "answer": "تانجورو كامادو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_025",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم والدة تانجيرو؟",
+    "answer": "كي كامادو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_026",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو والد نيزوكو؟",
+    "answer": "تانجورو كامادو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_027",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم والدة نيزوكو؟",
+    "answer": "كي كامادو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_028",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية زينيتسو؟",
+    "answer": "الرعد السريع",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_029",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو معلم زينيتسو؟",
+    "answer": "جيغورو كوواجيما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_030",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية إينوسكي؟",
+    "answer": "الوحش المتوحش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_031",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية موزان؟",
+    "answer": "تحويل البشر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_032",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو شيطان نيزوكو؟",
+    "answer": "نيزوكو كامادو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "demon_slayer_033",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية نيزوكو؟",
+    "answer": "قوة الشيطان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_034",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو هاشيرا الشمس؟",
+    "answer": "يوريتشي تسوغيني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_035",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تنفس الشمس؟",
+    "answer": "تنفس الشمس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_036",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "من هو أخو يوريتشي؟",
+    "answer": "ميتشيكاتسو تسوغيني",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_037",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية ميتشيكاتسو؟",
+    "answer": "تنفس القمر",
+    "difficulty": "hard"
+  },
+  {
+    "id": "demon_slayer_038",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "question": "ما اسم تقنية كيوجورو النهائية؟",
+    "answer": "رينغوكو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_001",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "لايت ياغامي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_002",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم مذكرة الموت؟",
+    "answer": "ديث نوت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_003",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو الشينيغامي؟",
+    "answer": "ريوك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_004",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو المحقق؟",
+    "answer": "إل (L)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_005",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم إل الحقيقي؟",
+    "answer": "لواليت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_006",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو مساعد إل؟",
+    "answer": "واتاري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_007",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم صديقة لايت؟",
+    "answer": "ميسا أمان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_008",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي ميسا؟",
+    "answer": "ريم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_009",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم والد لايت؟",
+    "answer": "سويتشيرو ياغامي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_010",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو خليفة إل؟",
+    "answer": "نيرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_011",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم خليفة إل الثاني؟",
+    "answer": "ميلو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_012",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية ديث نوت؟",
+    "answer": "كتابة الاسم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_013",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو صاحب ديث نوت الأول؟",
+    "answer": "ريوك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_014",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم شينيغامي الثاني؟",
+    "answer": "ريم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_015",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي الثالث؟",
+    "answer": "جيدوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "death_note_016",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية ريوك؟",
+    "answer": "رؤية الأسماء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_017",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو تقنية ريم؟",
+    "answer": "حماية ميسا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_018",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية نيرو؟",
+    "answer": "الذكاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_019",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو تقنية ميلو؟",
+    "answer": "الشجاعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_020",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية واتاري؟",
+    "answer": "التكنولوجيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_021",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية سويتشيرو؟",
+    "answer": "الشرطة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_022",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية لايت؟",
+    "answer": "التخطيط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_023",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي لايت؟",
+    "answer": "ريوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "death_note_024",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية إل؟",
+    "answer": "الاستنتاج",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_025",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية ميسا؟",
+    "answer": "التضحية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_026",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية ريوك النهائية؟",
+    "answer": "كتابة اسم لايت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_027",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي ريوك؟",
+    "answer": "ريوك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_028",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "ما اسم تقنية ريم النهائية؟",
+    "answer": "كتابة اسم واتاري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_029",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي ريم؟",
+    "answer": "ريم",
+    "difficulty": "hard"
+  },
+  {
+    "id": "death_note_030",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "question": "من هو شينيغامي جيدوس؟",
+    "answer": "جيدوس",
+    "difficulty": "hard"
+  },
+  {
+    "id": "hxh_001",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "غون فريكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_002",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق غون؟",
+    "answer": "كيلوا زولديك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_003",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم نظام القوة؟",
+    "answer": "النين (Nen)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_004",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو والد غون؟",
+    "answer": "غين فريكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_005",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية غون؟",
+    "answer": "تعزيز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_006",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو تقنية كيلوا؟",
+    "answer": "تحويل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_007",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم اختبار الصياد؟",
+    "answer": "اختبار الصياد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_008",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو رئيس اختبار الصياد؟",
+    "answer": "إسحاق نيتيرو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_009",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم عائلة زولديك؟",
+    "answer": "زولديك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_010",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو والد كيلوا؟",
+    "answer": "سيلفا زولديك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_011",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم والدة كيلوا؟",
+    "answer": "كيكو زولديك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_012",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو أخو كيلوا؟",
+    "answer": "إيلومي زولديك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_013",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية إيلومي؟",
+    "answer": "التحكم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_014",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق غون الثاني؟",
+    "answer": "كورولو لوسيفر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_015",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية كورولو؟",
+    "answer": "سرقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_016",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق غون الثالث؟",
+    "answer": "ليوريو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_017",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية ليوريو؟",
+    "answer": "الإصدار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_018",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق غون الرابع؟",
+    "answer": "كورابيكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hxh_019",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية كورابيكو؟",
+    "answer": "سلاسل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_020",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو عدو كورابيكو؟",
+    "answer": "فيلان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_021",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو عدو غون؟",
+    "answer": "بيتو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_022",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية بيتو؟",
+    "answer": "التخصص",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_023",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو عدو كيلوا؟",
+    "answer": "إيلومي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_024",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق كيلوا؟",
+    "answer": "غون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_025",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية غون النهائية؟",
+    "answer": "تضحية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_026",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو عدو كورولو؟",
+    "answer": "كورابيكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_027",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "ما اسم تقنية كورولو النهائية؟",
+    "answer": "سرقة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "hxh_028",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "question": "من هو صديق كورولو؟",
+    "answer": "فيلان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_001",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "غوكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_002",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم ابن غوكو؟",
+    "answer": "غوهان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_003",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو؟",
+    "answer": "كريلين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_004",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم زوجة غوكو؟",
+    "answer": "تشي تشي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_005",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو معلم غوكو؟",
+    "answer": "المعلم روشي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_006",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية غوكو؟",
+    "answer": "كاميهامها",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_007",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو غوكو؟",
+    "answer": "فريزا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_008",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم كوكب غوكو؟",
+    "answer": "كوكب فيجيتا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_009",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم والدة غوكو؟",
+    "answer": "جين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_010",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو أخو غوكو؟",
+    "answer": "راديتز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_011",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية راديتز؟",
+    "answer": "قوة السايان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_012",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو الثاني؟",
+    "answer": "يامشا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_013",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية يامشا؟",
+    "answer": "وولف فانغ فيست",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_014",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو الثالث؟",
+    "answer": "تينشينهان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_015",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية تينشينهان؟",
+    "answer": "كيكوهو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_016",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو الرابع؟",
+    "answer": "تشاوتزو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_017",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو غوكو الثاني؟",
+    "answer": "سيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_018",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية سيل؟",
+    "answer": "الامتصاص",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dragon_ball_019",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو غوكو الثالث؟",
+    "answer": "ماجين بو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_020",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية ماجين بو؟",
+    "answer": "التحول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_021",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو الخامس؟",
+    "answer": "فيجيتا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_022",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية فيجيتا؟",
+    "answer": "غاليك غان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_023",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو ابن فيجيتا؟",
+    "answer": "ترانكس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_024",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية ترانكس؟",
+    "answer": "قوة السايان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_025",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو والد فيجيتا؟",
+    "answer": "الملك فيجيتا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_026",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق فيجيتا؟",
+    "answer": "غوكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_027",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية غوهان؟",
+    "answer": "كاميهامها",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_028",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو معلم غوهان؟",
+    "answer": "بيكولو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_029",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية بيكولو؟",
+    "answer": "ماكوكو هازيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_030",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو والد بيكولو؟",
+    "answer": "بيكولو القديم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_031",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو بيكولو؟",
+    "answer": "غوكو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_032",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية غوتن؟",
+    "answer": "قوة السايان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_033",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو غوتن؟",
+    "answer": "ابن غوكو الثاني",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_034",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية فيجيتا النهائية؟",
+    "answer": "سوبر سايان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_035",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو ترانكس؟",
+    "answer": "سيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_036",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية سيل النهائية؟",
+    "answer": "سوبر سيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "dragon_ball_037",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو ماجين بو؟",
+    "answer": "غوكو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_038",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية ماجين بو النهائية؟",
+    "answer": "سوبر ماجين بو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_039",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو صديق غوكو السادس؟",
+    "answer": "أندرويد 18",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_040",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية أندرويد 18؟",
+    "answer": "الطاقة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_041",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو زوج أندرويد 18؟",
+    "answer": "كريلين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_042",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية كريلين؟",
+    "answer": "كينزان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_043",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو عدو كريلين؟",
+    "answer": "فريزا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_044",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "ما اسم تقنية فريزا؟",
+    "answer": "ديث بول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "dragon_ball_045",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "question": "من هو والد فريزا؟",
+    "answer": "الملك كولد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "jjk_001",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "يوجي إيتادوري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_002",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو معلم يوجي؟",
+    "answer": "ساتورو غوجو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_003",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم الشيطان داخل يوجي؟",
+    "answer": "ريومين سكونا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_004",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو صديق يوجي؟",
+    "answer": "ميغومي فوشيغورو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_005",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو صديق يوجي الثاني؟",
+    "answer": "نوبارا كوغيساكي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_006",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية غوجو؟",
+    "answer": "اللانهاية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_007",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو يوجي؟",
+    "answer": "ماهيتو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_008",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية ماهيتو؟",
+    "answer": "التشكيل الكسول",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_009",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو رئيس المدرسة؟",
+    "answer": "ماساميتشي ياغا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_010",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية يوجي؟",
+    "answer": "القبضة المتباينة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_011",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو شقيق ميغومي؟",
+    "answer": "تسومومي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_012",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية ميغومي؟",
+    "answer": "الظلال العشرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_013",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو صديق نوبارا؟",
+    "answer": "يوجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_014",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية نوبارا؟",
+    "answer": "الدمية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_015",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو غوجو؟",
+    "answer": "سكونا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_016",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية سكونا؟",
+    "answer": "قطع",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_017",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية غوجو النهائية؟",
+    "answer": "الانهيار",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_018",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو نوبارا؟",
+    "answer": "ماهيتو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_019",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية ماهيتو النهائية؟",
+    "answer": "الروح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "jjk_020",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو والد ميغومي؟",
+    "answer": "توجي فوشيغورو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_021",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو توجي؟",
+    "answer": "غوجو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_022",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية توجي؟",
+    "answer": "القوة الجسدية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_023",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية سكونا النهائية؟",
+    "answer": "قطع العالم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_024",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو سكونا؟",
+    "answer": "يوجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_025",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية يوجي النهائية؟",
+    "answer": "قوة سكونا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "jjk_026",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو ماهيتو؟",
+    "answer": "يوجي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "jjk_027",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية ماهيتو النهائية؟",
+    "answer": "الروح الكاملة",
+    "difficulty": "hard"
+  },
+  {
+    "id": "jjk_028",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية غوجو الثانية؟",
+    "answer": "الأحمر والأزرق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "jjk_029",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "من هو عدو غوجو الثاني؟",
+    "answer": "سكونا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "jjk_030",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "question": "ما اسم تقنية سكونا الثانية؟",
+    "answer": "النار",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chainsaw_man_001",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "دينجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_002",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو صديق دينجي؟",
+    "answer": "باور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_003",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم شيطانة باور؟",
+    "answer": "شيطانة الدم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_004",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو صديق دينجي الثاني؟",
+    "answer": "أكي هاياكاوا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_005",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم تقنية أكي؟",
+    "answer": "السيف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_006",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو معلم دينجي؟",
+    "answer": "ماكيما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_007",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم منظمة صائدي الشياطين؟",
+    "answer": "صائدو الشياطين العامون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_008",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو رئيس المنظمة؟",
+    "answer": "ماكيما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_009",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم شيطانة ماكيما؟",
+    "answer": "شيطانة السيطرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_010",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو عدو دينجي؟",
+    "answer": "غون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_011",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم شيطانة غون؟",
+    "answer": "شيطانة البندقية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_012",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو صديق باور؟",
+    "answer": "دينجي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_013",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم تقنية باور؟",
+    "answer": "الدم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_014",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو عدو باور؟",
+    "answer": "غون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_015",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم شيطانة أكي؟",
+    "answer": "شيطانة الثعلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chainsaw_man_016",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم تقنية ماكيما؟",
+    "answer": "التحكم والسيطرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chainsaw_man_017",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو صديق ماكيما؟",
+    "answer": "دينجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chainsaw_man_018",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم تقنية دينجي؟",
+    "answer": "المنشار",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chainsaw_man_019",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "من هو صديق باور الثاني؟",
+    "answer": "دينجي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chainsaw_man_020",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "question": "ما اسم تقنية دينجي النهائية؟",
+    "answer": "المنشار الكامل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "steins_gate_001",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو البطل الرئيسي؟",
+    "answer": "رينتارو أوكابي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_002",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "ما اسم لقب أوكابي؟",
+    "answer": "هوكوين كييما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_003",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق أوكابي؟",
+    "answer": "إيتارو هاشيدا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_004",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "ما اسم مختبر أوكابي؟",
+    "answer": "مختبر المستقبل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_005",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق أوكابي الثاني؟",
+    "answer": "مايوري شينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_006",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "ما اسم تقنية أوكابي؟",
+    "answer": "قارئ ستاينر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_007",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو عدو أوكابي؟",
+    "answer": "سيرن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_008",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "ما اسم منظمة سيرن؟",
+    "answer": "سيرن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_009",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق أوكابي الثالث؟",
+    "answer": "كوريس ماكيسي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_010",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "ما اسم تقنية هاشيدا؟",
+    "answer": "البرمجة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "steins_gate_011",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق هاشيدا؟",
+    "answer": "أوكابي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "steins_gate_012",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق ماكيسي؟",
+    "answer": "أوكابي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "steins_gate_013",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق هاشيدا الثاني؟",
+    "answer": "أوكابي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "steins_gate_014",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق شينا الثاني؟",
+    "answer": "أوكابي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "steins_gate_015",
+    "category": "anime",
+    "subcategory": "Steins;Gate",
+    "question": "من هو صديق ماكيسي الثاني؟",
+    "answer": "أوكابي",
+    "difficulty": "hard"
+  }
+]

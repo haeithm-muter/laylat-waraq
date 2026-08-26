@@ -1,0 +1,1650 @@
+[
+  {
+    "id": "geography_1",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة اليابان؟",
+    "answer": "طوكيو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_2",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة المملكة العربية السعودية؟",
+    "answer": "الرياض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_3",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما هي أكبر قارة في العالم من حيث المساحة؟",
+    "answer": "قارة آسيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_4",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما هو أعلى جبل في العالم؟",
+    "answer": "جبل إفرست",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_5",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما هي أصغر دولة في العالم من حيث المساحة؟",
+    "answer": "الفاتيكان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_6",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما هو أكبر صحراء حارة في العالم؟",
+    "answer": "الصحراء الكبرى",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_007",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما أطول نهر في العالم؟",
+    "answer": "نهر النيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_008",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما أكبر محيط على الأرض؟",
+    "answer": "المحيط الهادئ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_009",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما القارة الأصغر مساحة؟",
+    "answer": "أوقيانوسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_010",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما أكبر دولة في العالم مساحة؟",
+    "answer": "روسيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_011",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما عاصمة فرنسا؟",
+    "answer": "باريس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_012",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما عاصمة مصر؟",
+    "answer": "القاهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_013",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما البحر الذي يفصل بين أوروبا وأفريقيا؟",
+    "answer": "البحر المتوسط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_014",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أطول سلسلة جبلية برية؟",
+    "answer": "جبال الأنديز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_015",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القارة التي تقع فيها البرازيل؟",
+    "answer": "أمريكا الجنوبية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_016",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القارة التي تقع فيها أستراليا؟",
+    "answer": "أوقيانوسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_017",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما أكبر بحيرة عذبة في العالم من حيث المساحة؟",
+    "answer": "بحيرة سوبيريور",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_018",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما أكبر بحر داخلي؟",
+    "answer": "بحر قزوين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_019",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم مضيق يصل بين أوروبا وآسيا؟",
+    "answer": "مضيق البوسفور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_020",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تُعرف بأرض الشمس المشرقة؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_021",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تُعرف ببلاد الأهرام؟",
+    "answer": "مصر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_022",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما عدد القارات على الأرض؟",
+    "answer": "سبع قارات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_023",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الخط الوهمي الذي يقسم الأرض إلى نصفين شمالي وجنوبي؟",
+    "answer": "خط الاستواء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_024",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الدائرة الوهمية التي تحدد الموقع شرقاً وغرباً؟",
+    "answer": "خطوط الطول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_025",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الدائرة الوهمية التي تحدد الموقع شمالاً وجنوباً؟",
+    "answer": "دوائر العرض",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_026",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر جزيرة في العالم؟",
+    "answer": "جرينلاند",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_027",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم المضيق الذي يفصل آسيا عن أمريكا الشمالية؟",
+    "answer": "مضيق بيرينغ",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_028",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم البحر الذي يربط البحر الأحمر بالمحيط الهندي؟",
+    "answer": "بحر العرب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_029",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم قارة تقع بالكامل تقريباً في نصف الكرة الجنوبي؟",
+    "answer": "أستراليا/أوقيانوسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_030",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أعلى هضبة في العالم؟",
+    "answer": "هضبة التبت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_extra_031",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكثر قارة تضم عدداً من السكان؟",
+    "answer": "آسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_032",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة المشهورة بجبل فوجي؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_033",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الدولة التي تقع فيها الأمازون؟",
+    "answer": "البرازيل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_034",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تشتهر بجزر المالديف؟",
+    "answer": "المالديف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_035",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما اسم العاصمة الأمريكية؟",
+    "answer": "واشنطن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_036",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم المحيط بين أفريقيا وأستراليا؟",
+    "answer": "المحيط الهندي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_extra_037",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم البحر الذي يتصل بالمحيط الأطلسي والمحيط الهندي عبر قناة السويس؟",
+    "answer": "البحر الأحمر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_extra_038",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القارة التي تقع فيها مصر؟",
+    "answer": "أفريقيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_039",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أعمق نقطة في المحيطات؟",
+    "answer": "خندق ماريانا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_040",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أعمق بحيرة في العالم؟",
+    "answer": "بحيرة بايكال",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_041",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القارة التي تُعد أكبر صحراء باردة في العالم؟",
+    "answer": "أنتاركتيكا (القارة القطبية الجنوبية)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_042",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أطول نهر في قارة أوروبا؟",
+    "answer": "نهر الفولغا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_043",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أعلى شلال في العالم ويقع في فنزويلا؟",
+    "answer": "شلالات أنجل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_044",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر شعاب مرجانية في العالم وتقع قرب أستراليا؟",
+    "answer": "الحاجز المرجاني العظيم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_045",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر غابة استوائية مطيرة في العالم؟",
+    "answer": "غابات الأمازون المطيرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_046",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر صحراء رملية متصلة في شبه الجزيرة العربية؟",
+    "answer": "الربع الخالي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_047",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم خط الطول الذي يُعتبر نقطة الصفر لتحديد التوقيت العالمي؟",
+    "answer": "خط غرينتش",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_048",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر شبه جزيرة في العالم؟",
+    "answer": "شبه الجزيرة العربية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_049",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم المضيق الذي يصل البحر الأحمر بخليج عدن بين اليمن وجيبوتي؟",
+    "answer": "مضيق باب المندب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_050",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أعلى سلسلة جبلية في العالم وتقع في آسيا؟",
+    "answer": "جبال الهيمالايا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_051",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أصغر محيط في العالم؟",
+    "answer": "المحيط المتجمد الشمالي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_052",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القارة التي لا يوجد بها سكان أصليون دائمون؟",
+    "answer": "أنتاركتيكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_053",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الخط الوهمي الذي يقسم الأرض إلى شرقي وغربي عند درجة 180؟",
+    "answer": "خط التاريخ الدولي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_054",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الرياح الموسمية التي تهب على جنوب وجنوب شرق آسيا؟",
+    "answer": "الرياح الموسمية (المونسون)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_055",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم الطبقة الغازية التي تحيط بالأرض؟",
+    "answer": "الغلاف الجوي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_056",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "كم تبلغ نسبة تغطية الماء لسطح الكرة الأرضية تقريباً؟",
+    "answer": "نحو 71%",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_057",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر جزيرة تقع في البحر الأبيض المتوسط؟",
+    "answer": "صقلية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_058",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القناة المائية التي تربط البحر الأبيض المتوسط بالبحر الأحمر؟",
+    "answer": "قناة السويس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_059",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم القناة المائية التي تربط المحيط الأطلسي بالمحيط الهادئ عبر أمريكا الوسطى؟",
+    "answer": "قناة بنما",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_060",
+    "category": "geography",
+    "subcategory": "جغرافيا عامة",
+    "question": "ما اسم أكبر دلتا نهرية في العالم وتقع في بنغلاديش؟",
+    "answer": "دلتا نهر الغانج",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_061",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة بريطانيا؟",
+    "answer": "لندن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_062",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة ألمانيا؟",
+    "answer": "برلين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_063",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة إسبانيا؟",
+    "answer": "مدريد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_064",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة إيطاليا؟",
+    "answer": "روما",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_065",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة روسيا؟",
+    "answer": "موسكو",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_066",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الصين؟",
+    "answer": "بكين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_067",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة كوريا الجنوبية؟",
+    "answer": "سيول",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_068",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الهند؟",
+    "answer": "نيودلهي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_069",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة باكستان؟",
+    "answer": "إسلام آباد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_070",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة أفغانستان؟",
+    "answer": "كابل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_071",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة إيران؟",
+    "answer": "طهران",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_072",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة العراق؟",
+    "answer": "بغداد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_073",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة سوريا؟",
+    "answer": "دمشق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_074",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة لبنان؟",
+    "answer": "بيروت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_075",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الأردن؟",
+    "answer": "عمّان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_076",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الإمارات العربية المتحدة؟",
+    "answer": "أبوظبي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_077",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة قطر؟",
+    "answer": "الدوحة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_078",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الكويت؟",
+    "answer": "مدينة الكويت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_079",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة عُمان؟",
+    "answer": "مسقط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_080",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة البحرين؟",
+    "answer": "المنامة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_081",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة اليمن؟",
+    "answer": "صنعاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_082",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة السودان؟",
+    "answer": "الخرطوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_083",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة ليبيا؟",
+    "answer": "طرابلس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_084",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة تونس؟",
+    "answer": "تونس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_085",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الجزائر؟",
+    "answer": "الجزائر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_086",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة المغرب؟",
+    "answer": "الرباط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_087",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة موريتانيا؟",
+    "answer": "نواكشوط",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_088",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة تركيا؟",
+    "answer": "أنقرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_089",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة اليونان؟",
+    "answer": "أثينا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_090",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة البرتغال؟",
+    "answer": "لشبونة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_091",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة سويسرا؟",
+    "answer": "برن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_092",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة النمسا؟",
+    "answer": "فيينا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_093",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة هولندا؟",
+    "answer": "أمستردام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_094",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة بلجيكا؟",
+    "answer": "بروكسل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_095",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة السويد؟",
+    "answer": "ستوكهولم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_096",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة النرويج؟",
+    "answer": "أوسلو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_097",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الدنمارك؟",
+    "answer": "كوبنهاغن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_098",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة فنلندا؟",
+    "answer": "هلسنكي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_099",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة بولندا؟",
+    "answer": "وارسو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_100",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة أوكرانيا؟",
+    "answer": "كييف",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_101",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة كندا؟",
+    "answer": "أوتاوا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_102",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة المكسيك؟",
+    "answer": "مكسيكو سيتي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_103",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة البرازيل؟",
+    "answer": "برازيليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_104",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة الأرجنتين؟",
+    "answer": "بوينس آيرس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_105",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة أستراليا؟",
+    "answer": "كانبيرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_106",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة نيوزيلندا؟",
+    "answer": "ويلينغتون",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_107",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة إندونيسيا؟",
+    "answer": "جاكرتا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_108",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة تايلاند؟",
+    "answer": "بانكوك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_109",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة فيتنام؟",
+    "answer": "هانوي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_110",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة ماليزيا؟",
+    "answer": "كوالالمبور",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_111",
+    "category": "geography",
+    "subcategory": "عواصم",
+    "question": "ما هي عاصمة سنغافورة؟",
+    "answer": "سنغافورة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_112",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها برج إيفل؟",
+    "answer": "فرنسا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_113",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها تمثال الحرية؟",
+    "answer": "الولايات المتحدة الأمريكية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_114",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها سور الصين العظيم؟",
+    "answer": "الصين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_115",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها تاج محل؟",
+    "answer": "الهند",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_116",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها برج بيزا المائل؟",
+    "answer": "إيطاليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_117",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها مدرج الكولوسيوم؟",
+    "answer": "إيطاليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_118",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها مدينة ماتشو بيتشو الأثرية؟",
+    "answer": "بيرو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_119",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها ساعة بيغ بن؟",
+    "answer": "بريطانيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_120",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها الكرملين؟",
+    "answer": "روسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_121",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها برج خليفة؟",
+    "answer": "الإمارات العربية المتحدة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_122",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها تمثال المسيح الفادي؟",
+    "answer": "البرازيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_123",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها دار أوبرا سيدني؟",
+    "answer": "أستراليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_124",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تُعرف ببلاد الألف بحيرة؟",
+    "answer": "فنلندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_125",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يرمز لها شجر الأرز على علمها؟",
+    "answer": "لبنان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_126",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها جزيرة بالي؟",
+    "answer": "إندونيسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_127",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها منتزه سيرينغيتي الوطني؟",
+    "answer": "تنزانيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_128",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولتين اللتين تقع بينهما شلالات نياجرا؟",
+    "answer": "الولايات المتحدة وكندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_129",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولتين اللتين تقع بينهما شلالات فيكتوريا؟",
+    "answer": "زامبيا وزيمبابوي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_130",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها مدينة البندقية (فينيسيا)؟",
+    "answer": "إيطاليا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_131",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم أكبر دولة عربية من حيث المساحة؟",
+    "answer": "الجزائر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_132",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم أصغر دولة عربية من حيث المساحة؟",
+    "answer": "البحرين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_133",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة العربية الأكثر عدداً بالسكان؟",
+    "answer": "مصر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_134",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي استضافت كأس العالم لكرة القدم عام 2022؟",
+    "answer": "قطر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_135",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي استضافت أولمبياد 2016؟",
+    "answer": "البرازيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_136",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي استضافت أولمبياد طوكيو 2020؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_137",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها تمثال أبو الهول؟",
+    "answer": "مصر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_138",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تحتضن مدينة القدس الشريف؟",
+    "answer": "فلسطين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_139",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها مدينة البتراء الأثرية؟",
+    "answer": "الأردن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_140",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي كانت تُعرف تاريخياً ببلاد الرافدين؟",
+    "answer": "العراق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_141",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي لغتها الرسمية الفارسية؟",
+    "answer": "إيران",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_142",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع عاصمتها على مضيق البوسفور؟",
+    "answer": "تركيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_143",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها جبل كليمنجارو؟",
+    "answer": "تنزانيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_144",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها أهرامات تشيتشن إيتزا؟",
+    "answer": "المكسيك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_145",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يُطلق عليها بلاد الفراعنة؟",
+    "answer": "مصر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_146",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تشتهر بأبراج بتروناس التوأم؟",
+    "answer": "ماليزيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_147",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها برج طوكيو الشهير؟",
+    "answer": "اليابان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_148",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تشتهر بحديقة الجرف المرجاني العظيم؟",
+    "answer": "أستراليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_149",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها متحف اللوفر؟",
+    "answer": "فرنسا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_150",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تشتهر بمدينة البتراء الوردية؟",
+    "answer": "الأردن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_151",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تحتضن أعلى قمة جبلية في أفريقيا؟",
+    "answer": "تنزانيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_152",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها المسجد النبوي الشريف؟",
+    "answer": "المملكة العربية السعودية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_153",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي يقع فيها المسجد الأقصى؟",
+    "answer": "فلسطين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_154",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تشتهر بصناعة الساعات وبنوكها العالمية؟",
+    "answer": "سويسرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_155",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تُعرف ببلد الشمس المشرقة وتشتهر بزهور الساكورا؟",
+    "answer": "اليابان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_156",
+    "category": "geography",
+    "subcategory": "ما هي الدولة؟",
+    "question": "ما اسم الدولة التي تقع فيها غابات الأمازون بأكبر مساحة؟",
+    "answer": "البرازيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_157",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر بنجمة بيضاء خماسية وهلال أبيض. ما اسم هذه الدولة؟",
+    "answer": "تركيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_158",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أخضر بهلال أبيض ونجمة بيضاء خماسية في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "باكستان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_159",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية: أحمر، أبيض، أسود بدون أي رمز. ما اسم هذه الدولة؟",
+    "answer": "اليمن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_160",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة عمودية متساوية: أزرق، أبيض، أحمر. ما اسم هذه الدولة؟",
+    "answer": "فرنسا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_161",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية: أسود، أحمر، أصفر. ما اسم هذه الدولة؟",
+    "answer": "ألمانيا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_162",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: خلفية بيضاء بدائرة حمراء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "اليابان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_163",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر بالكامل مع نجمة خماسية خضراء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "المغرب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_164",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر بدائرة بيضاء تتوسطها هلال ونجمة حمراء. ما اسم هذه الدولة؟",
+    "answer": "تونس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_165",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أخضر أبيض أسود مع مثلث أحمر عند السارية ونجمة بيضاء سباعية. ما اسم هذه الدولة؟",
+    "answer": "الأردن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_166",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أخضر أبيض أسود مع شريط أحمر عمودي عند السارية. ما اسم هذه الدولة؟",
+    "answer": "الإمارات العربية المتحدة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_167",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أخضر أبيض أحمر مع مثلث أسود عند السارية. ما اسم هذه الدولة؟",
+    "answer": "الكويت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_168",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أسود أبيض أخضر مع مثلث أحمر عند السارية. ما اسم هذه الدولة؟",
+    "answer": "فلسطين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_169",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أخضر بالكامل مع الشهادتين وسيف أبيض تحتها. ما اسم هذه الدولة؟",
+    "answer": "المملكة العربية السعودية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_170",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أبيض وعنّابي (كستنائي) بخط متعرج بينهما. ما اسم هذه الدولة؟",
+    "answer": "قطر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_171",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أبيض وأحمر بخط متعرج مسنن. ما اسم هذه الدولة؟",
+    "answer": "البحرين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_172",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر أبيض أخضر بشريط أحمر عند السارية وخنجر متقاطع مع سيفين. ما اسم هذه الدولة؟",
+    "answer": "عُمان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_173",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: نصفان عموديان أبيض وأخضر مع هلال ونجمة حمراء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "الجزائر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_174",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أسود أخضر مع هلال ونجمة بيضاء في الشريط الأسود. ما اسم هذه الدولة؟",
+    "answer": "ليبيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_175",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أسود مع مثلث أخضر عند السارية. ما اسم هذه الدولة؟",
+    "answer": "السودان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_176",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أسود مع نجمتين خضراوين في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "سوريا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_177",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أسود مع عبارة دينية مكتوبة بالخط الأخضر في الوسط. ما اسم هذه الدولة؟",
+    "answer": "العراق",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_178",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أحمر مع شجرة أرز خضراء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "لبنان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_179",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: خطوط حمراء وبيضاء أفقية مع مربع أزرق يحوي نجوماً بيضاء. ما اسم هذه الدولة؟",
+    "answer": "الولايات المتحدة الأمريكية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_180",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أزرق داكن مع صليبين أحمر وأبيض متقاطعين. ما اسم هذه الدولة؟",
+    "answer": "بريطانيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_181",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أبيض وأحمر مع ورقة قيقب حمراء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "كندا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_182",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة عمودية أخضر أبيض أحمر. ما اسم هذه الدولة؟",
+    "answer": "إيطاليا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_183",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر وأصفر أفقياً مع شعار نبالة في الجهة اليسرى. ما اسم هذه الدولة؟",
+    "answer": "إسبانيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_184",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: نصفان عموديان أخضر وأحمر مع درع في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "البرتغال",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_185",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أبيض أزرق أحمر. ما اسم هذه الدولة؟",
+    "answer": "روسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_186",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر بالكامل مع خمس نجوم صفراء، واحدة كبيرة وأربع صغيرة. ما اسم هذه الدولة؟",
+    "answer": "الصين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_187",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية برتقالي أبيض أخضر مع عجلة زرقاء في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "الهند",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_188",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أخضر بالكامل مع معين أصفر بداخله كرة زرقاء ونجوم بيضاء. ما اسم هذه الدولة؟",
+    "answer": "البرازيل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_189",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أزرق فاتح أبيض أزرق فاتح مع شمس ذهبية في الوسط. ما اسم هذه الدولة؟",
+    "answer": "الأرجنتين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_190",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: علم متعدد الألوان على شكل حرف Y. ما اسم هذه الدولة؟",
+    "answer": "جنوب أفريقيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_191",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أزرق داكن مع علم بريطانيا في الزاوية ونجمة كبيرة ونجوم صليب الجنوب. ما اسم هذه الدولة؟",
+    "answer": "أستراليا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_192",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أزرق وأبيض بخطوط أفقية مع صليب أبيض في الزاوية العلوية. ما اسم هذه الدولة؟",
+    "answer": "اليونان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_193",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: مربع أحمر بصليب أبيض في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "سويسرا",
+    "difficulty": "easy"
+  },
+  {
+    "id": "geography_fill_194",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أزرق. ما اسم هذه الدولة؟",
+    "answer": "هولندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_195",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة عمودية أسود أصفر أحمر. ما اسم هذه الدولة؟",
+    "answer": "بلجيكا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_196",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة أفقية أحمر أبيض أحمر بدون أي رمز. ما اسم هذه الدولة؟",
+    "answer": "النمسا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_197",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: خلفية بيضاء بدائرة حمراء وزرقاء متعانقة (تايجيغوك) وأربع مجموعات خطوط سوداء بالزوايا. ما اسم هذه الدولة؟",
+    "answer": "كوريا الجنوبية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_198",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر مع نجمة حمراء داخل دائرة بيضاء بين شريطين أزرقين رفيعين. ما اسم هذه الدولة؟",
+    "answer": "كوريا الشمالية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_199",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: نصفان أفقيان أحمر وأبيض فقط بدون أي رمز. ما اسم هذه الدولة؟",
+    "answer": "إندونيسيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_200",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر بالكامل مع مربع أزرق في الزاوية يحوي هلالاً ونجمة صفراء بأربعة عشر شعاعاً. ما اسم هذه الدولة؟",
+    "answer": "ماليزيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "geography_fill_201",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أزرق مع صليب أصفر ممتد إلى حواف العلم. ما اسم هذه الدولة؟",
+    "answer": "السويد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_202",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أبيض مع صليب أزرق ممتد إلى حواف العلم. ما اسم هذه الدولة؟",
+    "answer": "فنلندا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_203",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر مع صليب أبيض ممتد إلى حواف العلم. ما اسم هذه الدولة؟",
+    "answer": "الدنمارك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_204",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: أحمر مع صليب أزرق محاط بحدود بيضاء. ما اسم هذه الدولة؟",
+    "answer": "النرويج",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_205",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: خلفية زرقاء فاتحة بنجمة بيضاء خماسية في المنتصف. ما اسم هذه الدولة؟",
+    "answer": "الصومال",
+    "difficulty": "medium"
+  },
+  {
+    "id": "geography_fill_206",
+    "category": "geography",
+    "subcategory": "أعلام",
+    "question": "صف العلم التالي: ثلاثة أشرطة عمودية أخضر أبيض أخضر بدون أي رمز. ما اسم هذه الدولة؟",
+    "answer": "نيجيريا",
+    "difficulty": "medium"
+  }
+]

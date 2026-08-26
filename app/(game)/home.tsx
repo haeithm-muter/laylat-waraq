@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { View, Text, StyleSheet, Pressable, Animated } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { router } from 'expo-router';
 import { LinearGradient } from 'expo-linear-gradient';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors } from '@/theme/colors';
@@ -15,10 +16,8 @@ export default function HomeScreen() {
   const user = useAuthStore((s) => s.user);
   const theme = useActiveCardTheme();
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const [comingSoon, setComingSoon] = useState(false);
 
   const pulse = useRef(new Animated.Value(0)).current;
-  const toastOpacity = useRef(new Animated.Value(0)).current;
 
   const displayName = user?.displayName || user?.email?.split('@')[0] || 'ضيف';
 
@@ -33,15 +32,7 @@ export default function HomeScreen() {
     return () => loop.stop();
   }, [pulse]);
 
-  const onPlayPress = () => {
-    // مود اختيار السيرفر/اللعب المحلي يُبنى في اليوم الثاني — لسه ما وصلنا له.
-    setComingSoon(true);
-    Animated.sequence([
-      Animated.timing(toastOpacity, { toValue: 1, duration: 200, useNativeDriver: true }),
-      Animated.delay(1600),
-      Animated.timing(toastOpacity, { toValue: 0, duration: 300, useNativeDriver: true }),
-    ]).start(() => setComingSoon(false));
-  };
+  const onPlayPress = () => router.push('/(game)/mode-select');
 
   const glowScale = pulse.interpolate({ inputRange: [0, 1], outputRange: [1, 1.18] });
   const glowOpacity = pulse.interpolate({ inputRange: [0, 1], outputRange: [0.45, 0.05] });
@@ -82,10 +73,6 @@ export default function HomeScreen() {
               <Text style={[styles.ctaLabel, { color: theme.onAccent }]}>لنلعب!</Text>
             </View>
           </Pressable>
-
-          <Animated.View style={[styles.toast, { opacity: toastOpacity }]} pointerEvents="none">
-            <Text style={styles.toastText}>قريباً — اختيار وضع اللعب 🎉</Text>
-          </Animated.View>
         </View>
       </SafeAreaView>
 
@@ -165,22 +152,6 @@ const styles = StyleSheet.create({
     marginTop: spacing.xs,
     fontFamily: fontFamily.black,
     fontSize: 24,
-    writingDirection: 'rtl',
-  },
-  toast: {
-    position: 'absolute',
-    bottom: -56,
-    backgroundColor: 'rgba(8, 20, 16, 0.85)',
-    paddingHorizontal: spacing.md,
-    paddingVertical: spacing.sm,
-    borderRadius: radius.pill,
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-  toastText: {
-    fontFamily: fontFamily.semiBold,
-    fontSize: 13,
-    color: colors.textOnDark,
     writingDirection: 'rtl',
   },
 });

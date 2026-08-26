@@ -1,0 +1,3194 @@
+[
+  {
+    "id": "science_1",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو الرمز الكيميائي للماء؟",
+    "answer": "H2O",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_5",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو الرمز الكيميائي للذهب؟",
+    "answer": "Au",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_001",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الغاز الذي يتنفسه الإنسان؟",
+    "answer": "الأكسجين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_002",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما مصدر الضوء الطبيعي على الأرض؟",
+    "answer": "الشمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_003",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "كم عدد الكواكب في المجموعة الشمسية؟",
+    "answer": "8 كواكب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_004",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما العضو المسؤول عن ضخ الدم في جسم الإنسان؟",
+    "answer": "القلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_005",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الحيوان الذي يبيض ولا يلد؟",
+    "answer": "الطيور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_006",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الكوكب الأقرب إلى الشمس؟",
+    "answer": "عطارد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_007",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الحالة التي يكون عليها الماء عند درجة الصفر؟",
+    "answer": "الحالة الصلبة (الثلج)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_008",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما أكبر عضو في جسم الإنسان؟",
+    "answer": "الجلد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_009",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما اسم العملية التي تقوم فيها النباتات بصنع غذائها؟",
+    "answer": "البناء الضوئي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_010",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو الغاز الذي يخرج من الإنسان أثناء الزفير؟",
+    "answer": "ثاني أكسيد الكربون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_011",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الكوكب الأكثر حرارة في نظامنا الشمسي؟",
+    "answer": "الزهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_012",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ماذا ُيسمى مركز الذرة؟",
+    "answer": "النواة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_013",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما العضو الذي يستخدمه الإنسان في التنفس؟",
+    "answer": "الرئتان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_014",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ماذا ُتسمى الحيوانات التي تتغذى على النباتات فقط؟",
+    "answer": "العاشبة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_015",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الجزء في جسم الإنسان الذي يحتوي على أكبر عدد من العظام؟",
+    "answer": "اليدان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_016",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو أكبر حيوان بري؟",
+    "answer": "الفيل الأفريقي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_017",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو النجم الأقرب إلى كوكب الأرض؟",
+    "answer": "الشمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_018",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو المعدن الوحيد الذي يكون سائالفيً درجة حرارة الغرفة؟",
+    "answer": "الزئبق",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_019",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الرمز الكيميائي لعنصر الأكسجين؟",
+    "answer": "O",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_020",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما القوة التي ُتبقينا على سطح الأرض؟",
+    "answer": "الجاذبية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_general_021",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما ثاني أكثر عنصر وفرة في القشرة الأرضية؟",
+    "answer": "السيليكون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_022",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما اسم العالم الذي اقترح لأول مرة نموذج مركزية الشمس؟",
+    "answer": "نيكولاس كوبرنيكوس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_023",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما المصطلح الذي يعّبر عن مقدار الطاقة اللازمة لانتزاع إلكترون؟",
+    "answer": "طاقة التأين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_024",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما اسم الظاهرة التي تسبب انحناء الضوء حول الأجسام الضخمة؟",
+    "answer": "عدسات الجاذبية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_025",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما المبدأ الذي يفّسر كيفية توليد الطائرة لقوة الرفع؟",
+    "answer": "مبدأ برنولي",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_026",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو العنصر الذي يوجد في جميع المركبات العضوية؟",
+    "answer": "الكربون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_027",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما اسم الهرمون الذي ينّظم دورة النوم والاستيقاظ؟",
+    "answer": "الميلاتونين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_028",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما القانون الذي ينّص على أن الإنتروبيا في نظام مغلق لا يمكن أن تنخفض؟",
+    "answer": "القانون الثاني للديناميكا الحرارية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_029",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما الرمز الكيميائي لعنصر الفضة؟",
+    "answer": "Ag",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_030",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما أكثر الغازات وفرة في الغلاف الجوي للأرض؟",
+    "answer": "النيتروجين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_031",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هي درجة الحموضة (pH) للمحلول المتعادل؟",
+    "answer": "7",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_032",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "كم عدد العناصر الموجودة في الجدول الدوري؟",
+    "answer": "118 عنصراً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_033",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو العنصر الأكثر وفرة في الكون؟",
+    "answer": "الهيدروجين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_034",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو أكبر عضو داخلي في جسم الإنسان؟",
+    "answer": "الكبد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_035",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو المكون الرئيسي في إنتاج الطاقة النووية؟",
+    "answer": "اليورانيوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_036",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو اسم أكبر مجرة معروفة؟",
+    "answer": "IC 1101",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_037",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو أكبر شريان في جسم الإنسان؟",
+    "answer": "الأبهر (الأورطي)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_038",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "أي فيتامين يتم إنتاجه عندما يتعرض الجلد لأشعة الشمس؟",
+    "answer": "فيتامين د",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_039",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "كم عدد العظام في جسم الإنسان؟",
+    "answer": "206 عظمة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_040",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هي الحواس الخمس؟",
+    "answer": "الشم، اللمس، التذوق، السمع، البصر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_general_041",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "أي ولاية أمريكية لديها أكبر عدد من البراكين؟",
+    "answer": "ألاسكا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_042",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "أي دولة هي الوحيدة التي تحد كالمنً المحيط الأطلسي والمحيط الهندي؟",
+    "answer": "جنوب أفريقيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_043",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هي عاصمة بوتان؟",
+    "answer": "تيمفو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_044",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو الطعام الذي لا يفسد أبداً؟",
+    "answer": "العسل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_045",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو أكبر كوكب في النظام الشمسي؟",
+    "answer": "المشتري",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_046",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو اسم أطول نهر في العالم؟",
+    "answer": "النيل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_047",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "من هو الفنان الذي قام برسم لوحة الموناليزا؟",
+    "answer": "ليوناردو دا فينشي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_048",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هي أصغر دولة في العالم من حيث المساحة؟",
+    "answer": "الفاتيكان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_049",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو اسم الصحراء التي تغطي معظم شمال أفريقيا؟",
+    "answer": "الصحراء الكبرى",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_general_050",
+    "category": "science",
+    "subcategory": "علوم عامة",
+    "question": "ما هو أكبر حيوان ثديي في العالم؟",
+    "answer": "الحوت الأزرق",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_001",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 9 + 7؟",
+    "answer": "16",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_002",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم عدد أصابع اليد؟",
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_003",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كان لديك 2ريال وأضفت له 3ريالات، كم لديك؟",
+    "answer": "5 ريالات",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_004",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 3 × 2؟",
+    "answer": "6",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_005",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم تساوي 60دقيقة؟",
+    "answer": "ساعة واحدة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_006",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا استيقظت الساعة 7صباحاً، وبعد ساعة ذهبت إلى المدرسة، كم كانت الساعة؟",
+    "answer": "8 صباحاً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_007",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما العدد الذي يلي 19؟",
+    "answer": "20",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_008",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو ناتج 100 ÷ 10؟",
+    "answer": "10",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_009",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 5 + 5؟",
+    "answer": "10",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_010",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 8 - 3؟",
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_011",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 4 × 4؟",
+    "answer": "16",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_012",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 15 ÷ 3؟",
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_013",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 10 + 10؟",
+    "answer": "20",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_014",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 20 - 5؟",
+    "answer": "15",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_015",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 2 × 6؟",
+    "answer": "12",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_016",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 18 ÷ 6؟",
+    "answer": "3",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_017",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 7 + 9؟",
+    "answer": "16",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_018",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 25 - 10؟",
+    "answer": "15",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_019",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 7 × 3؟",
+    "answer": "21",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_020",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 30 ÷ 5؟",
+    "answer": "6",
+    "difficulty": "easy"
+  },
+  {
+    "id": "math_021",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كانت س +ص = 10، وس – ص = 2، فما قيمة س وص؟",
+    "answer": "س = 6، ص = 4",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_022",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما العدد الذي إذا ضرب في 3ثم أضفنا له 7كان الناتج 28؟",
+    "answer": "7",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_023",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم عدد الأرقام الفردية بين 10و30؟",
+    "answer": "10 أرقام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_024",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم تساوي ()10 ÷ 5( × )2 + 6؟",
+    "answer": "16",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_025",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو عرض المستطيل الذي مساحته 48سم ²وطوله 8سم؟",
+    "answer": "6 سم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_026",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو الرقم التالي في السلسلة: 1، 4، 9، 16؟",
+    "answer": "25",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_027",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم تكون الساعة بعد 250دقيقة من الساعة 3مساءً؟",
+    "answer": "7:10 مساءً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_028",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كان محيط دائرة = 31.4سم، فما قطرها؟",
+    "answer": "10 سم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_029",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 12 × 12؟",
+    "answer": "144",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_030",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 144 ÷ 12؟",
+    "answer": "12",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_031",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 25 + 15؟",
+    "answer": "40",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_032",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 50 - 25؟",
+    "answer": "25",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_033",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 9 × 8؟",
+    "answer": "72",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_034",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 81 ÷ 9؟",
+    "answer": "9",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_035",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 50 + 100؟",
+    "answer": "150",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_036",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 100 - 200؟",
+    "answer": "100",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_037",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 11 × 11؟",
+    "answer": "121",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_038",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 11 ÷ 121؟",
+    "answer": "11",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_039",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 13 × 13؟",
+    "answer": "169",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_040",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 169 ÷ 13؟",
+    "answer": "13",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_041",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 14 × 14؟",
+    "answer": "196",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_042",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 196 ÷ 14؟",
+    "answer": "14",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_043",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 15 × 15؟",
+    "answer": "225",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_044",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 225 ÷ 15؟",
+    "answer": "15",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_045",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 16 × 16؟",
+    "answer": "256",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_046",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 256 ÷ 16؟",
+    "answer": "16",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_047",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما ناتج 17 × 17؟",
+    "answer": "289",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_048",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 289 ÷ 17؟",
+    "answer": "17",
+    "difficulty": "medium"
+  },
+  {
+    "id": "math_049",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو الجذر التربيعي لـ 625؟",
+    "answer": "25",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_050",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كان 3س + 5 = 20، فما قيمة س؟",
+    "answer": "5",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_051",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو حاصل ضرب 25 × 25؟",
+    "answer": "625",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_052",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم يساوي 1000 ÷ 8؟",
+    "answer": "125",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_053",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو العدد الأولي الذي يلي 97؟",
+    "answer": "101",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_054",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كان محيط مربع = 36سم، فما مساحته؟",
+    "answer": "81 سم²",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_055",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو حاصل جمع الأرقام من 1إلى 10؟",
+    "answer": "55",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_056",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "كم عدد أضلاع الشكل السداسي؟",
+    "answer": "6 أضلاع",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_057",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "ما هو حاصل ضرب 15 × 12؟",
+    "answer": "180",
+    "difficulty": "hard"
+  },
+  {
+    "id": "math_058",
+    "category": "science",
+    "subcategory": "رياضيات",
+    "question": "إذا كان 2س = 18، فما قيمة س؟",
+    "answer": "9",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_001",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو المسؤول عن تنقية الدم؟",
+    "answer": "الكلى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_002",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "كم عدد أسنان الإنسان البالغ؟",
+    "answer": "32 سناً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_003",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو الفيتامين الذي يساعد على تجلط الدم؟",
+    "answer": "فيتامين ك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_004",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم المرض الناتج عن نقص الحديد؟",
+    "answer": "فقر الدم (الأنيميا)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_005",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز الأنسولين؟",
+    "answer": "البنكرياس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_006",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو أكبر شريان في جسم الإنسان؟",
+    "answer": "الشريان الأبهر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_007",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون النمو؟",
+    "answer": "الغدة النخامية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_008",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "كم عدد غرف القلب؟",
+    "answer": "4 غرف",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_009",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو الفيتامين الذي يساعد على الرؤية؟",
+    "answer": "فيتامين أ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_010",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم العظام التي تحمي الدماغ؟",
+    "answer": "الجمجمة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_011",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يخزن الصفراء؟",
+    "answer": "المرارة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_012",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو الهرمون المسؤول عن تنظيم السكر في الدم؟",
+    "answer": "الأنسولين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_013",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم المرض الناتج عن ارتفاع ضغط الدم؟",
+    "answer": "ارتفاع ضغط الدم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_014",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي ينتج كرات الدم الحمراء؟",
+    "answer": "نخاع العظم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_015",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو الفيتامين الذي يساعد على امتصاص الكالسيوم؟",
+    "answer": "فيتامين د",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_016",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز الأدرينالين؟",
+    "answer": "الغدة الكظرية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_017",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يهضم الطعام؟",
+    "answer": "المعدة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_018",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص فيتامين ج؟",
+    "answer": "الإسقربوط",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_019",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي ينظم درجة حرارة الجسم؟",
+    "answer": "الجلد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_020",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو الفيتامين الذي يساعد على تقوية العظام؟",
+    "answer": "فيتامين د",
+    "difficulty": "easy"
+  },
+  {
+    "id": "medicine_021",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم العملية الجراحية لإزالة المرارة؟",
+    "answer": "استئصال المرارة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_022",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن تلف خلايا الكبد؟",
+    "answer": "تليف الكبد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_023",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز العصارة الصفراوية؟",
+    "answer": "الكبد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_024",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص فيتامين ب1؟",
+    "answer": "البري بري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_025",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون الثيروكسين؟",
+    "answer": "الغدة الدرقية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_026",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص اليود؟",
+    "answer": "تضخم الغدة الدرقية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_027",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون الأستروجين؟",
+    "answer": "المبيض",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_028",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الكالسيوم؟",
+    "answer": "هشاشة العظام",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_029",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون التستوستيرون؟",
+    "answer": "الخصية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_030",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص فيتامين ب3؟",
+    "answer": "البلاغرا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_031",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون الكورتيزول؟",
+    "answer": "الغدة الكظرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_032",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص فيتامين ب12؟",
+    "answer": "فقر الدم الخبيث",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_033",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون البرولاكتين؟",
+    "answer": "الغدة النخامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_034",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الزنك؟",
+    "answer": "تأخر النمو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_035",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون اللبتين؟",
+    "answer": "الخلايا الدهنية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_036",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص المغنيسيوم؟",
+    "answer": "تشنجات عضلية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_037",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون الميلاتونين؟",
+    "answer": "الغدة الصنوبرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_038",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص البوتاسيوم؟",
+    "answer": "ضعف العضلات",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_039",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون الغريلين؟",
+    "answer": "المعدة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_040",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الصوديوم؟",
+    "answer": "انخفاض الصوديوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "medicine_041",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم المرض الناتج عن نقص النحاس؟",
+    "answer": "فقر الدم",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_042",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص السيلينيوم؟",
+    "answer": "مرض كيشان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_043",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون الإريثروبويتين؟",
+    "answer": "الكلى",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_044",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الفوسفور؟",
+    "answer": "لين العظام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_045",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون الكالسيتونين؟",
+    "answer": "الغدة الدرقية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_046",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص المنغنيز؟",
+    "answer": "تشوهات العظام",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_047",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما العضو الذي يفرز هرمون الأنجيوتنسين؟",
+    "answer": "الكبد",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_048",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الكروم؟",
+    "answer": "مقاومة الأنسولين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_049",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما اسم الغدة التي تفرز هرمون الباراثورمون؟",
+    "answer": "الغدة جار الدرقية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "medicine_050",
+    "category": "science",
+    "subcategory": "طب",
+    "question": "ما هو اسم المرض الناتج عن نقص الموليبدينوم؟",
+    "answer": "تأخر النمو",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_001",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار كلمة \"كمبيوتر\"؟",
+    "answer": "PC",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_002",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم نظام التشغيل الذي طورته شركة مايكروسوفت؟",
+    "answer": "ويندوز",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_003",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اسم محرك البحث الأكثر استخداماً؟",
+    "answer": "جوجل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_004",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم الشركة التي طورت نظام iOS؟",
+    "answer": "آبل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_005",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"شبكة الإنترنت\"؟",
+    "answer": "WWW",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_006",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج معالجة النصوص من مايكروسوفت؟",
+    "answer": "وورد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_007",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اسم برنامج الجداول الحسابية من مايكروسوفت؟",
+    "answer": "إكسل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_008",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم شركة أمازون؟",
+    "answer": "أمازون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_009",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"الذاكرة العشوائية\"؟",
+    "answer": "RAM",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_010",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم جهاز الإدخال الرئيسي؟",
+    "answer": "لوحة المفاتيح",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_011",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اسم جهاز الإخراج الرئيسي؟",
+    "answer": "الشاشة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_012",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج التصفح من مايكروسوفت؟",
+    "answer": "إيدج",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_013",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"قراءة فقط\"؟",
+    "answer": "ROM",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_014",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم شركة فيسبوك؟",
+    "answer": "فيسبوك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_015",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اسم نظام التشغيل المفتوح المصدر؟",
+    "answer": "لينكس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_016",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج العروض التقديمية من مايكروسوفت؟",
+    "answer": "باوربوينت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_017",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"القرص الصلب\"؟",
+    "answer": "HDD",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_018",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم شركة تويتر؟",
+    "answer": "تويتر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_019",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اسم برنامج التواصل الفوري من فيسبوك؟",
+    "answer": "واتساب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_020",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم شركة جوجل؟",
+    "answer": "جوجل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "it_021",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"وحدة المعالجة المركزية\"؟",
+    "answer": "CPU",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_022",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "من طور لغة البرمجة Java؟",
+    "answer": "جيمس غوسلينغ",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_023",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"لغة الترميز النصي\"؟",
+    "answer": "HTML",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_024",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "من طور لغة البرمجة Python؟",
+    "answer": "غيدو فان روسم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_025",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"قاعدة البيانات\"؟",
+    "answer": "DB",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_026",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج إدارة قواعد البيانات من مايكروسوفت؟",
+    "answer": "أكسس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_027",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"شبكة محلية\"؟",
+    "answer": "LAN",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_028",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج التصميم من أدوبي؟",
+    "answer": "فوتوشوب",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_029",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"بروتوكول نقل النص\"؟",
+    "answer": "HTTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_030",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج تحرير الفيديو من أدوبي؟",
+    "answer": "بريمير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_031",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"بروتوكول نقل الملفات\"؟",
+    "answer": "FTP",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_032",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج الرسم من مايكروسوفت؟",
+    "answer": "بينت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_033",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"نظام إدارة قواعد البيانات\"؟",
+    "answer": "DBMS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_034",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج التحرير النصي من مايكروسوفت؟",
+    "answer": "نوت باد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_035",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"لغة الاستعلام المهيكلة\"؟",
+    "answer": "SQL",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_036",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج إدارة المشاريع من مايكروسوفت؟",
+    "answer": "بروجيكت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_037",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"واجهة المستخدم الرسومية\"؟",
+    "answer": "GUI",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_038",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج التواصل من مايكروسوفت؟",
+    "answer": "تيمز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_039",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"نظام التشغيل\"؟",
+    "answer": "OS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_040",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج البريد الإلكتروني من مايكروسوفت؟",
+    "answer": "أوتلوك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "it_041",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"شبكة واسعة\"؟",
+    "answer": "WAN",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_042",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "من طور لغة البرمجة C++؟",
+    "answer": "بيارن ستروستروب",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_043",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"لغة البرمجة الهيكلية\"؟",
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_044",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "من طور لغة البرمجة JavaScript؟",
+    "answer": "برندان آيك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_045",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"واجهة برمجة التطبيقات\"؟",
+    "answer": "API",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_046",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج إدارة قواعد البيانات من أوراكل؟",
+    "answer": "أوراكل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_047",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"نظام إدارة المحتوى\"؟",
+    "answer": "CMS",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_048",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج إدارة قواعد البيانات من مايكروسوفت؟",
+    "answer": "SQL Server",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_049",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما هو اختصار \"شبكة افتراضية خاصة\"؟",
+    "answer": "VPN",
+    "difficulty": "hard"
+  },
+  {
+    "id": "it_050",
+    "category": "science",
+    "subcategory": "تكنولوجيا المعلومات",
+    "question": "ما اسم برنامج إدارة قواعد البيانات من IBM؟",
+    "answer": "DB2",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_001",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس القوة؟",
+    "answer": "نيوتن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_002",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن لكل فعل رد فعل؟",
+    "answer": "قانون نيوتن الثالث",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_003",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة؟",
+    "answer": "جول",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_004",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الجاذبية؟",
+    "answer": "إسحاق نيوتن",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_005",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس السرعة؟",
+    "answer": "متر/ثانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_006",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الطاقة لا تفنى ولا تستحدث؟",
+    "answer": "قانون حفظ الطاقة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_007",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الضغط؟",
+    "answer": "باسكال",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_008",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الكهرباء؟",
+    "answer": "بنجامين فرانكلين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_009",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس التيار الكهربائي؟",
+    "answer": "أمبير",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_010",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الجهد = التيار × المقاومة؟",
+    "answer": "قانون أوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_011",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس المقاومة؟",
+    "answer": "أوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_012",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف المغناطيسية؟",
+    "answer": "مايكل فاراداي",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_013",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الشحنة الكهربائية؟",
+    "answer": "كولوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_014",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن القوة = الكتلة × التسارع؟",
+    "answer": "قانون نيوتن الثاني",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_015",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الكتلة؟",
+    "answer": "كيلوجرام",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_016",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف النسبية؟",
+    "answer": "ألبرت أينشتاين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_017",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الزمن؟",
+    "answer": "ثانية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_018",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن المسافة = السرعة × الزمن؟",
+    "answer": "قانون الحركة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_019",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس المسافة؟",
+    "answer": "متر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_020",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الذرة؟",
+    "answer": "دالتون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "physics_021",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس التردد؟",
+    "answer": "هرتز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_022",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الطاقة = الكتلة × مربع سرعة الضوء؟",
+    "answer": "معادلة أينشتاين",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_023",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس القدرة؟",
+    "answer": "واط",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_024",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الإشعاع؟",
+    "answer": "ماري كوري",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_025",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الحرارة؟",
+    "answer": "كلفن",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_026",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الحرارة تنتقل من الجسم الساخن إلى البارد؟",
+    "answer": "قانون الديناميكا الحرارية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_027",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الضوء؟",
+    "answer": "شمعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_028",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الموجات الكهرومغناطيسية؟",
+    "answer": "جيمس كليرك ماكسويل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_029",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الصوت؟",
+    "answer": "ديسيبل",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_030",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الصوت ينتقل في الموجات؟",
+    "answer": "قانون الصوت",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_031",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الزاوية؟",
+    "answer": "درجة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_032",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس المجال المغناطيسي؟",
+    "answer": "تسلا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_033",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن المجال المغناطيسي يتناسب مع التيار؟",
+    "answer": "قانون أمبير",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_034",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس المجال الكهربائي؟",
+    "answer": "فولت/متر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_035",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الكهرباء المتحركة؟",
+    "answer": "نيكولا تسلا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_036",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة الكهربائية؟",
+    "answer": "كيلوواط ساعة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_037",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الطاقة الكهربائية = الجهد × التيار؟",
+    "answer": "قانون الطاقة الكهربائية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_038",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة الحرارية؟",
+    "answer": "جول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_039",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الحرارة النوعية؟",
+    "answer": "جوزيف بلاك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "physics_040",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة النووية؟",
+    "answer": "إلكترون فولت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_041",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الإشعاع؟",
+    "answer": "سيفرت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_042",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الانشطار النووي؟",
+    "answer": "أوتو هان",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_043",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الاندماج النووي؟",
+    "answer": "ميجا إلكترون فولت",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_044",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو القانون الذي ينص على أن الاندماج النووي = الطاقة × الكتلة؟",
+    "answer": "قانون الاندماج النووي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_045",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة الشمسية؟",
+    "answer": "كيلوواط",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_046",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف الخلايا الشمسية؟",
+    "answer": "ألكسندر إدموند بيكريل",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_047",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هي وحدة قياس الطاقة الريحية؟",
+    "answer": "كيلوواط",
+    "difficulty": "hard"
+  },
+  {
+    "id": "physics_048",
+    "category": "science",
+    "subcategory": "فيزياء",
+    "question": "ما هو اسم العالم الذي اكتشف طاقة الرياح؟",
+    "answer": "تشارلز براش",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_001",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو الرمز الكيميائي للماء؟",
+    "answer": "H₂O",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_002",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ O؟",
+    "answer": "الأكسجين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_003",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ H؟",
+    "answer": "الهيدروجين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_004",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ C؟",
+    "answer": "الكربون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_005",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ N؟",
+    "answer": "النيتروجين",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_006",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Na؟",
+    "answer": "الصوديوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_007",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Cl؟",
+    "answer": "الكلور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_008",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Fe؟",
+    "answer": "الحديد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_009",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Au؟",
+    "answer": "الذهب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_010",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Ag؟",
+    "answer": "الفضة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_011",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Cu؟",
+    "answer": "النحاس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_012",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Zn؟",
+    "answer": "الزنك",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_013",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Al؟",
+    "answer": "الألومنيوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_014",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Ca؟",
+    "answer": "الكالسيوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_015",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Mg؟",
+    "answer": "المغنيسيوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_016",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ K؟",
+    "answer": "البوتاسيوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_017",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ P؟",
+    "answer": "الفوسفور",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_018",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ S؟",
+    "answer": "الكبريت",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_019",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ He؟",
+    "answer": "الهيليوم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_020",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو العنصر الذي يرمز له بـ Ne؟",
+    "answer": "النيون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "chemistry_021",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته NaCl؟",
+    "answer": "كلوريد الصوديوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_022",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته CO₂؟",
+    "answer": "ثاني أكسيد الكربون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_023",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته H₂SO₄؟",
+    "answer": "حمض الكبريتيك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_024",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته HCl؟",
+    "answer": "حمض الهيدروكلوريك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_025",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته NaOH؟",
+    "answer": "هيدروكسيد الصوديوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_026",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته CaCO₃؟",
+    "answer": "كربونات الكالسيوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_027",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته CH₄؟",
+    "answer": "الميثان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_028",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₂H₆؟",
+    "answer": "الإيثان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_029",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₃H₈؟",
+    "answer": "البروبان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_030",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₄H₁₀؟",
+    "answer": "البيوتان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_031",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₁₂O₆؟",
+    "answer": "الجلوكوز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_032",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₁₂H₂₂O₁₁؟",
+    "answer": "السكروز",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_033",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₂H₅OH؟",
+    "answer": "الإيثانول",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_034",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته CH₃COOH؟",
+    "answer": "حمض الخليك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_035",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته NH₃؟",
+    "answer": "الأمونيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_036",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته HNO₃؟",
+    "answer": "حمض النيتريك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_037",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته H₃PO₄؟",
+    "answer": "حمض الفوسفوريك",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_038",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته Fe₂O₃؟",
+    "answer": "أكسيد الحديد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_039",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته Al₂O₃؟",
+    "answer": "أكسيد الألومنيوم",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_040",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته SiO₂؟",
+    "answer": "ثاني أكسيد السيليكون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "chemistry_041",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₅OH؟",
+    "answer": "الفينول",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_042",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₅NH₂؟",
+    "answer": "الأنيلين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_043",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₅COOH؟",
+    "answer": "حمض البنزويك",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_044",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₅CH₃؟",
+    "answer": "التولوين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_045",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₆H₆؟",
+    "answer": "البنزين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_046",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₁₀H₈؟",
+    "answer": "النفثالين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_047",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₁₄H₁₀؟",
+    "answer": "الأنثراسين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_048",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₁₈H₁₂؟",
+    "answer": "الكريسين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "chemistry_049",
+    "category": "science",
+    "subcategory": "كيمياء",
+    "question": "ما هو اسم المركب الذي صيغته C₁₆H₁₀؟",
+    "answer": "البيرين",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_001",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن التنفس في الإنسان؟",
+    "answer": "الرئتان",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_002",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن الهضم في الإنسان؟",
+    "answer": "المعدة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_003",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن ضخ الدم في الإنسان؟",
+    "answer": "القلب",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_004",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن تنقية الدم في الإنسان؟",
+    "answer": "الكلى",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_005",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج الأنسولين في الإنسان؟",
+    "answer": "البنكرياس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_006",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج الصفراء في الإنسان؟",
+    "answer": "الكبد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_007",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن تخزين الصفراء في الإنسان؟",
+    "answer": "المرارة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_008",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج الهرمونات في الإنسان؟",
+    "answer": "الغدد الصماء",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_009",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج كرات الدم الحمراء في الإنسان؟",
+    "answer": "نخاع العظم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_010",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج الصفائح الدموية في الإنسان؟",
+    "answer": "نخاع العظم",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_011",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج الهرمونات الجنسية في الإنسان؟",
+    "answer": "الغدد التناسلية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_012",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون النمو في الإنسان؟",
+    "answer": "الغدة النخامية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_013",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون الثيروكسين في الإنسان؟",
+    "answer": "الغدة الدرقية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_014",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون الأدرينالين في الإنسان؟",
+    "answer": "الغدة الكظرية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_015",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون الجلوكاجون في الإنسان؟",
+    "answer": "البنكرياس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_016",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون الكورتيزول في الإنسان؟",
+    "answer": "الغدة الكظرية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_017",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون الأستروجين في الإنسان؟",
+    "answer": "المبيض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_018",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو العضو المسؤول عن إنتاج هرمون التستوستيرون في الإنسان؟",
+    "answer": "الخصية",
+    "difficulty": "easy"
+  },
+  {
+    "id": "biology_019",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن نقل الأكسجين في الدم؟",
+    "answer": "كرات الدم الحمراء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_020",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن مكافحة العدوى في الدم؟",
+    "answer": "كرات الدم البيضاء",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_021",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن تجلط الدم؟",
+    "answer": "الصفائح الدموية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_022",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن نقل الإشارات العصبية؟",
+    "answer": "الخلايا العصبية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_023",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج الأنسولين؟",
+    "answer": "خلايا بيتا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_024",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج الجلوكاجون؟",
+    "answer": "خلايا ألفا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_025",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج الصفراء؟",
+    "answer": "خلايا الكبد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_026",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن تخزين الصفراء؟",
+    "answer": "خلايا المرارة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_027",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج الهرمونات الجنسية؟",
+    "answer": "خلايا الغدد التناسلية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_028",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون النمو؟",
+    "answer": "خلايا الغدة النخامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_029",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الثيروكسين؟",
+    "answer": "خلايا الغدة الدرقية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_030",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الأدرينالين؟",
+    "answer": "خلايا الغدة الكظرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_031",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الكورتيزول؟",
+    "answer": "خلايا الغدة الكظرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_032",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الأستروجين؟",
+    "answer": "خلايا المبيض",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_033",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون التستوستيرون؟",
+    "answer": "خلايا الخصية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_034",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون البرولاكتين؟",
+    "answer": "خلايا الغدة النخامية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_035",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الميلاتونين؟",
+    "answer": "خلايا الغدة الصنوبرية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_036",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون اللبتين؟",
+    "answer": "الخلايا الدهنية",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_037",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الغريلين؟",
+    "answer": "خلايا المعدة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_038",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الأنجيوتنسين؟",
+    "answer": "خلايا الكبد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "biology_039",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الإريثروبويتين؟",
+    "answer": "خلايا الكلى",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_040",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الكالسيتونين؟",
+    "answer": "خلايا الغدة الدرقية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_041",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الباراثورمون؟",
+    "answer": "خلايا الغدة جار الدرقية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_042",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الألدوستيرون؟",
+    "answer": "خلايا الغدة الكظرية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_043",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الفازوبريسين؟",
+    "answer": "خلايا الغدة النخامية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_044",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون الأوكسيتوسين؟",
+    "answer": "خلايا الغدة النخامية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "biology_045",
+    "category": "science",
+    "subcategory": "أحياء",
+    "question": "ما هو اسم الخلية المسؤولة عن إنتاج هرمون FSH؟",
+    "answer": "خلايا الغدة النخامية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "space_astronomy_001",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الثاني من الشمس؟",
+    "answer": "الزهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_002",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الثالث من الشمس؟",
+    "answer": "الأرض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_003",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الرابع من الشمس؟",
+    "answer": "المريخ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_004",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الخامس من الشمس؟",
+    "answer": "المشتري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_005",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب السادس من الشمس؟",
+    "answer": "زحل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_006",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب السابع من الشمس؟",
+    "answer": "أورانوس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_007",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الثامن من الشمس؟",
+    "answer": "نبتون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_008",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+    "answer": "المشتري",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_009",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+    "answer": "عطارد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_010",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الأكثر حرارة؟",
+    "answer": "الزهرة",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_011",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الأكثر برودة؟",
+    "answer": "نبتون",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_012",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الذي له حلقات؟",
+    "answer": "زحل",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_013",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الذي يسمى الكوكب الأحمر؟",
+    "answer": "المريخ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_014",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو الكوكب الذي يسمى الكوكب الأزرق؟",
+    "answer": "الأرض",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_015",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو النجم الأقرب إلى الأرض؟",
+    "answer": "الشمس",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_016",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو القمر الذي يدور حول الأرض؟",
+    "answer": "القمر",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_017",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عدد أقمار المشتري؟",
+    "answer": "79 قمراً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_018",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عدد أقمار زحل؟",
+    "answer": "82 قمراً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_019",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عدد أقمار أورانوس؟",
+    "answer": "27 قمراً",
+    "difficulty": "easy"
+  },
+  {
+    "id": "space_astronomy_020",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عدد أقمار نبتون؟",
+    "answer": "14 قمراً",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_021",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عدد أقمار المريخ؟",
+    "answer": "قمران",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_022",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو أكبر قمر في المجموعة الشمسية؟",
+    "answer": "غانيميد",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_023",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثاني أكبر قمر في المجموعة الشمسية؟",
+    "answer": "تيتان",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_024",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثالث أكبر قمر في المجموعة الشمسية؟",
+    "answer": "كاليستو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_025",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو رابع أكبر قمر في المجموعة الشمسية؟",
+    "answer": "آيو",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_026",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو خامس أكبر قمر في المجموعة الشمسية؟",
+    "answer": "القمر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_027",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو سادس أكبر قمر في المجموعة الشمسية؟",
+    "answer": "أوروبا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_028",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو سابع أكبر قمر في المجموعة الشمسية؟",
+    "answer": "تريتون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_029",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثامن أكبر قمر في المجموعة الشمسية؟",
+    "answer": "تيتانيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_030",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو تاسع أكبر قمر في المجموعة الشمسية؟",
+    "answer": "ريا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_031",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عاشر أكبر قمر في المجموعة الشمسية؟",
+    "answer": "أوبيرون",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_032",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "سيريس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_033",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثاني أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "فيستا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_034",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثالث أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "بالاس",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_035",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو رابع أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "هيجيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_036",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو خامس أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "إنترامنيا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_037",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو سادس أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "يوروبا",
+    "difficulty": "medium"
+  },
+  {
+    "id": "space_astronomy_038",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو سابع أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "ديفي",
+    "difficulty": "hard"
+  },
+  {
+    "id": "space_astronomy_039",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو ثامن أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "سلفيا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "space_astronomy_040",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو تاسع أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "إيونا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "space_astronomy_041",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما هو عاشر أكبر كويكب في المجموعة الشمسية؟",
+    "answer": "هيرميا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_space_extra_001",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما اسم الكوكب الأقرب إلى الشمس؟",
+    "answer": "عطارد",
+    "difficulty": "easy"
+  },
+  {
+    "id": "science_space_extra_002",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "أي كوكبين لا يملكان أقماراً؟",
+    "answer": "عطارد والزهرة",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_space_extra_003",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما اسم المنطقة الداكنة على سطح القمر؟",
+    "answer": "الماريا",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_space_extra_004",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما اسم المناطق الأفتح على سطح القمر؟",
+    "answer": "المرتفعات القمرية",
+    "difficulty": "hard"
+  },
+  {
+    "id": "science_space_extra_005",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "كم يبعد القمر عن الأرض تقريباً؟",
+    "answer": "نحو 384 ألف كيلومتر",
+    "difficulty": "medium"
+  },
+  {
+    "id": "science_space_extra_006",
+    "category": "science",
+    "subcategory": "فضاء وفلك",
+    "question": "ما اسم القوة التي تبقي الكواكب في مداراتها؟",
+    "answer": "الجاذبية",
+    "difficulty": "easy"
+  }
+]
